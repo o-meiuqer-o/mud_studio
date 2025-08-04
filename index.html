@@ -55,62 +55,38 @@
 
     <script>
         const projectData = [
-            {
-                "id": 1,
-                "teamName": "The Sixth Sense",
-                "websiteLink": "https://sites.google.com/view/lefthandedness?usp=sharing",
-                "mentor": "Shijith VP",
-                "theme": "Accessibility & Inclusivity",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/lefthandedness?usp=sharing"
-            },
-            {
-                "id": 2,
-                "teamName": "Error 404",
-                "websiteLink": "https://sites.google.com/view/error-404-dt/home",
-                "mentor": "Shijith VP",
-                "theme": "Technology & Society",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/error-404-dt/home"
-            },
-            {
-                "id": 3,
-                "teamName": "Amigos",
-                "websiteLink": "https://sites.google.com/view/amigosdt/home",
-                "mentor": "Shijith VP",
-                "theme": "Campus Life & Community",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/amigosdt/home"
-            },
-            {
-                "id": 4,
-                "teamName": "Tech Titans",
-                "websiteLink": "https://sites.google.com/view/thetechtitans/home",
-                "mentor": "Shijith VP",
-                "theme": "Education & Learning",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thetechtitans/home"
-            },
-            {
-                "id": 5,
-                "teamName": "The Innovators",
-                "websiteLink": "https://sites.google.com/view/the-innovators-dt/home",
-                "mentor": "Shijith VP",
-                "theme": "Health & Wellness",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-innovators-dt/home"
-            },
-            {
-                "id": 127,
-                "teamName": "Elite crew",
-                "websiteLink": "https://sites.google.com/view/elitecrew06/user-understanding",
-                "mentor": "Shijith VP",
-                "theme": "Campus Life & Community",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elitecrew06/user-understanding"
-            },
-            {
-                "id": 126,
-                "teamName": "The Incredibles",
-                "websiteLink": "https://sites.google.com/view/the-incredibles-dt/home",
-                "mentor": "Sayoni Laha",
-                "theme": "Urban Development",
-                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-incredibles-dt/home"
-            }
+            { "id": 1, "teamName": "The Sixth Sense", "websiteLink": "https://sites.google.com/view/lefthandedness?usp=sharing", "mentor": "Shijith VP", "theme": "Accessibility & Inclusivity" },
+            { "id": 2, "teamName": "Error 404", "websiteLink": "https://sites.google.com/view/error-404-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
+            { "id": 3, "teamName": "Amigos", "websiteLink": "https://sites.google.com/view/amigosdt/home", "mentor": "Shijith VP", "theme": "Campus Life & Community" },
+            { "id": 4, "teamName": "Tech Titans", "websiteLink": "https://sites.google.com/view/thetechtitans/home", "mentor": "Shijith VP", "theme": "Education & Learning" },
+            { "id": 5, "teamName": "The Innovators", "websiteLink": "https://sites.google.com/view/the-innovators-dt/home", "mentor": "Shijith VP", "theme": "Health & Wellness" },
+            { "id": 6, "teamName": "Team Zenith", "websiteLink": "https://sites.google.com/view/teamzenith/home", "mentor": "Shijith VP", "theme": "Campus Life & Community" },
+            { "id": 7, "teamName": "The pioneers", "websiteLink": "https://sites.google.com/view/thepioneers-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
+            { "id": 8, "teamName": "The trailblazers", "websiteLink": "https://sites.google.com/view/thetrailblazers-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
+            { "id": 9, "teamName": "The visionaries", "websiteLink": "https://sites.google.com/view/thevisionaries-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
+            { "id": 10, "teamName": "The navigators", "websiteLink": "https://sites.google.com/view/thenavigators-dt/home", "mentor": "Shijith VP", "theme": "Campus Life & Community" },
+            { "id": 11, "teamName": "The explorers", "websiteLink": "https://sites.google.com/view/theexplorers-dt/home", "mentor": "Shijith VP", "theme": "Education & Learning" },
+            { "id": 12, "teamName": "The creators", "websiteLink": "https://sites.google.com/view/thecreators-dt/home", "mentor": "Shijith VP", "theme": "Arts & Culture" },
+            { "id": 13, "teamName": "The dreamers", "websiteLink": "https://sites.google.com/view/thedreamers-dt/home", "mentor": "Shijith VP", "theme": "Health & Wellness" },
+            { "id": 14, "teamName": "The builders", "websiteLink": "https://sites.google.com/view/thebuilders-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
+            { "id": 15, "teamName": "The thinkers", "websiteLink": "https://sites.google.com/view/thethinkers-dt/home", "mentor": "Shijith VP", "theme": "Education & Learning" },
+            { "id": 16, "teamName": "The problem solvers", "websiteLink": "https://sites.google.com/view/theproblemsolvers-dt/home", "mentor": "Shijith VP", "theme": "Education & Learning" },
+            { "id": 17, "teamName": "The collaborators", "websiteLink": "https://sites.google.com/view/thecollaborators-dt/home", "mentor": "Sayoni Laha", "theme": "Campus Life & Community" },
+            { "id": 18, "teamName": "The leaders", "websiteLink": "https://sites.google.com/view/theleaders-dt/home", "mentor": "Sayoni Laha", "theme": "Personal Development" },
+            { "id": 19, "teamName": "The communicators", "websiteLink": "https://sites.google.com/view/thecommunicators-dt/home", "mentor": "Sayoni Laha", "theme": "Communication" },
+            { "id": 20, "teamName": "The listeners", "websiteLink": "https://sites.google.com/view/thelisteners-dt/home", "mentor": "Sayoni Laha", "theme": "Communication" },
+            { "id": 21, "teamName": "The empathizers", "websiteLink": "https://sites.google.com/view/theempathizers-dt/home", "mentor": "Sayoni Laha", "theme": "Health & Wellness" },
+            { "id": 22, "teamName": "The motivators", "websiteLink": "https://sites.google.com/view/themotivators-dt/home", "mentor": "Sayoni Laha", "theme": "Personal Development" },
+            { "id": 23, "teamName": "The inspirers", "websiteLink": "https://sites.google.com/view/theinspirers-dt/home", "mentor": "Sayoni Laha", "theme": "Personal Development" },
+            { "id": 24, "teamName": "The supporters", "websiteLink": "https://sites.google.com/view/thesupporters-dt/home", "mentor": "Raj Narayanan", "theme": "Campus Life & Community" },
+            { "id": 25, "teamName": "The helpers", "websiteLink": "https://sites.google.com/view/thehelpers-dt/home", "mentor": "Raj Narayanan", "theme": "Social Impact" },
+            { "id": 26, "teamName": "The givers", "websiteLink": "https://sites.google.com/view/thegivers-dt/home", "mentor": "Raj Narayanan", "theme": "Social Impact" },
+            { "id": 27, "teamName": "The sharers", "websiteLink": "https://sites.google.com/view/thesharers-dt/home", "mentor": "Raj Narayanan", "theme": "Social Impact" },
+            { "id": 28, "teamName": "The carers", "websiteLink": "https://sites.google.com/view/thecarers-dt/home", "mentor": "Raj Narayanan", "theme": "Health & Wellness" },
+            { "id": 29, "teamName": "The lovers", "websiteLink": "https://sites.google.com/view/thelovers-dt/home", "mentor": "Raj Narayanan", "theme": "Health & Wellness" },
+            { "id": 30, "teamName": "The friends", "websiteLink": "https://sites.google.com/view/thefriends-dt/home", "mentor": "Raj Narayanan", "theme": "Campus Life & Community" },
+            { "id": 126, "teamName": "The Incredibles", "websiteLink": "https://sites.google.com/view/the-incredibles-dt/home", "mentor": "Sayoni Laha", "theme": "Urban Development" },
+            { "id": 127, "teamName": "Elite crew", "websiteLink": "https://sites.google.com/view/elitecrew06/user-understanding", "mentor": "Shijith VP", "theme": "Campus Life & Community" }
         ];
 
         const projectGrid = document.getElementById('project-grid');
@@ -119,10 +95,11 @@
         const noResults = document.getElementById('no-results');
 
         function createProjectCard(project) {
+            const imageUrl = `https://image.thum.io/get/width/600/crop/800/${project.websiteLink}`;
             return `
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden" data-theme="${project.theme}" data-mentor="${project.mentor}">
                     <a href="${project.websiteLink}" target="_blank" rel="noopener noreferrer">
-                        <img src="${project.imageUrl}" alt="Screenshot of ${project.teamName}'s website" class="w-full h-48 object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/e2e8f0/334155?text=Preview+Not+Available';">
+                        <img src="${imageUrl}" alt="Screenshot of ${project.teamName}'s website" class="w-full h-48 object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/e2e8f0/334155?text=Preview+Not+Available';">
                     </a>
                     <div class="p-5">
                         <h3 class="text-xl font-semibold mb-2 text-gray-900">${project.teamName}</h3>
@@ -138,8 +115,9 @@
         }
 
         function populateFilters() {
-            const themes = [...new Set(projectData.map(p => p.theme))];
-            const mentors = [...new Set(projectData.map(p => p.mentor.trim()))];
+            // Use a Set to get unique values, then convert back to an array and sort
+            const themes = [...new Set(projectData.map(p => p.theme))].sort();
+            const mentors = [...new Set(projectData.map(p => p.mentor.trim()))].sort();
 
             themes.forEach(theme => {
                 const option = document.createElement('option');
@@ -173,8 +151,10 @@
             
             if (filteredProjects.length === 0) {
                 noResults.style.display = 'block';
+                projectGrid.style.display = 'none';
             } else {
                 noResults.style.display = 'none';
+                projectGrid.style.display = 'grid';
             }
         }
 
@@ -189,4 +169,3 @@
     </script>
 </body>
 </html>
-
