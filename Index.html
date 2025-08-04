@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Thinking Project Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .project-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-2">Design Thinking Projects</h1>
+            <p class="text-lg text-gray-600">A showcase of student projects from the last semester.</p>
+        </header>
+
+        <!-- Filters -->
+        <div class="flex flex-col md:flex-row justify-center items-center gap-4 mb-10">
+            <div class="w-full md:w-1/3">
+                <label for="theme-filter" class="block text-sm font-medium text-gray-700 mb-1">Filter by Theme</label>
+                <select id="theme-filter" class="w-full bg-white border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                    <option value="all">All Themes</option>
+                </select>
+            </div>
+            <div class="w-full md:w-1/3">
+                <label for="mentor-filter" class="block text-sm font-medium text-gray-700 mb-1">Filter by Mentor</label>
+                <select id="mentor-filter" class="w-full bg-white border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                    <option value="all">All Mentors</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Project Grid -->
+        <div id="project-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+            <!-- Project cards will be injected here -->
+        </div>
+        <div id="no-results" class="text-center text-gray-500 py-10" style="display: none;">
+            <h3 class="text-2xl font-semibold">No projects found</h3>
+            <p>Try adjusting your filters.</p>
+        </div>
+    </div>
+
+    <script>
+        const projectData = [
+            {
+                "id": 1,
+                "teamName": "The Sixth Sense",
+                "websiteLink": "https://sites.google.com/view/lefthandedness?usp=sharing",
+                "mentor": "Shijith VP",
+                "theme": "Accessibility & Inclusivity",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/lefthandedness?usp=sharing"
+            },
+            {
+                "id": 2,
+                "teamName": "Error 404",
+                "websiteLink": "https://sites.google.com/view/error-404-dt/home",
+                "mentor": "Shijith VP",
+                "theme": "Technology & Society",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/error-404-dt/home"
+            },
+            {
+                "id": 3,
+                "teamName": "Amigos",
+                "websiteLink": "https://sites.google.com/view/amigosdt/home",
+                "mentor": "Shijith VP",
+                "theme": "Campus Life & Community",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/amigosdt/home"
+            },
+            {
+                "id": 4,
+                "teamName": "Tech Titans",
+                "websiteLink": "https://sites.google.com/view/thetechtitans/home",
+                "mentor": "Shijith VP",
+                "theme": "Education & Learning",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thetechtitans/home"
+            },
+            {
+                "id": 5,
+                "teamName": "The Innovators",
+                "websiteLink": "https://sites.google.com/view/the-innovators-dt/home",
+                "mentor": "Shijith VP",
+                "theme": "Health & Wellness",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-innovators-dt/home"
+            },
+            {
+                "id": 127,
+                "teamName": "Elite crew",
+                "websiteLink": "https://sites.google.com/view/elitecrew06/user-understanding",
+                "mentor": "Shijith VP",
+                "theme": "Campus Life & Community",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elitecrew06/user-understanding"
+            },
+            {
+                "id": 126,
+                "teamName": "The Incredibles",
+                "websiteLink": "https://sites.google.com/view/the-incredibles-dt/home",
+                "mentor": "Sayoni Laha",
+                "theme": "Urban Development",
+                "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-incredibles-dt/home"
+            }
+        ];
+
+        const projectGrid = document.getElementById('project-grid');
+        const themeFilter = document.getElementById('theme-filter');
+        const mentorFilter = document.getElementById('mentor-filter');
+        const noResults = document.getElementById('no-results');
+
+        function createProjectCard(project) {
+            return `
+                <div class="project-card bg-white rounded-lg shadow-md overflow-hidden" data-theme="${project.theme}" data-mentor="${project.mentor}">
+                    <a href="${project.websiteLink}" target="_blank" rel="noopener noreferrer">
+                        <img src="${project.imageUrl}" alt="Screenshot of ${project.teamName}'s website" class="w-full h-48 object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/e2e8f0/334155?text=Preview+Not+Available';">
+                    </a>
+                    <div class="p-5">
+                        <h3 class="text-xl font-semibold mb-2 text-gray-900">${project.teamName}</h3>
+                        <p class="text-sm text-gray-600 mb-3"><strong>Mentor:</strong> ${project.mentor}</p>
+                        <span class="inline-block bg-indigo-100 text-indigo-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full">${project.theme}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        function displayProjects(projects) {
+            projectGrid.innerHTML = projects.map(createProjectCard).join('');
+        }
+
+        function populateFilters() {
+            const themes = [...new Set(projectData.map(p => p.theme))];
+            const mentors = [...new Set(projectData.map(p => p.mentor.trim()))];
+
+            themes.forEach(theme => {
+                const option = document.createElement('option');
+                option.value = theme;
+                option.textContent = theme;
+                themeFilter.appendChild(option);
+            });
+
+            mentors.forEach(mentor => {
+                const option = document.createElement('option');
+                option.value = mentor;
+                option.textContent = mentor;
+                mentorFilter.appendChild(option);
+            });
+        }
+
+        function filterProjects() {
+            const selectedTheme = themeFilter.value;
+            const selectedMentor = mentorFilter.value;
+            let filteredProjects = projectData;
+
+            if (selectedTheme !== 'all') {
+                filteredProjects = filteredProjects.filter(p => p.theme === selectedTheme);
+            }
+
+            if (selectedMentor !== 'all') {
+                filteredProjects = filteredProjects.filter(p => p.mentor.trim() === selectedMentor);
+            }
+
+            displayProjects(filteredProjects);
+            
+            if (filteredProjects.length === 0) {
+                noResults.style.display = 'block';
+            } else {
+                noResults.style.display = 'none';
+            }
+        }
+
+        // Initial setup
+        document.addEventListener('DOMContentLoaded', () => {
+            displayProjects(projectData);
+            populateFilters();
+
+            themeFilter.addEventListener('change', filterProjects);
+            mentorFilter.addEventListener('change', filterProjects);
+        });
+    </script>
+</body>
+</html>
+
