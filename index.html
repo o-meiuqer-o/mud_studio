@@ -75,8 +75,8 @@
     </div>
 
     <script>
-        // The URL to your raw CSV file on GitHub has been added.
-        const csvUrl = 'https://raw.githubusercontent.com/o-meiuqer-o/mud_studio/refs/heads/main/All%20projects%20consolidated%20raw-sheet1.csv'; 
+        // Corrected the URL to your raw CSV file on GitHub.
+        const csvUrl = 'https://raw.githubusercontent.com/o-meiuqer-o/mud_studio/main/All%20projects%20consolidated%20raw-sheet1.csv'; 
 
         let projectData = []; 
 
@@ -166,16 +166,12 @@
         }
 
         async function main() {
-            if (!csvUrl || csvUrl === 'PASTE_YOUR_RAW_GITHUB_CSV_URL_HERE') {
-                loaderContainer.style.display = 'none';
-                errorMessage.textContent = 'Error: Please paste the raw CSV URL from GitHub into the script.';
-                errorMessage.style.display = 'block';
-                return;
-            }
-
             try {
                 const response = await fetch(csvUrl);
-                if (!response.ok) throw new Error(`Network response failed: ${response.statusText}`);
+                if (!response.ok) {
+                    // This error will trigger if the URL is wrong (e.g., 404 Not Found)
+                    throw new Error(`Failed to fetch file: ${response.statusText}. Please check the CSV URL.`);
+                }
                 
                 const csvText = await response.text();
                 projectData = parseCSV(csvText);
@@ -192,7 +188,7 @@
                 mentorFilter.addEventListener('change', displayProjects);
 
             } catch (error) {
-                console.error('Failed to load or parse project data:', error);
+                console.error('Error loading project data:', error);
                 loaderContainer.style.display = 'none';
                 errorMessage.textContent = `Error: Could not load project data. ${error.message}`;
                 errorMessage.style.display = 'block';
