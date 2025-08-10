@@ -3,2808 +3,3276 @@ const projectData = [
         "teamName": "Octowash",
         "websiteLink": "https://sites.google.com/view/octowash/home?authuser=0",
         "mentor": "",
-        "description": "Our project aims to help improve the laundry situation on campus. Our final solution is a separate laundromat building for laundry, and we reached this conclusion after 10 weeks of talking to students and brainstorming."
+        "description": "Our project aims to help improve the laundry situation on campus. Our final solution is a separate laundromat building for laundry, and we reached this conclusion after 10 weeks of talking to students and brainstorming.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/octowash/home?authuser=0"
     },
     {
         "teamName": "The chamber of secrets",
         "websiteLink": "https://sites.google.com/view/hopeforpaws7/home",
         "mentor": "",
-        "description": "We have created a website where we want to create awareness about adoption of stray animals. People can report an issue which will be resolved by our volunteers as soon as possible."
+        "description": "We have created a website where we want to create awareness about adoption of stray animals. People can report an issue which will be resolved by our volunteers as soon as possible.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hopeforpaws7/home"
     },
     {
         "teamName": "Among Us",
         "websiteLink": "https://sites.google.com/view/degradation-of-lakes/faq?authuser=0",
         "mentor": "",
-        "description": "Lakes are important for various reasons, like regulating the flow of river water, storage of water during the dry seasons, to maintaining the eco-system, and also the generation of hydroelectric power. The different types of lakes in India are freshwater lakes and salt water lakes.So there are many problems faced by the society if we do not maintain our lakes properly soo we are here to survey about lakes and the problems faced by the residents nearby polluted lakes and find a solution. And also we are trying to spread awareness on the importance of lakes and their various uses to keep the natural ecosystem balanced.And also we are discussing with the officials on not dumping the waste in the lakes but to provide seperate space to dump waste."
+        "description": "Lakes are important for various reasons, like regulating the flow of river water, storage of water during the dry seasons, to maintaining the eco-system, and also the generation of hydroelectric power. The different types of lakes in India are freshwater lakes and salt water lakes.So there are many problems faced by the society if we do not maintain our lakes properly soo we are here to survey about lakes and the problems faced by the residents nearby polluted lakes and find a solution. And also we are trying to spread awareness on the importance of lakes and their various uses to keep the natural ecosystem balanced.And also we are discussing with the officials on not dumping the waste in the lakes but to provide seperate space to dump waste.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/degradation-of-lakes/faq?authuser=0"
     },
     {
         "teamName": "THE CLASSICISTS",
         "websiteLink": "https://sites.google.com/view/mu-e-library/home",
         "mentor": "",
-        "description": "We have developed an e-library website for Mahindra university. We wanted students to access the books easily. https://drive.google.com/drive/folders/1W_Pg1p0e8WrJ77vDlHVnxKtwvRvv1-p4 this is the link for accessing our recordings"
+        "description": "We have developed an e-library website for Mahindra university. We wanted students to access the books easily. https://drive.google.com/drive/folders/1W_Pg1p0e8WrJ77vDlHVnxKtwvRvv1-p4 this is the link for accessing our recordings",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mu-e-library/home"
     },
     {
         "teamName": "Team Arrow",
         "websiteLink": "https://sites.google.com/view/team-arrow1/home",
         "mentor": "",
-        "description": "Our main idea is to find out the problems in our university library and we plan to do this by talking to the students who  visit the library frequently and learn about their problems and also get the librarian's view on it and associate all the point,and propose a list of possible solutions and implement the best  of them."
+        "description": "Our main idea is to find out the problems in our university library and we plan to do this by talking to the students who  visit the library frequently and learn about their problems and also get the librarian's view on it and associate all the point,and propose a list of possible solutions and implement the best  of them.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-arrow1/home"
     },
     {
         "teamName": "BLACK CANVAS",
         "websiteLink": "https://sites.google.com/view/comparacio-dtl/home",
         "mentor": "",
-        "description": "The idea of our project is to create a website which displays the price comparison of the same product in different websites, as we noticed the variation of prices of same product in different websites. Our website lists out the best price comparison for any product that you want so that you can make the best decision possible considering the pros and cons."
+        "description": "The idea of our project is to create a website which displays the price comparison of the same product in different websites, as we noticed the variation of prices of same product in different websites. Our website lists out the best price comparison for any product that you want so that you can make the best decision possible considering the pros and cons.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/comparacio-dtl/home"
     },
     {
         "teamName": "Team relier",
         "websiteLink": "https://sites.google.com/view/teamrelier/home",
         "mentor": "",
-        "description": "Our aim is to Make the unorganized sector to be recognized and get benefitted from the corporate and organized world. It is easy for a transition in unorganized business to make a transition in business as there is no chain of employees to make decisions and it is mostly one man decision to decide what products to sell or not. So for them the transition is not a big deal but this can effect there lifestyle and income and life of their children and many more."
+        "description": "Our aim is to Make the unorganized sector to be recognized and get benefitted from the corporate and organized world. It is easy for a transition in unorganized business to make a transition in business as there is no chain of employees to make decisions and it is mostly one man decision to decide what products to sell or not. So for them the transition is not a big deal but this can effect there lifestyle and income and life of their children and many more.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamrelier/home"
     },
     {
         "teamName": "Callisto",
         "websiteLink": "https://sites.google.com/view/callistowellness/home",
         "mentor": "",
-        "description": "About 70% of college and  PhD students in India suffer with some mild or severe form of mental illness. Most of these cases remain untreated  or even undetected. This is why the incompetence and barriers of mental health care system is one of the most significant issues for people seeking treatments. Thus, we aim to understand the issues faced by people seeking mental health care , guide them and provide some sort of basic assistance to them."
+        "description": "About 70% of college and  PhD students in India suffer with some mild or severe form of mental illness. Most of these cases remain untreated  or even undetected. This is why the incompetence and barriers of mental health care system is one of the most significant issues for people seeking treatments. Thus, we aim to understand the issues faced by people seeking mental health care , guide them and provide some sort of basic assistance to them.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/callistowellness/home"
     },
     {
         "teamName": "Red hurricane",
         "websiteLink": "https://sites.google.com/view/red-hurricane/home?authuser=0",
         "mentor": "",
-        "description": "There are many Web apps to sell our NFT, But none of them are simple"
+        "description": "There are many Web apps to sell our NFT, But none of them are simple",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/red-hurricane/home?authuser=0"
     },
     {
         "teamName": "Ascension",
         "websiteLink": "https://sites.google.com/view/ascensionmessfix/home",
         "mentor": "",
-        "description": "Our project is about the Mess rush we experience everyday."
+        "description": "Our project is about the Mess rush we experience everyday.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ascensionmessfix/home"
     },
     {
         "teamName": "Global thinkers engaged leaders",
         "websiteLink": "https://sites.google.com/view/globalthinkersengagedleader/home",
         "mentor": "",
-        "description": "We made a model of elderly adjustable stick that helps elder people with walking problems to walk comfortably."
+        "description": "We made a model of elderly adjustable stick that helps elder people with walking problems to walk comfortably.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/globalthinkersengagedleader/home"
     },
     {
         "teamName": "BRAVEHEART",
         "websiteLink": "https://sites.google.com/view/getscholified/home",
         "mentor": "",
-        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships."
+        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/getscholified/home"
     },
     {
         "teamName": "Zaibatsu Corporation",
         "websiteLink": "https://sites.google.com/view/zaibatsucorporation/",
         "mentor": "",
-        "description": "Improving spending habits of University students on food beyond the mess facility."
+        "description": "Improving spending habits of University students on food beyond the mess facility.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/zaibatsucorporation/"
     },
     {
         "teamName": "Cocomelon",
         "websiteLink": "https://sites.google.com/view/cocomelonmehy/",
         "mentor": "",
-        "description": "We thought that mental health is being left out and not being discussed enough in our society. we plan to make a hand book which gives tips or suggestions to people with mental health issues. Most of the mental health issues do not require medical assistance and can be resolved with proper help. we went through a lot of  websites and made different charts, mind maps etc. to find out the root cause. We segregated Mental Health into different section, we short listed them and a went through a lot of statistics. We look forward to help people with mental health issues."
+        "description": "We thought that mental health is being left out and not being discussed enough in our society. we plan to make a hand book which gives tips or suggestions to people with mental health issues. Most of the mental health issues do not require medical assistance and can be resolved with proper help. we went through a lot of  websites and made different charts, mind maps etc. to find out the root cause. We segregated Mental Health into different section, we short listed them and a went through a lot of statistics. We look forward to help people with mental health issues.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/cocomelonmehy/"
     },
     {
         "teamName": "CrewX",
         "websiteLink": "https://sites.google.com/view/crewx/home",
         "mentor": "",
-        "description": "Our project is all about lots of fun and entertainment.Our game consists of 3 levels"
+        "description": "Our project is all about lots of fun and entertainment.Our game consists of 3 levels",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/crewx/home"
     },
     {
         "teamName": "Promethean Pro Max",
         "websiteLink": "https://sites.google.com/view/promethean-pro-max/home",
         "mentor": "",
-        "description": "The pandemic highlighted the many faults in the Indian Education System. Throughout the pandemic, which caused immense emotional trauma and uncertainty, educational institutions had no goal in mind except to finish the exams and have all assignments submitted on time."
+        "description": "The pandemic highlighted the many faults in the Indian Education System. Throughout the pandemic, which caused immense emotional trauma and uncertainty, educational institutions had no goal in mind except to finish the exams and have all assignments submitted on time.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/promethean-pro-max/home"
     },
     {
         "teamName": "Elite designs",
         "websiteLink": "https://sites.google.com/view/revivingindigenousgames/home",
         "mentor": "",
-        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform."
+        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/revivingindigenousgames/home"
     },
     {
         "teamName": "Reignite",
         "websiteLink": "https://sites.google.com/view/reignite2022/home",
         "mentor": "",
-        "description": "Our first objective was to learn more about all the mental health issues people suffer from and how they vary from person to person. Luckily, in the age of the internet everything can be found within minutes, so went through all the different articles, statistics, and news reports to gather as much information as we can. We put together a website to help people to get a basic understanding of different types of mental health issues."
+        "description": "Our first objective was to learn more about all the mental health issues people suffer from and how they vary from person to person. Luckily, in the age of the internet everything can be found within minutes, so went through all the different articles, statistics, and news reports to gather as much information as we can. We put together a website to help people to get a basic understanding of different types of mental health issues.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/reignite2022/home"
     },
     {
         "teamName": "Team SOLANA",
         "websiteLink": "https://sites.google.com/view/team-solana/home",
         "mentor": "",
-        "description": "We came to a common conclusion from our research and consultation from our mentor that a website would be the most suitable solutions covering a majority of the problems we found. We approached our prototype in a fairly easy to use manner and available to all. The main focus of our project was to help people to come out their comfort zone and improve their health and fitness from whichever stage of life they are in."
+        "description": "We came to a common conclusion from our research and consultation from our mentor that a website would be the most suitable solutions covering a majority of the problems we found. We approached our prototype in a fairly easy to use manner and available to all. The main focus of our project was to help people to come out their comfort zone and improve their health and fitness from whichever stage of life they are in.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-solana/home"
     },
     {
         "teamName": "The Insomniacs",
         "websiteLink": "https://sites.google.com/view/problems-faced-by-the-blind/home",
         "mentor": "",
-        "description": "The blind on a daily basis suffer through problems because their basic needs are not met...lot of people are ignorant to the issues faced by the visually impaired or blind. We want to put an effort to change that.As we looked around and started to observe the problems faced by the blind and visually impaired people we realized that they faced\u00a0 a lot of difficulties in reading things around them mostly because they are not in braille also we have observed that they had problems in locating things around them moving around.So we came up with an app which scans text and converts it into speech."
+        "description": "The blind on a daily basis suffer through problems because their basic needs are not met...lot of people are ignorant to the issues faced by the visually impaired or blind. We want to put an effort to change that.As we looked around and started to observe the problems faced by the blind and visually impaired people we realized that they faced\u00a0 a lot of difficulties in reading things around them mostly because they are not in braille also we have observed that they had problems in locating things around them moving around.So we came up with an app which scans text and converts it into speech.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/problems-faced-by-the-blind/home"
     },
     {
         "teamName": "Thinking",
         "websiteLink": "https://sites.google.com/view/transportationis/home",
         "mentor": "",
-        "description": "We started this project to provide people easy accessible transport at economic fares. Basically our solution is to start a two wheeler rentals firm which offers dockless rentals, allows users to pick up and drop its scooters almost everywhere in the city"
+        "description": "We started this project to provide people easy accessible transport at economic fares. Basically our solution is to start a two wheeler rentals firm which offers dockless rentals, allows users to pick up and drop its scooters almost everywhere in the city",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportationis/home"
     },
     {
         "teamName": "Baka",
         "websiteLink": "https://sites.google.com/view/transportationproblem/home",
         "mentor": "",
-        "description": "Our whole design thinking project revolves around the transport problem students face while going and coming to campus"
+        "description": "Our whole design thinking project revolves around the transport problem students face while going and coming to campus",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportationproblem/home"
     },
     {
         "teamName": "The High Table",
         "websiteLink": "https://sites.google.com/view/thtdt",
         "mentor": "",
-        "description": "Mental health is as important as general physical health.The World Health Organization estimates that the prevalence of mental illnesses has increased substantially and that approximately 20% of youth experience mental disorders. Physical health is not the only major domain of our lives affected by mental health. Good mental health also affects our workplace and our productivity, which affects society. For example, employees who work in stressful work environments can experience burnout. We are working to help people's improve their mental health and finding out what causes depression in people and how it can be dealt. Thereby exploring the causes of mental health issues."
+        "description": "Mental health is as important as general physical health.The World Health Organization estimates that the prevalence of mental illnesses has increased substantially and that approximately 20% of youth experience mental disorders. Physical health is not the only major domain of our lives affected by mental health. Good mental health also affects our workplace and our productivity, which affects society. For example, employees who work in stressful work environments can experience burnout. We are working to help people's improve their mental health and finding out what causes depression in people and how it can be dealt. Thereby exploring the causes of mental health issues.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thtdt"
     },
     {
         "teamName": "SE7EN",
         "websiteLink": "https://sites.google.com/view/se7en/home",
         "mentor": "",
-        "description": "An attempt to create a personalized film recommendation system for users who're usually not satisfied with the suggestions that are given out based on averages on the internet."
+        "description": "An attempt to create a personalized film recommendation system for users who're usually not satisfied with the suggestions that are given out based on averages on the internet.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/se7en/home"
     },
     {
         "teamName": "Team Sapta",
         "websiteLink": "https://sites.google.com/view/our-dt-project/home",
         "mentor": "",
-        "description": "We, our team members, have pointed out the problems with the Indian Education System which are deeply seated in it's roots. We tried to find alternatives to solve some of the problems that can be resolved by some initiative and willingness of the authorities.But we found out that these problems are like quicksand the more one tries to change for the better, the deeper he/she drowns in it."
+        "description": "We, our team members, have pointed out the problems with the Indian Education System which are deeply seated in it's roots. We tried to find alternatives to solve some of the problems that can be resolved by some initiative and willingness of the authorities.But we found out that these problems are like quicksand the more one tries to change for the better, the deeper he/she drowns in it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/our-dt-project/home"
     },
     {
         "teamName": "Praneeth Sai",
         "websiteLink": "https://sites.google.com/view/transportation-redefined/home?authuser=0",
         "mentor": "",
-        "description": "We as a team are aiming to solve a chain of transportation problems, Our main goal is to provide an efficient way to the user to travel from one place to another with just a click. We aim to give customers  the option of choosing their own transport from the information we give them, the information contains the price, time and the mode of transport to reach a certain place, we also aim to associate with the local restaurants that provide indigenous food for a tourist and we connect the local travel agencies with the customers."
+        "description": "We as a team are aiming to solve a chain of transportation problems, Our main goal is to provide an efficient way to the user to travel from one place to another with just a click. We aim to give customers  the option of choosing their own transport from the information we give them, the information contains the price, time and the mode of transport to reach a certain place, we also aim to associate with the local restaurants that provide indigenous food for a tourist and we connect the local travel agencies with the customers.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportation-redefined/home?authuser=0"
     },
     {
         "teamName": "TASK",
         "websiteLink": "https://sites.google.com/view/fortomorrow/home",
         "mentor": "",
-        "description": "we work as a NGO based theme.To implement the norms to reduce the plastic usage in reality."
+        "description": "we work as a NGO based theme.To implement the norms to reduce the plastic usage in reality.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/fortomorrow/home"
     },
     {
         "teamName": "Straw hats",
         "websiteLink": "https://sites.google.com/view/suicide-a-silent-grief/home",
         "mentor": "",
-        "description": "Suicides are the most prevalent result of mental illness so, we made an attempt to prevent suicides by finding reasons and solutions for them."
+        "description": "Suicides are the most prevalent result of mental illness so, we made an attempt to prevent suicides by finding reasons and solutions for them.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/suicide-a-silent-grief/home"
     },
     {
         "teamName": "DT Squad",
         "websiteLink": "https://sites.google.com/view/dtsquad/home",
         "mentor": "",
-        "description": "Waste management is the collection, transport, processing, recycling and disposal of waste materials produced by human activity. Waste management has an impact on our lives and the environment. The avoidance and reduction of waste is a very important part of waste management. This reduces the effect of waste on the environment and our health."
+        "description": "Waste management is the collection, transport, processing, recycling and disposal of waste materials produced by human activity. Waste management has an impact on our lives and the environment. The avoidance and reduction of waste is a very important part of waste management. This reduces the effect of waste on the environment and our health.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtsquad/home"
     },
     {
         "teamName": "The Originals",
         "websiteLink": "https://sites.google.com/view/minute-medical/home",
         "mentor": "",
-        "description": "\u201cThe Minute Medical\u201d is an app that instantly offers specialists consultation and also provides access to medical tests door to door. Nowadays, people are busy with their work schedules and barely have some time to keep a check on their health. To overcome this problem, we came up with this idea and designed \u201cThe Minute Medical\u201d. In our app, we provide features to book appointments both online and offline which makes it simpler for health check-ups. Medical tests are also offered in your house itself for the areas we can reach. It is a user-friendly app accessible with the least knowledge about technology. This app is especially for people who cannot access quality health care from rural and backward areas. \u201cThe Minute Medical\u201d provides them with the best online specialist consultation and health care."
+        "description": "\u201cThe Minute Medical\u201d is an app that instantly offers specialists consultation and also provides access to medical tests door to door. Nowadays, people are busy with their work schedules and barely have some time to keep a check on their health. To overcome this problem, we came up with this idea and designed \u201cThe Minute Medical\u201d. In our app, we provide features to book appointments both online and offline which makes it simpler for health check-ups. Medical tests are also offered in your house itself for the areas we can reach. It is a user-friendly app accessible with the least knowledge about technology. This app is especially for people who cannot access quality health care from rural and backward areas. \u201cThe Minute Medical\u201d provides them with the best online specialist consultation and health care.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/minute-medical/home"
     },
     {
         "teamName": "Dream",
         "websiteLink": "https://sites.google.com/view/tbmenstrualhygiene",
         "mentor": "",
-        "description": "We intended to shift people's minds about menstruation hygiene and how it affects their health by educating them about the proper methods and making feasible menstrual products which are more accessible and available."
+        "description": "We intended to shift people's minds about menstruation hygiene and how it affects their health by educating them about the proper methods and making feasible menstrual products which are more accessible and available.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/tbmenstrualhygiene"
     },
     {
         "teamName": "STACK",
         "websiteLink": "https://sites.google.com/view/adjustable--chair",
         "mentor": "",
-        "description": "We have seen old-age people having problems with the chair that they are currently using-their back structure, posture, etc. In order to know more about the problems faced with the current chairs (Wooden or plastic chairs, we have conducted a survey using google forms and found out that people above the age of 40 find difficulty sitting on their present chairs. As a result of this, we have come up with an idea of an Adjustable chair that can adjust on its own based on one's back condition. An Adjustable chair that we are designing has many other features that can ease the day-to-day activities of old age people."
+        "description": "We have seen old-age people having problems with the chair that they are currently using-their back structure, posture, etc. In order to know more about the problems faced with the current chairs (Wooden or plastic chairs, we have conducted a survey using google forms and found out that people above the age of 40 find difficulty sitting on their present chairs. As a result of this, we have come up with an idea of an Adjustable chair that can adjust on its own based on one's back condition. An Adjustable chair that we are designing has many other features that can ease the day-to-day activities of old age people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/adjustable--chair"
     },
     {
         "teamName": "INSANE",
         "websiteLink": "https://sites.google.com/view/no-food-waste/home",
         "mentor": "",
-        "description": "The main aim of our project is to deal with the food wastage and how to manage the food wastage. It comes with the challenges and also solutions how to over come the challenges. The moral thought of our project is to make leftover food reach to the people who are in need of food."
+        "description": "The main aim of our project is to deal with the food wastage and how to manage the food wastage. It comes with the challenges and also solutions how to over come the challenges. The moral thought of our project is to make leftover food reach to the people who are in need of food.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/no-food-waste/home"
     },
     {
         "teamName": "Dreamers",
         "websiteLink": "https://sites.google.com/view/autisticartists/home",
         "mentor": "",
-        "description": "Our project goal is to create educational toys for autistic children to stimulate their learning as we feel that toys engage a child\u2019s interest and imagination and can give a great learning experience."
+        "description": "Our project goal is to create educational toys for autistic children to stimulate their learning as we feel that toys engage a child\u2019s interest and imagination and can give a great learning experience.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/autisticartists/home"
     },
     {
         "teamName": "Hustlers",
         "websiteLink": "https://sites.google.com/view/hustlers-team/home",
         "mentor": "",
-        "description": "https://www.figma.com/proto/enF9NgnavG0dvykUZH79pf/Disaster-Management?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"
+        "description": "https://www.figma.com/proto/enF9NgnavG0dvykUZH79pf/Disaster-Management?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hustlers-team/home"
     },
     {
         "teamName": "Spectaculars",
         "websiteLink": "https://sites.google.com/view/team-spectaculars/home",
         "mentor": "",
-        "description": "Our project aims to prevent accidents. To achieve this, we made 2 things, first is designing an app called Driver 101 which aims to improve the skills of drivers and the second one is a prototype of reflective strips which can be attached to roads, these reflective strips have many features compared to the regular ones."
+        "description": "Our project aims to prevent accidents. To achieve this, we made 2 things, first is designing an app called Driver 101 which aims to improve the skills of drivers and the second one is a prototype of reflective strips which can be attached to roads, these reflective strips have many features compared to the regular ones.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-spectaculars/home"
     },
     {
         "teamName": "OUTLINERS",
         "websiteLink": "https://sites.google.com/view/weducate/home",
         "mentor": "",
-        "description": "Main motto of our project is provide guidance for the students who are lacking in proper guidance. We also make sure that student completes his total course in a wink of a time. Our demo discord server link:"
+        "description": "Main motto of our project is provide guidance for the students who are lacking in proper guidance. We also make sure that student completes his total course in a wink of a time. Our demo discord server link:",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/weducate/home"
     },
     {
         "teamName": "UNSTOPPABLE",
         "websiteLink": "https://sites.google.com/view/dtl-unstoppable/home",
         "mentor": "",
-        "description": "This project is about Hyderabad pros and cons, we actually trying to  find  pros and cons and  what makes Hyderabad to stop to become a greater city, how can they can be better to make Hyderabad a greater smart city"
+        "description": "This project is about Hyderabad pros and cons, we actually trying to  find  pros and cons and  what makes Hyderabad to stop to become a greater city, how can they can be better to make Hyderabad a greater smart city",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-unstoppable/home"
     },
     {
         "teamName": "UNSTOPPABLE",
         "websiteLink": "https://sites.google.com/view/dtl-unstoppable/home",
         "mentor": "",
-        "description": "This project is about Hyderabad pros and cons, we actually trying to  find  pros and cons and  what makes Hyderabad to stop to become a greater city, how can they can be better to make Hyderabad a greater smart city"
+        "description": "This project is about Hyderabad pros and cons, we actually trying to  find  pros and cons and  what makes Hyderabad to stop to become a greater city, how can they can be better to make Hyderabad a greater smart city",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-unstoppable/home"
     },
     {
         "teamName": "Amnesia",
         "websiteLink": "https://sites.google.com/view/smart-university-1",
         "mentor": "",
-        "description": "In our cars, stores, banks, and homes, smart technologies are already a part of our daily lives. On a daily basis, we come into contact with intelligent settings. Despite this, many universities continue to maintain siloed infrastructures that don't serve or connect with anyone other than their connected stakeholders. Consider a different type of infrastructure: one that intelligently communicated to assure positive results in every contact and event. Coming to our concept of Smart University, we came through many experiences and finally came to a conclusion to make a mobile app for the students and the college management. So we designed a prototype for this app and even done hyperlinks to this which make this work."
+        "description": "In our cars, stores, banks, and homes, smart technologies are already a part of our daily lives. On a daily basis, we come into contact with intelligent settings. Despite this, many universities continue to maintain siloed infrastructures that don't serve or connect with anyone other than their connected stakeholders. Consider a different type of infrastructure: one that intelligently communicated to assure positive results in every contact and event. Coming to our concept of Smart University, we came through many experiences and finally came to a conclusion to make a mobile app for the students and the college management. So we designed a prototype for this app and even done hyperlinks to this which make this work.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smart-university-1"
     },
     {
         "teamName": "Inevitable",
         "websiteLink": "https://enlargeappear08.wixsite.com/website-1",
         "mentor": "",
-        "description": "Our notion of building a community for the blind people is to interact with them in order to know more about blind people like their talents, interests, livelihood etc. So  then we can solve their problems and help them by connecting them to the right opportunities. Through this community, we try to help them overcome their financial crises. So that they can get their livelihood and be happy."
+        "description": "Our notion of building a community for the blind people is to interact with them in order to know more about blind people like their talents, interests, livelihood etc. So  then we can solve their problems and help them by connecting them to the right opportunities. Through this community, we try to help them overcome their financial crises. So that they can get their livelihood and be happy.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://enlargeappear08.wixsite.com/website-1"
     },
     {
         "teamName": "A team without name",
         "websiteLink": "https://sites.google.com/view/ateamwithoutname/home?authuser=0",
         "mentor": "",
-        "description": "We are aiming to provide everyone there ideal group so that they can enhance there productivity and don't loose there hope from working in group."
+        "description": "We are aiming to provide everyone there ideal group so that they can enhance there productivity and don't loose there hope from working in group.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ateamwithoutname/home?authuser=0"
     },
     {
         "teamName": "SIUUUUUUUUUUUUUUUUUUUUUUUUUU",
         "websiteLink": "https://sites.google.com/view/siuuuuuuuuuuuuuuuuuuuuuuuuuuu/home",
         "mentor": "",
-        "description": "The basic idea was on waste management. After countless discussions with team and mentor, we realized that lot of waste is dumped into water bodies. In the next team meeting, each one of us discussed about the water bodies that were polluted in their locality. Once the meeting was done, we were able to conclude that initiatives or solutions were proposed to clean the water in some places. However, even now, many rivers, lakes and other water bodies still remain polluted and will be a potential threat to living beings if action is not taken."
+        "description": "The basic idea was on waste management. After countless discussions with team and mentor, we realized that lot of waste is dumped into water bodies. In the next team meeting, each one of us discussed about the water bodies that were polluted in their locality. Once the meeting was done, we were able to conclude that initiatives or solutions were proposed to clean the water in some places. However, even now, many rivers, lakes and other water bodies still remain polluted and will be a potential threat to living beings if action is not taken.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/siuuuuuuuuuuuuuuuuuuuuuuuuuuu/home"
     },
     {
         "teamName": "Free Thinkers",
         "websiteLink": "https://sites.google.com/view/levelupfreethinkers/home",
         "mentor": "",
-        "description": "We made a mobile application that connects students in a way where they can teach, learn or share their knowledge and skills to improve their proficiency and become better."
+        "description": "We made a mobile application that connects students in a way where they can teach, learn or share their knowledge and skills to improve their proficiency and become better.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/levelupfreethinkers/home"
     },
     {
         "teamName": "Noah's Ark",
         "websiteLink": "https://vpentrala.wixsite.com/my-site",
         "mentor": "",
-        "description": "In the survey we conducted among the university students, only 40% of the students' choice was to take engineering. Most had goals of their own, in commerce, business, hotel management and elsewhere. Why did they take up engineering? Lack of proper knowledge of their calling, lack of parental support, etc. This aims to give students and parents guidance, for them to make correct decisions."
+        "description": "In the survey we conducted among the university students, only 40% of the students' choice was to take engineering. Most had goals of their own, in commerce, business, hotel management and elsewhere. Why did they take up engineering? Lack of proper knowledge of their calling, lack of parental support, etc. This aims to give students and parents guidance, for them to make correct decisions.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://vpentrala.wixsite.com/my-site"
     },
     {
         "teamName": "TEAM DELEGANTS",
         "websiteLink": "https://sites.google.com/view/teamdelegants/home",
         "mentor": "",
-        "description": "We are here to guide you into a bright future that you always wanted to achieve. We are here to help you find the best solutions for all the problems you face while achieving your goals. We try to analyse your problems, know your interests and find all the possible ways how we can overcome the problems and give a proper direction to your career."
+        "description": "We are here to guide you into a bright future that you always wanted to achieve. We are here to help you find the best solutions for all the problems you face while achieving your goals. We try to analyse your problems, know your interests and find all the possible ways how we can overcome the problems and give a proper direction to your career.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamdelegants/home"
     },
     {
         "teamName": "TEAM KANYA RAASI",
         "websiteLink": "https://sites.google.com/view/swishwish/team",
         "mentor": "",
-        "description": "Our personal experiences with lack of instant grocery supplies lead to the birth of our project SWISH. Our idea is pretty simple - you run out of supplies -> you need supplies -> mini supermarket provides you with supplies only at  a walkable distance. In a university where there are hostelers from all over the country,it is quite essential to have a basic supermarket for their needs and online shopping is not always the option. Our college geographical location is quite far off from the city and it isn't quite easy to get basic grocery instantly. That's where SWISH comes into action, a mini supermarket in the campus available for all."
+        "description": "Our personal experiences with lack of instant grocery supplies lead to the birth of our project SWISH. Our idea is pretty simple - you run out of supplies -> you need supplies -> mini supermarket provides you with supplies only at  a walkable distance. In a university where there are hostelers from all over the country,it is quite essential to have a basic supermarket for their needs and online shopping is not always the option. Our college geographical location is quite far off from the city and it isn't quite easy to get basic grocery instantly. That's where SWISH comes into action, a mini supermarket in the campus available for all.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/swishwish/team"
     },
     {
         "teamName": "Seven XI",
         "websiteLink": "https://sites.google.com/view/such-solar-much-wow/home?authuser=3",
         "mentor": "",
-        "description": "Solar energy is a valuable resource in the present day. Solar panels are being made to harness this energy but are failing to obtain it efficiently. This project is to increase the efficiency of solar panels."
+        "description": "Solar energy is a valuable resource in the present day. Solar panels are being made to harness this energy but are failing to obtain it efficiently. This project is to increase the efficiency of solar panels.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/such-solar-much-wow/home?authuser=3"
     },
     {
         "teamName": "Baby Shark",
         "websiteLink": "https://sites.google.com/student.onlinedegree.iitm.ac.in/baby-shark-dududu/home",
         "mentor": "",
-        "description": "To evaluate mess food and the options currently available on campus. We try to address these issues by better understanding the situation at hand, collating data and reviewing our options to try and bring changes in these aspects."
+        "description": "To evaluate mess food and the options currently available on campus. We try to address these issues by better understanding the situation at hand, collating data and reviewing our options to try and bring changes in these aspects.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/student.onlinedegree.iitm.ac.in/baby-shark-dududu/home"
     },
     {
         "teamName": "Dholakpur",
         "websiteLink": "https://sites.google.com/view/techabour/home",
         "mentor": "",
-        "description": "Its about helping labours access the technology for their advancement  and help them to prevent physical exhaustion and mental exhaustion  and help them with resources for cure if any."
+        "description": "Its about helping labours access the technology for their advancement  and help them to prevent physical exhaustion and mental exhaustion  and help them with resources for cure if any.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/techabour/home"
     },
     {
         "teamName": "Pollutex",
         "websiteLink": "https://www.rahularepaka.com/works/pollutex",
         "mentor": "",
-        "description": "By utilizing machine learning and image processing, Pollutex enables you to check the pollution levels of your surroundings without having to purchase expensive hardware."
+        "description": "By utilizing machine learning and image processing, Pollutex enables you to check the pollution levels of your surroundings without having to purchase expensive hardware.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://www.rahularepaka.com/works/pollutex"
     },
     {
         "teamName": "AlphaCrew",
         "websiteLink": "https://sites.google.com/view/alphacrewdtl1/home",
         "mentor": "",
-        "description": "It is an app where women and children in distress can connect with nearby people and call for help."
+        "description": "It is an app where women and children in distress can connect with nearby people and call for help.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/alphacrewdtl1/home"
     },
     {
         "teamName": "Hustle",
         "websiteLink": "https://sites.google.com/view/teamhustlewebsite/home",
         "mentor": "",
-        "description": "Team hustle is on a mission to build an advanced tool for the blind helping them to experience the world faster, safer, better. This unique machine learning capability will be key solve the modern-day problems of the blind. We started our journey by getting an idea for blind which can make them move, communicate, and live with the society at greater ease. we gradually interacted with them and found out what are the needs and problems of them and then we classified them into various categories and wanted to find solution for every one of them, basically we are trying to make smart stick that stays connected with smart glasses and the iot mobile application it will guide and help the blind in many ways it will guide them while they are traveling, obstacle identification, reading sign boards, identifying money and counting, navigation through voice assistance, etc."
+        "description": "Team hustle is on a mission to build an advanced tool for the blind helping them to experience the world faster, safer, better. This unique machine learning capability will be key solve the modern-day problems of the blind. We started our journey by getting an idea for blind which can make them move, communicate, and live with the society at greater ease. we gradually interacted with them and found out what are the needs and problems of them and then we classified them into various categories and wanted to find solution for every one of them, basically we are trying to make smart stick that stays connected with smart glasses and the iot mobile application it will guide and help the blind in many ways it will guide them while they are traveling, obstacle identification, reading sign boards, identifying money and counting, navigation through voice assistance, etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamhustlewebsite/home"
     },
     {
         "teamName": "Hidden Leaf shinobi",
         "websiteLink": "https://sites.google.com/view/rejuvenwater/home",
         "mentor": "",
-        "description": "People are taking water for granted and wasting it irresponsibly. Additionally, they pollute the water rapidly. On the other hand, water is becoming very scarce in some parts of the world. It will also be unavailable in most parts of the world in the coming years. So, our goal is to spread awareness about the root causes of water pollution so that people can understand how their daily activities are contributing to the waste and pollution of water. We also provide them with solutions to use water efficiently and ways to avoid water pollution."
+        "description": "People are taking water for granted and wasting it irresponsibly. Additionally, they pollute the water rapidly. On the other hand, water is becoming very scarce in some parts of the world. It will also be unavailable in most parts of the world in the coming years. So, our goal is to spread awareness about the root causes of water pollution so that people can understand how their daily activities are contributing to the waste and pollution of water. We also provide them with solutions to use water efficiently and ways to avoid water pollution.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/rejuvenwater/home"
     },
     {
         "teamName": "FLAWLESS",
         "websiteLink": "https://sites.google.com/view/eldercare-project/home",
         "mentor": "",
-        "description": "Our project is about helping the elders in our society. We have always noticed that the older adults are at increased risk for loneliness and social isolation because they are more likely to face factors such as living alone, the loss of family or friends, chronic illness, and hearing loss. We want to find solutions to help elders facing such difficulties."
+        "description": "Our project is about helping the elders in our society. We have always noticed that the older adults are at increased risk for loneliness and social isolation because they are more likely to face factors such as living alone, the loss of family or friends, chronic illness, and hearing loss. We want to find solutions to help elders facing such difficulties.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/eldercare-project/home"
     },
     {
         "teamName": "Team Flash",
         "websiteLink": "https://sites.google.com/d/1sDieH6Gw7ZjKqSF5exDR819Zzdt3WlC_/p/13pZyM1TurHEcqYwN-XLAx-3PNAju3IQ1/edit",
         "mentor": "",
-        "description": "Our problem statement is- How might we improve indoor navigation for huge middle aged working people inside premises or buildings to save their time and which would be convenient. At first we found this problem common among students and tried to find a solution to this but later on while taking inputs from various age groups we found that this problem is common among working class, that's how we are formed TEAM FLASH."
+        "description": "Our problem statement is- How might we improve indoor navigation for huge middle aged working people inside premises or buildings to save their time and which would be convenient. At first we found this problem common among students and tried to find a solution to this but later on while taking inputs from various age groups we found that this problem is common among working class, that's how we are formed TEAM FLASH.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1sDieH6Gw7ZjKqSF5exDR819Zzdt3WlC_/p/13pZyM1TurHEcqYwN-XLAx-3PNAju3IQ1/edit"
     },
     {
         "teamName": "Area 51",
         "websiteLink": "https://sites.google.com/view/touristexploitation/home",
         "mentor": "",
-        "description": "This project is made for tourists to not get exploited near travel agents. Our prototype is a website where people they themselves can plan their trip with our guidance. In this we don\u2019t plan they their trip , they choose their own destination based on the place where they are there"
+        "description": "This project is made for tourists to not get exploited near travel agents. Our prototype is a website where people they themselves can plan their trip with our guidance. In this we don\u2019t plan they their trip , they choose their own destination based on the place where they are there",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/touristexploitation/home"
     },
     {
         "teamName": "Perseverance",
         "websiteLink": "https://bit.ly/3tyAy9m",
         "mentor": "",
-        "description": "We as a group are trying and finding ways to keep our environment clean.We are bringing a change in mentality of people about waste and it's effective management"
+        "description": "We as a group are trying and finding ways to keep our environment clean.We are bringing a change in mentality of people about waste and it's effective management",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://bit.ly/3tyAy9m"
     },
     {
         "teamName": "Time attorneys",
         "websiteLink": "https://sites.google.com/view/time-attorneys/home",
         "mentor": "",
-        "description": "We discuss about the problem faced by the students (especially school students) during the whole process of education"
+        "description": "We discuss about the problem faced by the students (especially school students) during the whole process of education",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/time-attorneys/home"
     },
     {
         "teamName": "Mustangs",
         "websiteLink": "https://sites.google.com/view/toy-cycle/home?authuser=0",
         "mentor": "",
-        "description": "The obsession with toys among children is very well known to all of us. There exist different types of toys to appease the endless demand for kids of their age. But, how many toys can be created to entertain this endless demand? Recently, there has been a huge wastage of toys as a result of many reasons like changing interest among children while growing up, change in trend, etc. To mitigate this, we wanted to create something which can satisfy all the needs of toys for children of different age groups without buying new ones (maybe all in one set)."
+        "description": "The obsession with toys among children is very well known to all of us. There exist different types of toys to appease the endless demand for kids of their age. But, how many toys can be created to entertain this endless demand? Recently, there has been a huge wastage of toys as a result of many reasons like changing interest among children while growing up, change in trend, etc. To mitigate this, we wanted to create something which can satisfy all the needs of toys for children of different age groups without buying new ones (maybe all in one set).",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/toy-cycle/home?authuser=0"
     },
     {
         "teamName": "Mustangs",
         "websiteLink": "https://sites.google.com/view/toy-cycle/home?authuser=0",
         "mentor": "",
-        "description": "The obsession with toys among children is very well known to all of us. There exist different types of toys to appease the endless demand for kids of their age. But, how many toys can be created to entertain this endless demand? Recently, there has been a huge wastage of toys as a result of many reasons like changing interest among children while growing up, change in trend, etc. To mitigate this, we wanted to create something which can satisfy all the needs in toys for children of different age groups without buying new ones (maybe all in one set)."
+        "description": "The obsession with toys among children is very well known to all of us. There exist different types of toys to appease the endless demand for kids of their age. But, how many toys can be created to entertain this endless demand? Recently, there has been a huge wastage of toys as a result of many reasons like changing interest among children while growing up, change in trend, etc. To mitigate this, we wanted to create something which can satisfy all the needs in toys for children of different age groups without buying new ones (maybe all in one set).",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/toy-cycle/home?authuser=0"
     },
     {
         "teamName": "Thinkingless design",
         "websiteLink": "https://sites.google.com/view/grow--india/home",
         "mentor": "",
-        "description": "Main idea of our project is to bring a good government, which leads to a healthy and developing society."
+        "description": "Main idea of our project is to bring a good government, which leads to a healthy and developing society.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/grow--india/home"
     },
     {
         "teamName": "Team-Kanyarasi",
         "websiteLink": "https://sites.google.com/view/preventingfoodwaste/home",
         "mentor": "",
-        "description": "We care about food and we want everyone to save food and cherish it."
+        "description": "We care about food and we want everyone to save food and cherish it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/preventingfoodwaste/home"
     },
     {
         "teamName": "Course Website",
         "websiteLink": "https://sites.google.com/view/course-website-team/home      https://dtl-site.mudstudio22.workers.dev/",
         "mentor": "",
-        "description": "This website is built to create a platform to have all the project together in one place and can display all of them making it easy and convinient for the teachers and students to communicate about the projects."
+        "description": "This website is built to create a platform to have all the project together in one place and can display all of them making it easy and convinient for the teachers and students to communicate about the projects.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/course-website-team/home      https://dtl-site.mudstudio22.workers.dev/"
     },
     {
         "teamName": "HexArt",
         "websiteLink": "https://rsssaketh02.wixsite.com/hexartblog",
         "mentor": "",
-        "description": "The project is about connecting filmmakers and everyone working in the industry. We aim at creating a platform where artists can put their portfolios and search for work."
+        "description": "The project is about connecting filmmakers and everyone working in the industry. We aim at creating a platform where artists can put their portfolios and search for work.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://rsssaketh02.wixsite.com/hexartblog"
     },
     {
         "teamName": "ELITES",
         "websiteLink": "https://sites.google.com/d/1yKc4qkrs7Uz52ap3wvrjMIutafsrr7yd/p/1PWimOx6pafdZk5d1pUsYmNpGRWmkLFgv/edit",
         "mentor": "",
-        "description": "We know how important education is and what role it plays in an individual's life. We generally see toys as fun objects which cause time-waste. We wanted everyone to look beyond that and show everyone how toys can help us in learning something new."
+        "description": "We know how important education is and what role it plays in an individual's life. We generally see toys as fun objects which cause time-waste. We wanted everyone to look beyond that and show everyone how toys can help us in learning something new.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1yKc4qkrs7Uz52ap3wvrjMIutafsrr7yd/p/1PWimOx6pafdZk5d1pUsYmNpGRWmkLFgv/edit"
     },
     {
         "teamName": "Sad Mo",
         "websiteLink": "https://sites.google.com/view/mo-id/home",
         "mentor": "",
-        "description": "The goal of our project is to come up with an integrated closed-circuit network to enhance the overall system of record maintenance and integrate all the amenities onto one platform."
+        "description": "The goal of our project is to come up with an integrated closed-circuit network to enhance the overall system of record maintenance and integrate all the amenities onto one platform.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mo-id/home"
     },
     {
         "teamName": "Brute force",
         "websiteLink": "https://sites.google.com/view/forlorn07/prototype",
         "mentor": "",
-        "description": "We are here to build a hub called forlorn hub, where people meet strangers and maintain good relations with each other. Our goal is to inspire people that being lonely is not the option and making them come out of there comfort zone. And everything about what loneliness exactly means, how to overcome it and we bought up a project idea to overcome loneliness. It's all mentioned in our website."
+        "description": "We are here to build a hub called forlorn hub, where people meet strangers and maintain good relations with each other. Our goal is to inspire people that being lonely is not the option and making them come out of there comfort zone. And everything about what loneliness exactly means, how to overcome it and we bought up a project idea to overcome loneliness. It's all mentioned in our website.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forlorn07/prototype"
     },
     {
         "teamName": "Hermeneutics",
         "websiteLink": "https://sites.google.com/view/re-discover-reading/home",
         "mentor": "",
-        "description": "The project deals with the major issues faced while in search of desired books. It brings one place solution for all the issues faced in search of books. It helps u \"rediscover reading\""
+        "description": "The project deals with the major issues faced while in search of desired books. It brings one place solution for all the issues faced in search of books. It helps u \"rediscover reading\"",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/re-discover-reading/home"
     },
     {
         "teamName": "The Fight Club",
         "websiteLink": "https://sites.google.com/view/fightclub-revive/home",
         "mentor": "",
-        "description": "A lot of students around us feel uneasy about their daily issues but are not comfortable sharing them with others. So we came up with REVIVE, a student community(discord server), where the main focus lies in brightening people's mood through connecting people with similar interests and helping them with their mental wellbeing."
+        "description": "A lot of students around us feel uneasy about their daily issues but are not comfortable sharing them with others. So we came up with REVIVE, a student community(discord server), where the main focus lies in brightening people's mood through connecting people with similar interests and helping them with their mental wellbeing.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/fightclub-revive/home"
     },
     {
         "teamName": "Gravity",
         "websiteLink": "https://amaansajid98.wixsite.com/website",
         "mentor": "",
-        "description": "Our team works to improve mental health of young teenagers"
+        "description": "Our team works to improve mental health of young teenagers",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://amaansajid98.wixsite.com/website"
     },
     {
         "teamName": "Elite-8",
         "websiteLink": "https://sites.google.com/view/elite-8/home",
         "mentor": "",
-        "description": "We have aimed to develop a low-cost solution to the problem of plastic waste management, and address the biggest challenge that hampers present efforts -segregation of waste."
+        "description": "We have aimed to develop a low-cost solution to the problem of plastic waste management, and address the biggest challenge that hampers present efforts -segregation of waste.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elite-8/home"
     },
     {
         "teamName": "mixtape",
         "websiteLink": "https://sites.google.com/view/maddog123/home",
         "mentor": "",
-        "description": "the project is about how to make games cheaper so everyone can enjoy them."
+        "description": "the project is about how to make games cheaper so everyone can enjoy them.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/maddog123/home"
     },
     {
         "teamName": "Enron",
         "websiteLink": "https://sriyaivaturi.wixsite.com/my-site",
         "mentor": "",
-        "description": "We realized dust from construction sites is a rising problem of our generation. All of us have been exposed to a thick layer of dust which resulted in short-term troubles. One of our team members had first-hand experience with dust every day, for a few years.  This inspired us to take the problem seriously and find a solution to it."
+        "description": "We realized dust from construction sites is a rising problem of our generation. All of us have been exposed to a thick layer of dust which resulted in short-term troubles. One of our team members had first-hand experience with dust every day, for a few years.  This inspired us to take the problem seriously and find a solution to it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sriyaivaturi.wixsite.com/my-site"
     },
     {
         "teamName": "Eco Troops",
         "websiteLink": "https://ritesh7153.wixsite.com/website-2",
         "mentor": "",
-        "description": "The energy crisis is the concern that the world's demands on the limited natural resources that are used to power industrial society are diminishing as the demand rises. These natural resources are in limited supply. While they do occur naturally, it can take hundreds of thousands of years to replenish the stores."
+        "description": "The energy crisis is the concern that the world's demands on the limited natural resources that are used to power industrial society are diminishing as the demand rises. These natural resources are in limited supply. While they do occur naturally, it can take hundreds of thousands of years to replenish the stores.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://ritesh7153.wixsite.com/website-2"
     },
     {
         "teamName": "Forerver go",
         "websiteLink": "https://sites.google.com/view/forever-go/home",
         "mentor": "",
-        "description": "We have stated the problem regarding waste management. We identified the problems and data on types of wastes and methods of waste collection. We made a pyramid which gives top priority to waste prevention. We discussed all kinds of pros and cons of current disposal methods for the above types of wastes. We encountered a lot of problems. We finally came up with a solution which presents the existing management techniques and detailed information about all of these unique techniques."
+        "description": "We have stated the problem regarding waste management. We identified the problems and data on types of wastes and methods of waste collection. We made a pyramid which gives top priority to waste prevention. We discussed all kinds of pros and cons of current disposal methods for the above types of wastes. We encountered a lot of problems. We finally came up with a solution which presents the existing management techniques and detailed information about all of these unique techniques.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forever-go/home"
     },
     {
         "teamName": "Extra Mile",
         "websiteLink": "https://sites.google.com/view/foodwasteinourmess/home",
         "mentor": "",
-        "description": "The objective of our project is to reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders"
+        "description": "The objective of our project is to reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/foodwasteinourmess/home"
     },
     {
         "teamName": "Creative visions",
         "websiteLink": "https://sites.google.com/view/creativevisions/home?authuser=0",
         "mentor": "",
-        "description": "We\u2019ve assessed all the possible problems causes effects of climate change and found a few practical solutions to better the situation"
+        "description": "We\u2019ve assessed all the possible problems causes effects of climate change and found a few practical solutions to better the situation",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/creativevisions/home?authuser=0"
     },
     {
         "teamName": "Jack Warriors",
         "websiteLink": "https://koratalaabhiram809.wixsite.com/lifeunderwater",
         "mentor": "",
-        "description": "Marine Pollution, Ocean Acidification and Improper Conservation of marine, coastal areas are main problems that are effecting life under water. Our project is inclined towards understanding causes and effects of above listed problems and come up with solutions to prevent and solve them to some extent."
+        "description": "Marine Pollution, Ocean Acidification and Improper Conservation of marine, coastal areas are main problems that are effecting life under water. Our project is inclined towards understanding causes and effects of above listed problems and come up with solutions to prevent and solve them to some extent.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://koratalaabhiram809.wixsite.com/lifeunderwater"
     },
     {
         "teamName": "Team Ligma",
         "websiteLink": "https://sites.google.com/view/team-ligma/home",
         "mentor": "",
-        "description": "We want to help boys residing in the hostel dry their clothes in a convenient and easily accessible place."
+        "description": "We want to help boys residing in the hostel dry their clothes in a convenient and easily accessible place.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-ligma/home"
     },
     {
         "teamName": "Akatsuki",
         "websiteLink": "https://sites.google.com/view/dtl-helpinghand/home",
         "mentor": "",
-        "description": "Our solution gives people suffering with mental illness, a virtual person who can assist them throughout the day, like a friend they hoped for. Unlike traditional chatbots, our solution uses an avatar, making it seem like the user is conversing with a friend via video-call. The bot has been trained to console lonely, depressed and people with dementia, they can talk about anything possible to the bot and the bot will be there to listen to them, anytime. They also seem to struggle in keeping up with a conversation, the bot will help them with it by asking about their day and reminding them of their favorite things, to end up getting them into a conversation. People with dementia ask questions repeatedly, as humans, it becomes difficult to answer over again, but a bot will be able to repeat itself as many number of times. They also tend to forget things they enjoy, the bot can help by reminding them of their allergies and emergency contact shared by the user, in times of danger. People with anxiety can overcome it by talking to a virtual assistant, which can keep conversations confidential."
+        "description": "Our solution gives people suffering with mental illness, a virtual person who can assist them throughout the day, like a friend they hoped for. Unlike traditional chatbots, our solution uses an avatar, making it seem like the user is conversing with a friend via video-call. The bot has been trained to console lonely, depressed and people with dementia, they can talk about anything possible to the bot and the bot will be there to listen to them, anytime. They also seem to struggle in keeping up with a conversation, the bot will help them with it by asking about their day and reminding them of their favorite things, to end up getting them into a conversation. People with dementia ask questions repeatedly, as humans, it becomes difficult to answer over again, but a bot will be able to repeat itself as many number of times. They also tend to forget things they enjoy, the bot can help by reminding them of their allergies and emergency contact shared by the user, in times of danger. People with anxiety can overcome it by talking to a virtual assistant, which can keep conversations confidential.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-helpinghand/home"
     },
     {
         "teamName": "Genesis",
         "websiteLink": "https://sites.google.com/view/teamgenesis-studentforum/home",
         "mentor": "",
-        "description": "In the current day, students are facing many problems due to a lack of guidance both in their personal and professional lives. After a lot of research, we found a few such problems are having no proper faculty, no certified platform, no perfect system, difficulty in planning, lack of character, self-doubt, family issues etc. After doing deeper research into the causes of the problems students are facing we debated all possible solutions thinking from different perspectives such as teacher, student, and parent perspectives we found the best solution would be creating an online student platform where they can express their thoughts and seek other students, insights and advice from them. Students can even form their own forums and mingle with others and find solutions for whatever problems they have. Our link for the  website is : \"https://2sirimeghana.wixsite.com/studenttalk\""
+        "description": "In the current day, students are facing many problems due to a lack of guidance both in their personal and professional lives. After a lot of research, we found a few such problems are having no proper faculty, no certified platform, no perfect system, difficulty in planning, lack of character, self-doubt, family issues etc. After doing deeper research into the causes of the problems students are facing we debated all possible solutions thinking from different perspectives such as teacher, student, and parent perspectives we found the best solution would be creating an online student platform where they can express their thoughts and seek other students, insights and advice from them. Students can even form their own forums and mingle with others and find solutions for whatever problems they have. Our link for the  website is : \"https://2sirimeghana.wixsite.com/studenttalk\"",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamgenesis-studentforum/home"
     },
     {
         "teamName": "DS Thinkers",
         "websiteLink": "https://sites.google.com/view/sortedwaste/home?authuser=0",
         "mentor": "",
-        "description": "To provide India with an easy and efficient method of saving our ecosystem, and educate students about sustainability."
+        "description": "To provide India with an easy and efficient method of saving our ecosystem, and educate students about sustainability.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sortedwaste/home?authuser=0"
     },
     {
         "teamName": "turing fratenity",
         "websiteLink": "https://sites.google.com/view/turing-fraternity-dt/home",
         "mentor": "",
-        "description": "The pottery wheel is made so that even people with no skills can use it. It is a lot helpful for deaf people."
+        "description": "The pottery wheel is made so that even people with no skills can use it. It is a lot helpful for deaf people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/turing-fraternity-dt/home"
     },
     {
         "teamName": "ERROR 404",
         "websiteLink": "https://sites.google.com/view/spaceschool404/home?authuser=0",
         "mentor": "",
-        "description": "Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired."
+        "description": "Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/spaceschool404/home?authuser=0"
     },
     {
         "teamName": "eureka",
         "websiteLink": "https://wix.to/J3ua7WO?",
         "mentor": "",
-        "description": "Genz is a platform that helps students learn more about various opportunities available to them. It answers the questions to many parents also about career choices. we help students discover that  thing they find joy in doing."
+        "description": "Genz is a platform that helps students learn more about various opportunities available to them. It answers the questions to many parents also about career choices. we help students discover that  thing they find joy in doing.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://wix.to/J3ua7WO?"
     },
     {
         "teamName": "Toman",
         "websiteLink": "https://sites.google.com/view/travaid/home?authuser=0",
         "mentor": "",
-        "description": "It all began when we were exchanging our travel stories and realized that a majority of us have lost/forgotten important documents while traveling. This led us to believe that this might actually be a pressing issue for so many people and hence we decided to come up with TravelAid. Initially, we brainstormed and came up with a set of questions that would best sum up the problem in question, so we can find a solution to these questions. We then compiled it into a survey and sampled it. We now aim to dwell on the responses and design the structure of TravelAid so it checks out all our boxes."
+        "description": "It all began when we were exchanging our travel stories and realized that a majority of us have lost/forgotten important documents while traveling. This led us to believe that this might actually be a pressing issue for so many people and hence we decided to come up with TravelAid. Initially, we brainstormed and came up with a set of questions that would best sum up the problem in question, so we can find a solution to these questions. We then compiled it into a survey and sampled it. We now aim to dwell on the responses and design the structure of TravelAid so it checks out all our boxes.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/travaid/home?authuser=0"
     },
     {
         "teamName": "We design",
         "websiteLink": "https://sites.google.com/view/streetshinney/team",
         "mentor": "",
-        "description": "Creative toys"
+        "description": "Creative toys",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/streetshinney/team"
     },
     {
         "teamName": "Poseiden",
         "websiteLink": "https://sites.google.com/view/poseiden/home",
         "mentor": "",
-        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity."
+        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/poseiden/home"
     },
     {
         "teamName": "Team sentinels",
         "websiteLink": "https://sites.google.com/view/sentinals-food-wastage/home",
         "mentor": "",
-        "description": "Our idea was to reduce food wastage in our campus mess. As we observed everyday that there is a lot of food getting wasted, we thought we could find a solution for it."
+        "description": "Our idea was to reduce food wastage in our campus mess. As we observed everyday that there is a lot of food getting wasted, we thought we could find a solution for it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sentinals-food-wastage/home"
     },
     {
         "teamName": "Level up",
         "websiteLink": "https://sites.google.com/view/levell-up/home",
         "mentor": "",
-        "description": "We wanted to help the people stuck in disasters, in an efficient way. First we listed down the disasters and chose one of the deadliest ones, Earthquakes to work on. After discussing with our mentor, we collectively came up with the frog model which is designed to detect earthquakes and help evacuate people from buildings."
+        "description": "We wanted to help the people stuck in disasters, in an efficient way. First we listed down the disasters and chose one of the deadliest ones, Earthquakes to work on. After discussing with our mentor, we collectively came up with the frog model which is designed to detect earthquakes and help evacuate people from buildings.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/levell-up/home"
     },
     {
         "teamName": "Radical Rush",
         "websiteLink": "https://sites.google.com/view/dtlproject1234/home",
         "mentor": "",
-        "description": "We team radical rush choose waste management as our topic. And we collected waste from all around the campus.And by using that waste we made some games and made them to play by the students and staff who are interested ."
+        "description": "We team radical rush choose waste management as our topic. And we collected waste from all around the campus.And by using that waste we made some games and made them to play by the students and staff who are interested .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtlproject1234/home"
     },
     {
         "teamName": "SPAM",
         "websiteLink": "https://sites.google.com/view/spamm-publications/home",
         "mentor": "",
-        "description": "Children's narrative books on sex-education."
+        "description": "Children's narrative books on sex-education.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/spamm-publications/home"
     },
     {
         "teamName": "Poseidon",
         "websiteLink": "https://sites.google.com/view/poseiden/home",
         "mentor": "",
-        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity."
+        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/poseiden/home"
     },
     {
         "teamName": "Radical rush",
         "websiteLink": "https://sites.google.com/view/dtlproject1234/home",
         "mentor": "",
-        "description": "We worked in waste management. I\u2019m which we did a case study of waste management in different places of India. We concluded that we are not reusing or recycling the waste we produce which is causing a lot of environmental pollution like water and soil. The most common waste is plastic. The most common thing we use plastic more is in toys and games. So now we decided to make toys and games out of waste. And to understand whether this will work or not we set up a stall in our campus. Where we arranged a few set of games that are made from random waste collected from our college. I guess this made our project successful. The response we got was soo good."
+        "description": "We worked in waste management. I\u2019m which we did a case study of waste management in different places of India. We concluded that we are not reusing or recycling the waste we produce which is causing a lot of environmental pollution like water and soil. The most common waste is plastic. The most common thing we use plastic more is in toys and games. So now we decided to make toys and games out of waste. And to understand whether this will work or not we set up a stall in our campus. Where we arranged a few set of games that are made from random waste collected from our college. I guess this made our project successful. The response we got was soo good.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtlproject1234/home"
     },
     {
         "teamName": "Innovation factory",
         "websiteLink": "https://sites.google.com/view/innovationfactory02/home",
         "mentor": "",
-        "description": "Our project main idea is to provide fun idea to children who struggle with coping up with study. Help them understand and learn in an easy way."
+        "description": "Our project main idea is to provide fun idea to children who struggle with coping up with study. Help them understand and learn in an easy way.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovationfactory02/home"
     },
     {
         "teamName": "Infinity Assassins",
         "websiteLink": "https://sites.google.com/view/organdonationproject/home?authuser=0",
         "mentor": "",
-        "description": "There is an increase in number of patients on the waiting list due to a lesser number of organs available."
+        "description": "There is an increase in number of patients on the waiting list due to a lesser number of organs available.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/organdonationproject/home?authuser=0"
     },
     {
         "teamName": "We design",
         "websiteLink": "https://sites.google.com/view/streetshinney/team",
         "mentor": "",
-        "description": "This project is all about having fun with friends and here you will get more entertainment with new rules , new design and new idea ."
+        "description": "This project is all about having fun with friends and here you will get more entertainment with new rules , new design and new idea .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/streetshinney/team"
     },
     {
         "teamName": "Multitasker",
         "websiteLink": "https://sites.google.com/view/multitaskerscoalmining/home",
         "mentor": "",
-        "description": "Safety during mining"
+        "description": "Safety during mining",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/multitaskerscoalmining/home"
     },
     {
         "teamName": "Purple Reign",
         "websiteLink": "https://sites.google.com/view/trouver-des-equipes/home",
         "mentor": "",
-        "description": "We have devised an application to allow people to find a teammate best suited for them. This can be for specific projects in mind for which one might want a team, or just to find a group of like-minded people to bond with. If finding a person is what you need, look no further. We have you covered."
+        "description": "We have devised an application to allow people to find a teammate best suited for them. This can be for specific projects in mind for which one might want a team, or just to find a group of like-minded people to bond with. If finding a person is what you need, look no further. We have you covered.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/trouver-des-equipes/home"
     },
     {
         "teamName": "Deeziner Nuts",
         "websiteLink": "https://sites.google.com/view/velgo/home",
         "mentor": "",
-        "description": "Alzheimer's disease (AD) is a complicated disease that could result in vast complications and sometimes, even death. It begins with significant memory loss and errors of judgment, but as it continues, it also has a devastating effect on higher brain functions that many people take for granted."
+        "description": "Alzheimer's disease (AD) is a complicated disease that could result in vast complications and sometimes, even death. It begins with significant memory loss and errors of judgment, but as it continues, it also has a devastating effect on higher brain functions that many people take for granted.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/velgo/home"
     },
     {
         "teamName": "Desparados",
         "websiteLink": "https://lakedeformation.wixsite.com/savelakes",
         "mentor": "",
-        "description": "The base idea of project is restoring the lakes which have been deformed in the city of Hyderabad. When my team saw few lakes in Hyderabad which have been deformed due to pollution, illegal encroachments and other reasons then we decided to take up this project initiative. We started paperwork on describing the lake deformation on charts. As individuals we brought ideas and put it together as a team. We did survey among people and collected their feedback on this topic. We started a website which illustrates our problem statement, team and solutions we worked upon."
+        "description": "The base idea of project is restoring the lakes which have been deformed in the city of Hyderabad. When my team saw few lakes in Hyderabad which have been deformed due to pollution, illegal encroachments and other reasons then we decided to take up this project initiative. We started paperwork on describing the lake deformation on charts. As individuals we brought ideas and put it together as a team. We did survey among people and collected their feedback on this topic. We started a website which illustrates our problem statement, team and solutions we worked upon.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://lakedeformation.wixsite.com/savelakes"
     },
     {
         "teamName": "SE7EN",
         "websiteLink": "https://sites.google.com/view/se7en/home",
         "mentor": "Sayoni Laha",
-        "description": "We aim to develop a personalised movie recommendation system, an idea, which arises from the problem of unfair movie ratings and wastage of time in finding the perfect movie to watch at a particular moment. We aim to create a system which can give personalised movie recommendations to the users based on their taste, favourite genre, history, general mood, etc."
+        "description": "We aim to develop a personalised movie recommendation system, an idea, which arises from the problem of unfair movie ratings and wastage of time in finding the perfect movie to watch at a particular moment. We aim to create a system which can give personalised movie recommendations to the users based on their taste, favourite genre, history, general mood, etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/se7en/home"
     },
     {
         "teamName": "Infinity assassins",
         "websiteLink": "https://sites.google.com/view/organdonationproject/home",
         "mentor": "Ani Thomas",
-        "description": "Organ donation takes healthy organs and tissues from one person for transplantation into another. Experts say that the organs from one donor can save or help as many as 50 people. Organs you can donate include:  Internal organs: Kidneys, heart, liver, pancreas, intestines, lungs Skin Bone and bone marrow Cornea Most organ and tissue donations occur after the donor has died. But some organs and tissues can be donated while the donor is alive.  People of all ages and background can be organ donors. If you are under age 18, your parent or guardian must give you permission to become a donor. If you are 18 or older you can show you want to be a donor by signing a donor card. You should also let your family know your wishes."
+        "description": "Organ donation takes healthy organs and tissues from one person for transplantation into another. Experts say that the organs from one donor can save or help as many as 50 people. Organs you can donate include:  Internal organs: Kidneys, heart, liver, pancreas, intestines, lungs Skin Bone and bone marrow Cornea Most organ and tissue donations occur after the donor has died. But some organs and tissues can be donated while the donor is alive.  People of all ages and background can be organ donors. If you are under age 18, your parent or guardian must give you permission to become a donor. If you are 18 or older you can show you want to be a donor by signing a donor card. You should also let your family know your wishes.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/organdonationproject/home"
     },
     {
         "teamName": "Red Hurricane",
         "websiteLink": "https://sites.google.com/view/red-hurricane/home",
         "mentor": "Raj Narayanan",
-        "description": "Easy Doors to buy and sell NFTs"
+        "description": "Easy Doors to buy and sell NFTs",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/red-hurricane/home"
     },
     {
         "teamName": "The High Table",
         "websiteLink": "https://sites.google.com/view/thtdt/home",
         "mentor": "Raj Narayanan",
-        "description": "Mental health is as important as general physical health.The World Health Organization estimates that the prevalence of mental illnesses has increased substantially and that approximately 20% of youth experience mental disorders. Physical health is not the only major domain of our lives affected by mental health. Good mental health also affects our workplace and our productivity, which affects society. For example, employees who work in stressful work environments can experience burnout. We are working to help people's improve their mental health and finding out what causes depression in people and how it can be dealt. Thereby exploring the causes of mental health issues."
+        "description": "Mental health is as important as general physical health.The World Health Organization estimates that the prevalence of mental illnesses has increased substantially and that approximately 20% of youth experience mental disorders. Physical health is not the only major domain of our lives affected by mental health. Good mental health also affects our workplace and our productivity, which affects society. For example, employees who work in stressful work environments can experience burnout. We are working to help people's improve their mental health and finding out what causes depression in people and how it can be dealt. Thereby exploring the causes of mental health issues.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thtdt/home"
     },
     {
         "teamName": "TIME ATTORNEYS",
         "websiteLink": "https://sites.google.com/view/time-attorneys/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "Our project is based up on the education system . The problems faced in the education system and we find the solutions for it. This project is a very important initiative towards the betterment of society as the problem which we have chosen is a very common problem faced by almost everyone. We even did a on ground data collection and we encountered the same results as expected. Our project is on its way to create a big impact to all the students mainly in India. This is a short project description of our team Time Attorneys . You can further explore our website for more info."
+        "description": "Our project is based up on the education system . The problems faced in the education system and we find the solutions for it. This project is a very important initiative towards the betterment of society as the problem which we have chosen is a very common problem faced by almost everyone. We even did a on ground data collection and we encountered the same results as expected. Our project is on its way to create a big impact to all the students mainly in India. This is a short project description of our team Time Attorneys . You can further explore our website for more info.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/time-attorneys/home?authuser=0"
     },
     {
         "teamName": "Reignite",
         "websiteLink": "https://sites.google.com/view/reignite2022/home",
         "mentor": "Raj Narayanan",
-        "description": "Our first objective was to learn more about all the mental health issues people suffer from and how they vary from person to person. Luckily, in the age of the internet everything can be found within minutes, so went through all the different articles, statistics, and news reports to gather as much information as we can. We understood that 1 in every 5 adults experiences some sort of mental health issue and 1 in every 25 adults has severe effects on how they function daily. Then we went about interviewing ourselves and jotting down all the issues we faced in the past few years and how we reacted to them. Then we went on to interview a few people to get a vague idea about the situation in the general public. We then created a form to take a survey among the larger group of people and the results we got from the survey helped us to come to a general idea that about 40% of the people who are not comfortable in life are facing some sort of mental health issues and almost 80% of them didn't seek any professional help"
+        "description": "Our first objective was to learn more about all the mental health issues people suffer from and how they vary from person to person. Luckily, in the age of the internet everything can be found within minutes, so went through all the different articles, statistics, and news reports to gather as much information as we can. We understood that 1 in every 5 adults experiences some sort of mental health issue and 1 in every 25 adults has severe effects on how they function daily. Then we went about interviewing ourselves and jotting down all the issues we faced in the past few years and how we reacted to them. Then we went on to interview a few people to get a vague idea about the situation in the general public. We then created a form to take a survey among the larger group of people and the results we got from the survey helped us to come to a general idea that about 40% of the people who are not comfortable in life are facing some sort of mental health issues and almost 80% of them didn't seek any professional help",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/reignite2022/home"
     },
     {
         "teamName": "Coco Melon",
         "websiteLink": "https://sites.google.com/view/cocomelonmehy/home?authuser=1",
         "mentor": "Raj Narayanan",
-        "description": "We came up together and decided to work on mental health. We are trying to improve the mental health of people, especially the university students. We would like to come up with a book( a handbook) with short notes to help people improve their mental health. The book would contain short tips or some information, so that they can take a chill pill for a while and get their pieces back. This would help many students to enhance their performance without taking any pressure or wasting time thinking about the other not so important things."
+        "description": "We came up together and decided to work on mental health. We are trying to improve the mental health of people, especially the university students. We would like to come up with a book( a handbook) with short notes to help people improve their mental health. The book would contain short tips or some information, so that they can take a chill pill for a while and get their pieces back. This would help many students to enhance their performance without taking any pressure or wasting time thinking about the other not so important things.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/cocomelonmehy/home?authuser=1"
     },
     {
         "teamName": "Spectaculars",
         "websiteLink": "https://sites.google.com/view/team-spectaculars/home",
         "mentor": "Raj Narayanan",
-        "description": "Our project is all about preventing the accidents on roads that happen just because of neglecting simple things such as not wearing helmets/seat belts, because of the small potholes, etc. Our project aims to resolve these issues and save lives. We considered every small detail about how the accidents occur, we went up to the root cause of the problem,  for every category of accidents, and we finally found more than 600 excellent creative and technical solutions which we hope will help and save as many people as possible."
+        "description": "Our project is all about preventing the accidents on roads that happen just because of neglecting simple things such as not wearing helmets/seat belts, because of the small potholes, etc. Our project aims to resolve these issues and save lives. We considered every small detail about how the accidents occur, we went up to the root cause of the problem,  for every category of accidents, and we finally found more than 600 excellent creative and technical solutions which we hope will help and save as many people as possible.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-spectaculars/home"
     },
     {
         "teamName": "Team Arrow",
         "websiteLink": "https://sites.google.com/view/team-arrow1/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our main mission is to find all the problems students are facing in the library and so we set out to find all the problems which our fellow mates are facing ,so we interviewed the students who frequently visit the library and based on their inputs and feedback we tried to connect all the dots and find out all the reason behind the problems which the students are facing and based in those we had also taken the input of the librarians for their POV and based on their collective responses we are trying to come up with a optimal solution"
+        "description": "Our main mission is to find all the problems students are facing in the library and so we set out to find all the problems which our fellow mates are facing ,so we interviewed the students who frequently visit the library and based on their inputs and feedback we tried to connect all the dots and find out all the reason behind the problems which the students are facing and based in those we had also taken the input of the librarians for their POV and based on their collective responses we are trying to come up with a optimal solution",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-arrow1/home"
     },
     {
         "teamName": "Amnesia",
         "websiteLink": "https://sites.google.com/view/smart-university/home",
         "mentor": "Raj Narayanan",
-        "description": "In our cars, stores, banks, and homes, smart technologies are already a part of our daily lives. On a daily basis, we come into contact with intelligent settings. Despite this, many universities continue to maintain siloed infrastructures that don't serve or connect with anyone other than their connected stakeholders. There are a number of software platforms and enormous ERP/SIS systems that do not communicate with one another. Consider a different type of infrastructure: one that intelligently communicated to assure positive results in every encounter and event. Our goal is to use technology wherever possible and make tasks done by the colleges/universities easier, smarter and much more faster."
+        "description": "In our cars, stores, banks, and homes, smart technologies are already a part of our daily lives. On a daily basis, we come into contact with intelligent settings. Despite this, many universities continue to maintain siloed infrastructures that don't serve or connect with anyone other than their connected stakeholders. There are a number of software platforms and enormous ERP/SIS systems that do not communicate with one another. Consider a different type of infrastructure: one that intelligently communicated to assure positive results in every encounter and event. Our goal is to use technology wherever possible and make tasks done by the colleges/universities easier, smarter and much more faster.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smart-university/home"
     },
     {
         "teamName": "Radical Rush",
         "websiteLink": "https://sites.google.com/view/radicalrush/home",
         "mentor": "Sayoni Laha",
-        "description": "Waste Management, the topic as we chose was mainly to look for the possibilities and ways ,the waste can be managed to bring a little possible change in this environment. First we looked into the reasons and sources where the waste is being produced in large amount. We could find many reasons on waste being produced. We filtered out some of them and chose the reason which was convenient to us, to work on it and chose ,toys from waste as a possibility to bring the change that is in our catch. As we researched, we got know that, dry waste can be used or molded into toys when worked on it. Cardboards, thermacols, used tins, some of the plastic wastes etc has been used to built toys. We could gather a lot of knowledge on wastes being produced in our country and all over the world. We got to know that, there are different types of wastes and has a large impact on the environment when left unconcerned. Flowcharts, google forms etc were made in order to get a clear point of view on what can be done by us to bring a change. It was fun making and we tried our best in achieving so."
+        "description": "Waste Management, the topic as we chose was mainly to look for the possibilities and ways ,the waste can be managed to bring a little possible change in this environment. First we looked into the reasons and sources where the waste is being produced in large amount. We could find many reasons on waste being produced. We filtered out some of them and chose the reason which was convenient to us, to work on it and chose ,toys from waste as a possibility to bring the change that is in our catch. As we researched, we got know that, dry waste can be used or molded into toys when worked on it. Cardboards, thermacols, used tins, some of the plastic wastes etc has been used to built toys. We could gather a lot of knowledge on wastes being produced in our country and all over the world. We got to know that, there are different types of wastes and has a large impact on the environment when left unconcerned. Flowcharts, google forms etc were made in order to get a clear point of view on what can be done by us to bring a change. It was fun making and we tried our best in achieving so.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/radicalrush/home"
     },
     {
         "teamName": "The Fight Club",
         "websiteLink": "https://sites.google.com/view/fightclub-revive/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our project is mainly focused on mental health, and we narrowed down our target audience to B-Tech students. We came up with this idea after we saw our friends who were disturbed during our semester exams and also due to some other reasons. So we started to think about how we can help our friends and wanted to know more about the problem and hence came up with a few questions. We talked to our fellow students with these questions in mind. Then we were able to categorize the most common reasons for students' mental disturbance and frame a problem statement. Currently, we are in the process of finding an effective solution that can be of help to a large number of students."
+        "description": "Our project is mainly focused on mental health, and we narrowed down our target audience to B-Tech students. We came up with this idea after we saw our friends who were disturbed during our semester exams and also due to some other reasons. So we started to think about how we can help our friends and wanted to know more about the problem and hence came up with a few questions. We talked to our fellow students with these questions in mind. Then we were able to categorize the most common reasons for students' mental disturbance and frame a problem statement. Currently, we are in the process of finding an effective solution that can be of help to a large number of students.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/fightclub-revive/home"
     },
     {
         "teamName": "Eco Troops",
         "websiteLink": "https://ritesh7153.wixsite.com/website-2",
         "mentor": "Raj Narayanan",
-        "description": "We are here to reduce the pollution on earth by converting pollution into usable electricity. As there is increase in pollution and shortage of non-renewable resources which is used to convert electricity. So we came up with an idea which will convert pollution to electricity. We are making a collaborative meet with the electric, chemical companies for our project."
+        "description": "We are here to reduce the pollution on earth by converting pollution into usable electricity. As there is increase in pollution and shortage of non-renewable resources which is used to convert electricity. So we came up with an idea which will convert pollution to electricity. We are making a collaborative meet with the electric, chemical companies for our project.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://ritesh7153.wixsite.com/website-2"
     },
     {
         "teamName": "SOLANA",
         "websiteLink": "https://sites.google.com/view/team-solana/home",
         "mentor": "Sayoni Laha",
-        "description": "After a long period of lockdown due to a unprecedented crisis, we came to a realization on how easy it is to lose dietary and exercise patterns. On a broad perspective, we found out that many people are going through a similar issue in their daily life, from a survey we conducted on over 150 people. We decided to create an app which guides people from all economic spectrums with a custom diet and fitness plans based on their daily routine. We highlighted the main problems faced by people ranging from their work pressure and lack of time to their own health issues. We plan to proceed forward based on the survey and highlighted problems to a proper execution of our app which, hopefully would be beneficial to many people."
+        "description": "After a long period of lockdown due to a unprecedented crisis, we came to a realization on how easy it is to lose dietary and exercise patterns. On a broad perspective, we found out that many people are going through a similar issue in their daily life, from a survey we conducted on over 150 people. We decided to create an app which guides people from all economic spectrums with a custom diet and fitness plans based on their daily routine. We highlighted the main problems faced by people ranging from their work pressure and lack of time to their own health issues. We plan to proceed forward based on the survey and highlighted problems to a proper execution of our app which, hopefully would be beneficial to many people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-solana/home"
     },
     {
         "teamName": "THE CHAMBER OF SECRETS",
         "websiteLink": "https://sites.google.com/d/1Yg_ci88Km0tN6UtsxS6gAigvByhjUMs4/p/1Kqly2oCuZ8CrNYII6jxGXyfvuqD0i4lA/edit",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Hope For Paws is  non-profit animal rescue organization. Animals, whether we are aware or not, play a huge role in our lives and in the environment. Therefore, it's in our best interest to help them. We rescue dogs, cats and other types of animals suffering on the streets or neglected in the wild. Through rescue and education, Hope For Paws works to raise awareness for abandoned animals.Dogs are man\u2019s best friend for a reason. Humans and dogs have shared a special bond for centuries. These friendly pups help us reduce anxiety and tension and love us with all they have. While we give sweet and comforting hugs to our pets, there are some poor pups who live on the streets and are often deprived of all the warmth and affection. We sometimes feel anxious and sad for these helpless dogs on streets in rough weather conditions and with poor health issues. This made up to take up on this mission for the betterment of strays .We are actively conducting the surveys regarding the difficulties faced by the strays . We initially conducted a survey regarding the condition of stray dogs and the results were not too encouraging. We are also observing an active participation of people along with us to take the mission forward .  We are also glad to inform that around 20 volunteers joined us to help in improving the life of strays.  We are trying to contact several sponsors for funding as well. We fed around 50 dogs since we took up this mission.  The dogs we feed today are in good and healthy shape, we are even thinking about creating a platform for adoption.We are a group of seven friends with a vision  who got moved by the condition of stray animals during these covid times as they were unable to find food. Many studies also show that the percentage increase of stray animals is very high over the last couple of years. By observing all these we decided to take up this mission in helping the stray animals to make sure they find food and shelter."
+        "description": "Hope For Paws is  non-profit animal rescue organization. Animals, whether we are aware or not, play a huge role in our lives and in the environment. Therefore, it's in our best interest to help them. We rescue dogs, cats and other types of animals suffering on the streets or neglected in the wild. Through rescue and education, Hope For Paws works to raise awareness for abandoned animals.Dogs are man\u2019s best friend for a reason. Humans and dogs have shared a special bond for centuries. These friendly pups help us reduce anxiety and tension and love us with all they have. While we give sweet and comforting hugs to our pets, there are some poor pups who live on the streets and are often deprived of all the warmth and affection. We sometimes feel anxious and sad for these helpless dogs on streets in rough weather conditions and with poor health issues. This made up to take up on this mission for the betterment of strays .We are actively conducting the surveys regarding the difficulties faced by the strays . We initially conducted a survey regarding the condition of stray dogs and the results were not too encouraging. We are also observing an active participation of people along with us to take the mission forward .  We are also glad to inform that around 20 volunteers joined us to help in improving the life of strays.  We are trying to contact several sponsors for funding as well. We fed around 50 dogs since we took up this mission.  The dogs we feed today are in good and healthy shape, we are even thinking about creating a platform for adoption.We are a group of seven friends with a vision  who got moved by the condition of stray animals during these covid times as they were unable to find food. Many studies also show that the percentage increase of stray animals is very high over the last couple of years. By observing all these we decided to take up this mission in helping the stray animals to make sure they find food and shelter.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1Yg_ci88Km0tN6UtsxS6gAigvByhjUMs4/p/1Kqly2oCuZ8CrNYII6jxGXyfvuqD0i4lA/edit"
     },
     {
         "teamName": "Jack warriors",
         "websiteLink": "https://koratalaabhiram809.wixsite.com/lifeunderwater",
         "mentor": "Raj Narayanan",
-        "description": "When we were discussing about the project ideas, most of us were interested in oceans. So, we chose this topic to learn more about the oceans and also find the possible solutions to some of the ocean related problems. Marine pollution, Ocean acidification and Improper conservation of coastal and marine areas are the main problems for life under water. Our project is inclined towards understanding the causes and effects of these problems and come up with solutions."
+        "description": "When we were discussing about the project ideas, most of us were interested in oceans. So, we chose this topic to learn more about the oceans and also find the possible solutions to some of the ocean related problems. Marine pollution, Ocean acidification and Improper conservation of coastal and marine areas are the main problems for life under water. Our project is inclined towards understanding the causes and effects of these problems and come up with solutions.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://koratalaabhiram809.wixsite.com/lifeunderwater"
     },
     {
         "teamName": "BLACK CANVAS",
         "websiteLink": "https://sites.google.com/view/comparacio-dtl/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our project is Comparaci\u00f3, which means comparison in Catalan. The idea of our project is to create a website which displays the price comparison of the same product in different websites, as we noticed the variation of prices of same product in different websites. Our website lists out the best price comparison for any product that you want so that you can make the best decision possible considering the pros and cons. While searching for a product, we came across variations in prices for the same product in different websites. So we came up with this idea, to create this website which displays the pice comparison of the same product in different websites."
+        "description": "Our project is Comparaci\u00f3, which means comparison in Catalan. The idea of our project is to create a website which displays the price comparison of the same product in different websites, as we noticed the variation of prices of same product in different websites. Our website lists out the best price comparison for any product that you want so that you can make the best decision possible considering the pros and cons. While searching for a product, we came across variations in prices for the same product in different websites. So we came up with this idea, to create this website which displays the pice comparison of the same product in different websites.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/comparacio-dtl/home"
     },
     {
         "teamName": "Crew X",
         "websiteLink": "https://sites.google.com/view/crewx/home",
         "mentor": "Sayoni Laha",
-        "description": "We chose the concept of Creative toys.This is an entertainment game and it is a puzzle type one. there are three levels in this game L0 L1 L2.At the first level i.e., Level-0 it is a board game where you throw a dice and only tom and jerry are the characters. simply it is a snake and ladder game type.  There is Start and End in the Game.  To moving for further levels new characters will be introduced. this is regarding our game"
+        "description": "We chose the concept of Creative toys.This is an entertainment game and it is a puzzle type one. there are three levels in this game L0 L1 L2.At the first level i.e., Level-0 it is a board game where you throw a dice and only tom and jerry are the characters. simply it is a snake and ladder game type.  There is Start and End in the Game.  To moving for further levels new characters will be introduced. this is regarding our game",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/crewx/home"
     },
     {
         "teamName": "BRAVEHEARTS",
         "websiteLink": "https://sites.google.com/view/getscholified/2",
         "mentor": "Abhinav Chaturvedi",
-        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.At last our goal is to provide scholarships to students through us."
+        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.At last our goal is to provide scholarships to students through us.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/getscholified/2"
     },
     {
         "teamName": "Thinking",
         "websiteLink": "https://sites.google.com/view/transportationis/home",
         "mentor": "Ani Thomas",
-        "description": "Transport: Lack of secure and easily accessible transport at economic fares in hyderabad"
+        "description": "Transport: Lack of secure and easily accessible transport at economic fares in hyderabad",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportationis/home"
     },
     {
         "teamName": "Baka",
         "websiteLink": "https://sites.google.com/view/transportationproblem/home",
         "mentor": "Raj Narayanan",
-        "description": "We intially brainstormed a few problems we were facing in our daily lifes and later on after meeting our mentor we narrowed it down to transportation problem.The transportation problem is the high fare price being charged when traveling to and fro from campus. To figure out if we were the only faceing this problem or not we surveyed a few of our college mates and figured that there are different segements/groups of people who travel in different ways.So right now we are made the segementations and pur figuring out the relations between the data points we got.with this infromation we will move forward and find a solution for our problem"
+        "description": "We intially brainstormed a few problems we were facing in our daily lifes and later on after meeting our mentor we narrowed it down to transportation problem.The transportation problem is the high fare price being charged when traveling to and fro from campus. To figure out if we were the only faceing this problem or not we surveyed a few of our college mates and figured that there are different segements/groups of people who travel in different ways.So right now we are made the segementations and pur figuring out the relations between the data points we got.with this infromation we will move forward and find a solution for our problem",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportationproblem/home"
     },
     {
         "teamName": "THE CHAMBER OF SECRETS",
         "websiteLink": "https://sites.google.com/view/hopeforpaws7/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Hope For Paws is  non-profit animal rescue organization. Animals, whether we are aware or not, play a huge role in our lives and in the environment. Therefore, it's in our best interest to help them. We rescue dogs, cats and other types of animals suffering on the streets or neglected in the wild. Through rescue and education, Hope For Paws works to raise awareness for abandoned animals.Dogs are man\u2019s best friend for a reason. Humans and dogs have shared a special bond for centuries. These friendly pups help us reduce anxiety and tension and love us with all they have. While we give sweet and comforting hugs to our pets, there are some poor pups who live on the streets and are often deprived of all the warmth and affection. We sometimes feel anxious and sad for these helpless dogs on streets in rough weather conditions and with poor health issues. This made up to take up on this mission for the betterment of strays .We are actively conducting the surveys regarding the difficulties faced by the strays . We initially conducted a survey regarding the condition of stray dogs and the results were not too encouraging. We are also observing an active participation of people along with us to take the mission forward .  We are also glad to inform that around 20 volunteers joined us to help in improving the life of strays.  We are trying to contact several sponsors for funding as well. We fed around 50 dogs since we took up this mission.  The dogs we feed today are in good and healthy shape, we are even thinking about creating a platform for adoption.We are a group of seven friends with a vision  who got moved by the condition of stray animals during these covid times as they were unable to find food. Many studies also show that the percentage increase of stray animals is very high over the last couple of years. By observing all these we decided to take up this mission in helping the stray animals to make sure they find food and shelter."
+        "description": "Hope For Paws is  non-profit animal rescue organization. Animals, whether we are aware or not, play a huge role in our lives and in the environment. Therefore, it's in our best interest to help them. We rescue dogs, cats and other types of animals suffering on the streets or neglected in the wild. Through rescue and education, Hope For Paws works to raise awareness for abandoned animals.Dogs are man\u2019s best friend for a reason. Humans and dogs have shared a special bond for centuries. These friendly pups help us reduce anxiety and tension and love us with all they have. While we give sweet and comforting hugs to our pets, there are some poor pups who live on the streets and are often deprived of all the warmth and affection. We sometimes feel anxious and sad for these helpless dogs on streets in rough weather conditions and with poor health issues. This made up to take up on this mission for the betterment of strays .We are actively conducting the surveys regarding the difficulties faced by the strays . We initially conducted a survey regarding the condition of stray dogs and the results were not too encouraging. We are also observing an active participation of people along with us to take the mission forward .  We are also glad to inform that around 20 volunteers joined us to help in improving the life of strays.  We are trying to contact several sponsors for funding as well. We fed around 50 dogs since we took up this mission.  The dogs we feed today are in good and healthy shape, we are even thinking about creating a platform for adoption.We are a group of seven friends with a vision  who got moved by the condition of stray animals during these covid times as they were unable to find food. Many studies also show that the percentage increase of stray animals is very high over the last couple of years. By observing all these we decided to take up this mission in helping the stray animals to make sure they find food and shelter.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hopeforpaws7/home"
     },
     {
         "teamName": "Eureka!",
         "websiteLink": "https://organizeyourself.wixsite.com/eureka",
         "mentor": "Ani Thomas",
-        "description": "Our project is about understanding our education system. It is also about identifying the major external factors that affect it. It is also very related to students of different ages and their general and specialised requirements. Most of all, we wish to brainstorm  and generate relevant ideas. Ideas that will help change the way things are thought of and done. This is because, it is our sincere belief that education is more important than it is treated to be. We believe it is the path to revolutionary change. Therefore, it can be better. It must be better."
+        "description": "Our project is about understanding our education system. It is also about identifying the major external factors that affect it. It is also very related to students of different ages and their general and specialised requirements. Most of all, we wish to brainstorm  and generate relevant ideas. Ideas that will help change the way things are thought of and done. This is because, it is our sincere belief that education is more important than it is treated to be. We believe it is the path to revolutionary change. Therefore, it can be better. It must be better.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://organizeyourself.wixsite.com/eureka"
     },
     {
         "teamName": "Perseverence",
         "websiteLink": "https://forms.office.com/pages/responsepage.aspx?id=ZJH4ixGzykCilS4PXznRTmWCpYeRpyZKpBYIzg2MQj1UOFdSWE9UWk9GRjNYN1RCSklVTE03NFRSTy4u",
         "mentor": "Ani Thomas",
-        "description": "Seeing a vast and huge, nearly unending pile of waste dumped in the outskirts of city made us choose this topic. Under this project we aim to come-up, look into, makes ourselves audible and not smell some nasty smells with the root cause of in-efficient management of waste. We hope that by coming up with this/these root cause(s) we (as a team) or anybody reading going through our project will give a few suggestions or will try to address this/these cause(S) in their own unique way. What we were able to sense uptill now is that its not just that people are unaware of the need to manage waste but there are certain more important things that are holding them back to do so such as the amount of personal investment of money they need to make in order to segregate waste. But we can also say that there is a lot of unawareness, among the people or the organisations addressing this issue about efficient ways to manage waste. As this project onsets us on our journey to explore the cause(s), we want to give it out best to understand and come up with it, as only after we are able to uncover the cause(es) it would be easy for anyone to come-up with solutions."
+        "description": "Seeing a vast and huge, nearly unending pile of waste dumped in the outskirts of city made us choose this topic. Under this project we aim to come-up, look into, makes ourselves audible and not smell some nasty smells with the root cause of in-efficient management of waste. We hope that by coming up with this/these root cause(s) we (as a team) or anybody reading going through our project will give a few suggestions or will try to address this/these cause(S) in their own unique way. What we were able to sense uptill now is that its not just that people are unaware of the need to manage waste but there are certain more important things that are holding them back to do so such as the amount of personal investment of money they need to make in order to segregate waste. But we can also say that there is a lot of unawareness, among the people or the organisations addressing this issue about efficient ways to manage waste. As this project onsets us on our journey to explore the cause(s), we want to give it out best to understand and come up with it, as only after we are able to uncover the cause(es) it would be easy for anyone to come-up with solutions.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://forms.office.com/pages/responsepage.aspx?id=ZJH4ixGzykCilS4PXznRTmWCpYeRpyZKpBYIzg2MQj1UOFdSWE9UWk9GRjNYN1RCSklVTE03NFRSTy4u"
     },
     {
         "teamName": "Team Relier",
         "websiteLink": "https://sites.google.com/view/teamrelier/home",
         "mentor": "Raj Narayanan",
-        "description": "Our Project is about converging the unorganized sector into the present corporate organized world. So, that they can get more benefits and be exposed to a large community of customers and also earn more and be more sophisticated."
+        "description": "Our Project is about converging the unorganized sector into the present corporate organized world. So, that they can get more benefits and be exposed to a large community of customers and also earn more and be more sophisticated.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamrelier/home"
     },
     {
         "teamName": "AlphaCrew",
         "websiteLink": "https://sites.google.com/view/alphacrewdtl/home",
         "mentor": "Raj Narayanan",
-        "description": "Emot-R is basically like a dash cam which sits on the dashboard of any vehicle, and is focused on the drivers face. It detects minute details or changes in the drivers face expressions to tell if anything is suspicious. For example, looking back often, concentrating on what people are doing in the back seat, etc. are a few situations where our device may detect and deem it to be suspicious. We will develop an Al and Machine learning model which does the work for us. We will concentrate on public transports. Whenever there is suspicious activity, a notification will be send to passengers phone who will have our app so that they can be aware."
+        "description": "Emot-R is basically like a dash cam which sits on the dashboard of any vehicle, and is focused on the drivers face. It detects minute details or changes in the drivers face expressions to tell if anything is suspicious. For example, looking back often, concentrating on what people are doing in the back seat, etc. are a few situations where our device may detect and deem it to be suspicious. We will develop an Al and Machine learning model which does the work for us. We will concentrate on public transports. Whenever there is suspicious activity, a notification will be send to passengers phone who will have our app so that they can be aware.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/alphacrewdtl/home"
     },
     {
         "teamName": "Ascension",
         "websiteLink": "https://sites.google.com/view/ascensionmessfix/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our project is about the Mess rush we experience everyday. Due to the long queues the students have to face on campus every mealtime, we at team Ascension are here to find the root cause and come up with a way to solve the issue at hand."
+        "description": "Our project is about the Mess rush we experience everyday. Due to the long queues the students have to face on campus every mealtime, we at team Ascension are here to find the root cause and come up with a way to solve the issue at hand.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ascensionmessfix/home"
     },
     {
         "teamName": "Sad Mo",
         "websiteLink": "https://sites.google.com/aiesec.net/vervoer/home",
         "mentor": "Sayoni Laha",
-        "description": "The goal of our project is to make transportation around the campus easier for students. This will result in time management and easier access on campus."
+        "description": "The goal of our project is to make transportation around the campus easier for students. This will result in time management and easier access on campus.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/aiesec.net/vervoer/home"
     },
     {
         "teamName": "Area 51",
         "websiteLink": "https://sites.google.com/view/touristexploitation/home",
         "mentor": "Sayoni Laha",
-        "description": "We know , there are many tourists exploring all over the world are facing many challenges . We as a team , trying to help tourists explore the world without getting exploited and  make them experience the place the way it should be experienced"
+        "description": "We know , there are many tourists exploring all over the world are facing many challenges . We as a team , trying to help tourists explore the world without getting exploited and  make them experience the place the way it should be experienced",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/touristexploitation/home"
     },
     {
         "teamName": "Elite 8",
         "websiteLink": "https://sites.google.com/view/elite-8/home",
         "mentor": "Raj Narayanan",
-        "description": "We started this project with the motivation of reducing the impact of plastic on the environment and we started discussing among our group like what are the problems, effects of plastics on environment and we are still trying to find a solution for it."
+        "description": "We started this project with the motivation of reducing the impact of plastic on the environment and we started discussing among our group like what are the problems, effects of plastics on environment and we are still trying to find a solution for it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elite-8/home"
     },
     {
         "teamName": "Dreamers",
         "websiteLink": "https://sites.google.com/view/autisticartists/home",
         "mentor": "Sayoni Laha",
-        "description": "Our project mainly deals with creating educational toys for autistic children to stimulate their learning as we feel that toys engage a child\u2019s interest and imagination and can give a good learning experience. Autism spectrum disorder is basically a difference in the way a kid's brain develop. As toys are teaching tools for all children, especially for kids with autism, they are expected to instruct, promote intellectuality, emotional and physical development. Different toys like sensory toys, movement toys, construction toys can help them boost their IQ, enhance development of their sense, improve concentration which is the main motive behind our project."
+        "description": "Our project mainly deals with creating educational toys for autistic children to stimulate their learning as we feel that toys engage a child\u2019s interest and imagination and can give a good learning experience. Autism spectrum disorder is basically a difference in the way a kid's brain develop. As toys are teaching tools for all children, especially for kids with autism, they are expected to instruct, promote intellectuality, emotional and physical development. Different toys like sensory toys, movement toys, construction toys can help them boost their IQ, enhance development of their sense, improve concentration which is the main motive behind our project.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/autisticartists/home"
     },
     {
         "teamName": "A Team Without Name",
         "websiteLink": "https://sites.google.com/view/ateamwithoutname/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "Our project is based on a mission where we are providing each member given the fact that they can me introvert or extrovert, we will be giving them there ideal team so that they can work efficiently and properly."
+        "description": "Our project is based on a mission where we are providing each member given the fact that they can me introvert or extrovert, we will be giving them there ideal team so that they can work efficiently and properly.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ateamwithoutname/home?authuser=0"
     },
     {
         "teamName": "KANYA RAASI",
         "websiteLink": "https://sites.google.com/view/swishwish/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Ordering stuff online is convenient, but is it so always? Our initiative focuses on introducing a mini-supermarket / grocery store for the students and faculty of MU, and this shall be on campus itself. We came up with this idea just to resolve some of the issues that we all might be facing with online grocery shopping while on campus. For example, one may be needing an item under urgency, one would definitely then prefer going to a store that's within a walkable distance over ordering it online that might take 2-3 days to arrive. Not just this, online shopping for groceries can also be more expensive at times depending on the demand and delivery charges. Good packaging and quality of products ordered online may also not be assured. In case one's looking for perishable items like milk and curd, or even fresh fruits and vegetables on a daily basis, one has no other choice but to go to a nearby grocery store!"
+        "description": "Ordering stuff online is convenient, but is it so always? Our initiative focuses on introducing a mini-supermarket / grocery store for the students and faculty of MU, and this shall be on campus itself. We came up with this idea just to resolve some of the issues that we all might be facing with online grocery shopping while on campus. For example, one may be needing an item under urgency, one would definitely then prefer going to a store that's within a walkable distance over ordering it online that might take 2-3 days to arrive. Not just this, online shopping for groceries can also be more expensive at times depending on the demand and delivery charges. Good packaging and quality of products ordered online may also not be assured. In case one's looking for perishable items like milk and curd, or even fresh fruits and vegetables on a daily basis, one has no other choice but to go to a nearby grocery store!",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/swishwish/home"
     },
     {
         "teamName": "Yes",
         "websiteLink": "https://enlargeappear08.wixsite.com/website-1",
         "mentor": "Sayoni Laha",
-        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people."
+        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://enlargeappear08.wixsite.com/website-1"
     },
     {
         "teamName": "Inevitable",
         "websiteLink": "https://enlargeappear08.wixsite.com/website-1",
         "mentor": "Sayoni Laha",
-        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people."
+        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://enlargeappear08.wixsite.com/website-1"
     },
     {
         "teamName": "Flash",
         "websiteLink": "https://sites.google.com/view/teamflash/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Project Insight - the indoor navigation system of the ever changing world, is a dream project of team flash and let me tell you how this idea came into existence. One day our friend and one of the founding members of this team got lost inside Mahindra University campus that\u2019s when we decided to work on this issue, but later while digging deeper we got to know that this issue is faced by all the working class. Now that we have understood our target audience and problem statement we are currently working on various ways of solving this issue and moving ahead with this project."
+        "description": "Project Insight - the indoor navigation system of the ever changing world, is a dream project of team flash and let me tell you how this idea came into existence. One day our friend and one of the founding members of this team got lost inside Mahindra University campus that\u2019s when we decided to work on this issue, but later while digging deeper we got to know that this issue is faced by all the working class. Now that we have understood our target audience and problem statement we are currently working on various ways of solving this issue and moving ahead with this project.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamflash/home"
     },
     {
         "teamName": "UNSTOPPABLE",
         "websiteLink": "https://sites.google.com/view/dtl-unstoppable/home",
         "mentor": "Raj Narayanan",
-        "description": "This project is about Hyderabad pros and cons, we actutally trying to  find  pros and cons and  what makes Hyderabad stop to become a greater city, how can they can be better to make Hyderabad a greater smart citythis all started when we thought about developing a smart city of our own  like gated community with all facilities when we have idea of smart city we had thought of  hyderabad what stops hyderabad to be a greater smart city so started there project on hyderabad developmentOf many discussion many trails we listed  hyderabad pros and cons and next we are  trying to find solution of them to make hyderabad a more better city"
+        "description": "This project is about Hyderabad pros and cons, we actutally trying to  find  pros and cons and  what makes Hyderabad stop to become a greater city, how can they can be better to make Hyderabad a greater smart citythis all started when we thought about developing a smart city of our own  like gated community with all facilities when we have idea of smart city we had thought of  hyderabad what stops hyderabad to be a greater smart city so started there project on hyderabad developmentOf many discussion many trails we listed  hyderabad pros and cons and next we are  trying to find solution of them to make hyderabad a more better city",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-unstoppable/home"
     },
     {
         "teamName": "Surprisingly shitty",
         "websiteLink": "https://sites.google.com/view/octowash/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our project focuses on the laundry problems faced by many students on-campus. On top of not enough machines, no proper adherence to the rules, frequent repairs etc were additional problems that came from the insufficiency that was there. We aim to solve that problem and bring a better, convenient laundry services to hostelers :) The solution we're looking for can be anything; from a mere website or an app to a whole new installation of laundromat or a better laundry service, so we're really looking forward to how the results turn out"
+        "description": "Our project focuses on the laundry problems faced by many students on-campus. On top of not enough machines, no proper adherence to the rules, frequent repairs etc were additional problems that came from the insufficiency that was there. We aim to solve that problem and bring a better, convenient laundry services to hostelers :) The solution we're looking for can be anything; from a mere website or an app to a whole new installation of laundromat or a better laundry service, so we're really looking forward to how the results turn out",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/octowash/home"
     },
     {
         "teamName": "Hermeneutics",
         "websiteLink": "https://enlargeappear08.wixsite.com/website-1",
         "mentor": "Sayoni Laha",
-        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people."
+        "description": "Designing Solutions For The Visually Challenged People is the theme of our project. We formed a team and are now working on solutions. Some visually impaired people were interviewed.\u00a0 We learned about their difficulties and are attempting to solve them through innovation and ideas. As we progressed, we learned about a variety of answers and concepts. An Empathy Map was created by us. A Community For the Blind, and A Smart Blind Stick are two of the solutions we learned about. We hope that our efforts will aid at least some blind people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://enlargeappear08.wixsite.com/website-1"
     },
     {
         "teamName": "Stack",
         "websiteLink": "https://sites.google.com/view/adjustable--chair",
         "mentor": "Sayoni Laha",
-        "description": "The main motive of the project \"An Adjustable Chair\" is to reduce the difficulties faced by elders to adjust their chairs. This new invention (Adjustable chair) makes it easier to alter in different angles and gets aligned automatically based on the spine condition with less effort. It is cushioned and also the material used is washable. Another benefit of the material is that it doesn\u2019t hold dust or moisture and can sit for a longer duration. New features of the Adjustable chair include a medicine reminder set that reminds medicines from time to time, a leg rest that supports toes that help in avoiding avoid muscle cramps, a customized food tray, and a cup holder that helps in placing food plate and glasses on them, etc."
+        "description": "The main motive of the project \"An Adjustable Chair\" is to reduce the difficulties faced by elders to adjust their chairs. This new invention (Adjustable chair) makes it easier to alter in different angles and gets aligned automatically based on the spine condition with less effort. It is cushioned and also the material used is washable. Another benefit of the material is that it doesn\u2019t hold dust or moisture and can sit for a longer duration. New features of the Adjustable chair include a medicine reminder set that reminds medicines from time to time, a leg rest that supports toes that help in avoiding avoid muscle cramps, a customized food tray, and a cup holder that helps in placing food plate and glasses on them, etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/adjustable--chair"
     },
     {
         "teamName": "INSANE",
         "websiteLink": "https://sites.google.com/view/no-food-waste/home",
         "mentor": "Raj Narayanan",
-        "description": "Todays main problem is food wastage, we took this as our main problem statement. Around the globe there is a lot of food scarcity. Due to this most of the people in the world face food shortage. Also most of the resources used to make food like water, fertilizers etc are getting wasted. Only 60% of the food is consumed and the rest is lost in transportation, restaurants and in home. When considering India about 190 million Indians remain undernourished and the value of food wastage in India is around 92000 crores per annum. Approximately 84.7% of the total food is getting wasted. So we have to take actions to reduce the wastage of food"
+        "description": "Todays main problem is food wastage, we took this as our main problem statement. Around the globe there is a lot of food scarcity. Due to this most of the people in the world face food shortage. Also most of the resources used to make food like water, fertilizers etc are getting wasted. Only 60% of the food is consumed and the rest is lost in transportation, restaurants and in home. When considering India about 190 million Indians remain undernourished and the value of food wastage in India is around 92000 crores per annum. Approximately 84.7% of the total food is getting wasted. So we have to take actions to reduce the wastage of food",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/no-food-waste/home"
     },
     {
         "teamName": "INSANE",
         "websiteLink": "https://sites.google.com/view/no-food-waste/home",
         "mentor": "Raj Narayanan",
-        "description": "Todays main problem is food wastage, we took this as our main problem statement. Around the globe there is a lot of food scarcity. Due to this most of the people in the world face food shortage. Also most of the resources used to make food like water, fertilizers etc are getting wasted. Only 60% of the food is consumed and the rest is lost in transportation, restaurants and in home. When considering India about 190 million Indians remain undernourished and the value of food wastage in India is around 92000 crores per annum. Approximately 84.7% of the total food is getting wasted. So we have to take actions to reduce the wastage of food"
+        "description": "Todays main problem is food wastage, we took this as our main problem statement. Around the globe there is a lot of food scarcity. Due to this most of the people in the world face food shortage. Also most of the resources used to make food like water, fertilizers etc are getting wasted. Only 60% of the food is consumed and the rest is lost in transportation, restaurants and in home. When considering India about 190 million Indians remain undernourished and the value of food wastage in India is around 92000 crores per annum. Approximately 84.7% of the total food is getting wasted. So we have to take actions to reduce the wastage of food",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/no-food-waste/home"
     },
     {
         "teamName": "SIUUUUUUUUUUUUUUUUUUUUUUUUUU",
         "websiteLink": "https://sites.google.com/view/siuuuuuuuuuuuuuuuuuuuuuuuuuuu/home",
         "mentor": "Sayoni Laha",
-        "description": "The basic idea was on waste management. After countless discussions with team and mentor, we realized that lot of waste is dumped into water bodies. In the next team meeting, each one of us discussed about the water bodies that were polluted in their locality. Once the meeting was done, we were able to conclude that initiatives or solutions were proposed to clean the water in some places. However, even now, many rivers, lakes and other water bodies still remain polluted and will be a potential threat to living beings if action is not taken."
+        "description": "The basic idea was on waste management. After countless discussions with team and mentor, we realized that lot of waste is dumped into water bodies. In the next team meeting, each one of us discussed about the water bodies that were polluted in their locality. Once the meeting was done, we were able to conclude that initiatives or solutions were proposed to clean the water in some places. However, even now, many rivers, lakes and other water bodies still remain polluted and will be a potential threat to living beings if action is not taken.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/siuuuuuuuuuuuuuuuuuuuuuuuuuuu/home"
     },
     {
         "teamName": "Eureka!",
         "websiteLink": "https://sites.google.com/view/change-in-education/home",
         "mentor": "Ani Thomas",
-        "description": "Our project is about understanding our education system. It is also about identifying the major external factors that affect it. It is also very related to students of different ages and their general and specialised requirements. Most of all, we wish to brainstorm  and generate relevant ideas. Ideas that will help change the way things are thought of and done. This is because, it is our sincere belief that education is more important than it is treated to be. We believe it is the path to revolutionary change. Therefore, it can be better. It must be better."
+        "description": "Our project is about understanding our education system. It is also about identifying the major external factors that affect it. It is also very related to students of different ages and their general and specialised requirements. Most of all, we wish to brainstorm  and generate relevant ideas. Ideas that will help change the way things are thought of and done. This is because, it is our sincere belief that education is more important than it is treated to be. We believe it is the path to revolutionary change. Therefore, it can be better. It must be better.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/change-in-education/home"
     },
     {
         "teamName": "Team-Kanyaraasi",
         "websiteLink": "https://sites.google.com/view/preventingfoodwaste/home",
         "mentor": "Sayoni Laha",
-        "description": "Our country is developing at a very fast rate, year after year. Growth is taking place across all segments of the economy and the society. But this has also led to an increase in the negative impacts of development like pollution, water depletion, etc. and one such issue that has arised (mainly in the urban households) is food wastage. People are buying more than they consume and are taking the food they\u2019re eating for granted. Moreover, this food which turns into waste can be put into good use by feeding the people in need, just by eating consciously( knowing what and how much a person can eat ). We think we can bring a change in the thought process of people by just helping them realise the efforts and the resources that have been put in the making of these, and how it could\u2019ve been put to good use. This realisation can, we believe, drastically lower the amount of food that will be wasted. Also, because of technological advancements, the food which is inevitably wasted, is also being used to generate power. We think a proper supply-chain/system put in place which facilitates the transport of the waste to these companies can also help, as this food waste release harmful emissions and cause pollution. We are also trying to come up with a way to work with the orphanages so that this healthy food is not actually wasted. Though we are still working on more ideas, we think this will only work with the combined effort of all the people."
+        "description": "Our country is developing at a very fast rate, year after year. Growth is taking place across all segments of the economy and the society. But this has also led to an increase in the negative impacts of development like pollution, water depletion, etc. and one such issue that has arised (mainly in the urban households) is food wastage. People are buying more than they consume and are taking the food they\u2019re eating for granted. Moreover, this food which turns into waste can be put into good use by feeding the people in need, just by eating consciously( knowing what and how much a person can eat ). We think we can bring a change in the thought process of people by just helping them realise the efforts and the resources that have been put in the making of these, and how it could\u2019ve been put to good use. This realisation can, we believe, drastically lower the amount of food that will be wasted. Also, because of technological advancements, the food which is inevitably wasted, is also being used to generate power. We think a proper supply-chain/system put in place which facilitates the transport of the waste to these companies can also help, as this food waste release harmful emissions and cause pollution. We are also trying to come up with a way to work with the orphanages so that this healthy food is not actually wasted. Though we are still working on more ideas, we think this will only work with the combined effort of all the people.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/preventingfoodwaste/home"
     },
     {
         "teamName": "Team X",
         "websiteLink": "https://sites.google.com/view/transportation-redefined/home",
         "mentor": "Sayoni Laha",
-        "description": "We as a team are aiming to solve a chain of transportation problems, Our main goal is to provide an efficient way to the user to travel from one place to another with just a click. We aim to give customers  the option of choosing their own transport from the information we give them, the information contains the price, time and the mode of transport to reach a certain place, we also aim to associate with the local restaurants that provide indigenous food for a tourist and we connect the local travel agencies with the customers."
+        "description": "We as a team are aiming to solve a chain of transportation problems, Our main goal is to provide an efficient way to the user to travel from one place to another with just a click. We aim to give customers  the option of choosing their own transport from the information we give them, the information contains the price, time and the mode of transport to reach a certain place, we also aim to associate with the local restaurants that provide indigenous food for a tourist and we connect the local travel agencies with the customers.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportation-redefined/home"
     },
     {
         "teamName": "Hustlers",
         "websiteLink": "https://sites.google.com/view/hustlers-team/home",
         "mentor": "Raj Narayanan",
-        "description": "The Main thing about our idea is to help the people from floods by providing the mini emergency kit to survive the floods immediately before they get help from rescue team Our Main idea is based on floods so we started researching how and in which conditions floods will occur and how many types of floods will occur by the help of internet and news articlesMost common floods happen around the world\u2019s largest rivers. Believe it or not, smaller rivers could cause more damage even though people don\u2019t pay as much attention to them.   Most Flooding occurs during the beginning of spring.Our main idea is to provide an emergency kit during the flood, by the information given above we started working on it and we are trying to implement on it. We are in the process of upgrading and innovating our idea in a better way.We use the emergency flood kit mostly in situations where people are not  prepared to face the flood or caught in a dangerous situation in the flood. This is very useful because it has all the required equipment for all the situations possible in the flood. This is also very useful for fast evacuations and also at the time where a person might be trapped at a place and might not be able to go anywhere."
+        "description": "The Main thing about our idea is to help the people from floods by providing the mini emergency kit to survive the floods immediately before they get help from rescue team Our Main idea is based on floods so we started researching how and in which conditions floods will occur and how many types of floods will occur by the help of internet and news articlesMost common floods happen around the world\u2019s largest rivers. Believe it or not, smaller rivers could cause more damage even though people don\u2019t pay as much attention to them.   Most Flooding occurs during the beginning of spring.Our main idea is to provide an emergency kit during the flood, by the information given above we started working on it and we are trying to implement on it. We are in the process of upgrading and innovating our idea in a better way.We use the emergency flood kit mostly in situations where people are not  prepared to face the flood or caught in a dangerous situation in the flood. This is very useful because it has all the required equipment for all the situations possible in the flood. This is also very useful for fast evacuations and also at the time where a person might be trapped at a place and might not be able to go anywhere.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hustlers-team/home"
     },
     {
         "teamName": "Zaibatsu Corporation",
         "websiteLink": "https://sites.google.com/view/zaibatsucorporation/",
         "mentor": "Abhinav Chaturvedi",
-        "description": "As we all have noticed in our University itself, people spend money without thinking twice. At the end of the month, they realise that they have little to no money left. We wanted to help change this behaviour. In addition to that, we wanted students to realise where they spend their money and how much could they have saved. This will all help them become financially smarter and a more responsible individual."
+        "description": "As we all have noticed in our University itself, people spend money without thinking twice. At the end of the month, they realise that they have little to no money left. We wanted to help change this behaviour. In addition to that, we wanted students to realise where they spend their money and how much could they have saved. This will all help them become financially smarter and a more responsible individual.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/zaibatsucorporation/"
     },
     {
         "teamName": "DREAM",
         "websiteLink": "https://sites.google.com/view/tbmenstrualhygiene",
         "mentor": "Sayoni Laha",
-        "description": "We promote awareness and education about Menstrual hygiene using the R's concept: Reestablish, Renew, Reinstate, Revive, and Reinstitute."
+        "description": "We promote awareness and education about Menstrual hygiene using the R's concept: Reestablish, Renew, Reinstate, Revive, and Reinstitute.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/tbmenstrualhygiene"
     },
     {
         "teamName": "THE CLASSICISTS",
         "websiteLink": "https://sites.google.com/view/mu-e-library/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our motive is to make an e-library for mahindra university. An e-library is a physical location and website that provides online access to digitised audio, video, and written materials 24 hours a day, seven days a week. It makes free copies of books, journals, and other materials available to users. These are usually classics with no copyright in digital formats (as opposed to print, microform, or other media) and are computer accessible. The e-versions of books can be made available to the students."
+        "description": "Our motive is to make an e-library for mahindra university. An e-library is a physical location and website that provides online access to digitised audio, video, and written materials 24 hours a day, seven days a week. It makes free copies of books, journals, and other materials available to users. These are usually classics with no copyright in digital formats (as opposed to print, microform, or other media) and are computer accessible. The e-versions of books can be made available to the students.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mu-e-library/home"
     },
     {
         "teamName": "Noah's Ark",
         "websiteLink": "https://sites.google.com/view/dtcareer",
         "mentor": "Raj Narayanan",
-        "description": "Our project aims for students in their 11th and 12th to determine what career path is best suited for them. According to a survey conducted in the university premises, the majority dislike engineering. Making more knowledge available to the parents and students aims to lessen this and increase overall satisfaction. Our project aims to do this."
+        "description": "Our project aims for students in their 11th and 12th to determine what career path is best suited for them. According to a survey conducted in the university premises, the majority dislike engineering. Making more knowledge available to the parents and students aims to lessen this and increase overall satisfaction. Our project aims to do this.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtcareer"
     },
     {
         "teamName": "TEAM GENESIS",
         "websiteLink": "https://sites.google.com/view/teamgenesis-studentforum/home",
         "mentor": "Ani Thomas",
-        "description": "There are many problems faced by students in the current Indian society. We are concentrating on how lack of guidance is affecting the student\u2019s life. Guidance can be seen from many perspectives depending on the individual. It can be regarding a person\u2019s keen interest or how he/her is planning for the future. A person can seek an advice /guidance in many ways. It can be from a parent, a teacher, a professional counsellor, a friend etc. We want to create an online platform where the student can express his/her opinions/problems and seek advice from fellow people who already have an experience."
+        "description": "There are many problems faced by students in the current Indian society. We are concentrating on how lack of guidance is affecting the student\u2019s life. Guidance can be seen from many perspectives depending on the individual. It can be regarding a person\u2019s keen interest or how he/her is planning for the future. A person can seek an advice /guidance in many ways. It can be from a parent, a teacher, a professional counsellor, a friend etc. We want to create an online platform where the student can express his/her opinions/problems and seek advice from fellow people who already have an experience.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamgenesis-studentforum/home"
     },
     {
         "teamName": "Toman",
         "websiteLink": "https://sites.google.com/view/travaid/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "It all began when we were exchanging our travel stories and realized that a majority of us have lost/forgotten important documents while traveling. This led us to believe that this might actually be a pressing issue for so many people and hence we decided to come up with TravelAid.  Initially, we brainstormed and came up with a set of questions that would best sum up the problem in question, so we can find a solution to these questions. We then compiled it into a survey and sampled it. We now aim to dwell on the responses and design the structure of TravelAid so it checks out all our boxes."
+        "description": "It all began when we were exchanging our travel stories and realized that a majority of us have lost/forgotten important documents while traveling. This led us to believe that this might actually be a pressing issue for so many people and hence we decided to come up with TravelAid.  Initially, we brainstormed and came up with a set of questions that would best sum up the problem in question, so we can find a solution to these questions. We then compiled it into a survey and sampled it. We now aim to dwell on the responses and design the structure of TravelAid so it checks out all our boxes.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/travaid/home?authuser=0"
     },
     {
         "teamName": "Dholakpur",
         "websiteLink": "https://sites.google.com/view/techabour/home",
         "mentor": "Raj Narayanan",
-        "description": "This project deals with the day to day health related issues faced by labors. We at techabour strive to work towards their safety and aware work life. Many unforeseen injuries and health hazards can be dogged by mixing technology with medical science. We are using the exosuit ideology and healthbooth concept for working towards our problem statement."
+        "description": "This project deals with the day to day health related issues faced by labors. We at techabour strive to work towards their safety and aware work life. Many unforeseen injuries and health hazards can be dogged by mixing technology with medical science. We are using the exosuit ideology and healthbooth concept for working towards our problem statement.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/techabour/home"
     },
     {
         "teamName": "Zaibatsu Corporation",
         "websiteLink": "https://sites.google.com/view/zaibatsucorporation/",
         "mentor": "Abhinav Chaturvedi",
-        "description": "As we all have noticed in our University itself, people spend money without thinking twice. At the end of the month, they realise that they have little to no money left. We wanted to help change this behaviour. In addition to that, we wanted students to realise where they spend their money and how much could they have saved. This will all help them become financially smarter and a more responsible individual."
+        "description": "As we all have noticed in our University itself, people spend money without thinking twice. At the end of the month, they realise that they have little to no money left. We wanted to help change this behaviour. In addition to that, we wanted students to realise where they spend their money and how much could they have saved. This will all help them become financially smarter and a more responsible individual.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/zaibatsucorporation/"
     },
     {
         "teamName": "The insomniacs",
         "websiteLink": "https://sites.google.com/view/ problems-faced-by-the-blind",
         "mentor": "Sayoni Laha",
-        "description": "Our Project is based on the difficulties faced by the blind in their day to day lives and how ignorant we are to those issues, we would like to find solutions to these problems , one such solution we have is  a scanner app  that scans the text and gives voice instructions to help the user position their phone correctly and read out the text scanned, this way they will be able to feel comfortable in places without braille, also this app can be accessed with their usually screen reading app."
+        "description": "Our Project is based on the difficulties faced by the blind in their day to day lives and how ignorant we are to those issues, we would like to find solutions to these problems , one such solution we have is  a scanner app  that scans the text and gives voice instructions to help the user position their phone correctly and read out the text scanned, this way they will be able to feel comfortable in places without braille, also this app can be accessed with their usually screen reading app.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ problems-faced-by-the-blind"
     },
     {
         "teamName": "Innovation Factory",
         "websiteLink": "https://sites.google.com/d/18HxWQqkpzHx3eIvpiCRhXCt32Xoc9yk_/p/1nYoCra7EHk15lkkxwWh2abkoi6XyXVkH/edit",
         "mentor": "Raj Narayanan",
-        "description": "We aim to provide innovative toys to children and teens to help reduce stress, help them in their studies. We divided our consumers age wise into different groups and came up with different and customised toys for each age group. We aim to help children and teenagers who are in the growing stage of their life and help them adjust to the biological and psychological changes occurring within their bodies. We took feedback and conducted  surveys  from our consumers in order to develop our products."
+        "description": "We aim to provide innovative toys to children and teens to help reduce stress, help them in their studies. We divided our consumers age wise into different groups and came up with different and customised toys for each age group. We aim to help children and teenagers who are in the growing stage of their life and help them adjust to the biological and psychological changes occurring within their bodies. We took feedback and conducted  surveys  from our consumers in order to develop our products.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/18HxWQqkpzHx3eIvpiCRhXCt32Xoc9yk_/p/1nYoCra7EHk15lkkxwWh2abkoi6XyXVkH/edit"
     },
     {
         "teamName": "Outliners",
         "websiteLink": "https://sites.google.com/view/weducate/home",
         "mentor": "Sayoni Laha",
-        "description": "Main motto of our project is provide guidance for the students who are lacking in proper guidance. We also make sure that student completes his total course in a wink of a time.   We, OUTLINERS noticed that many of our friends were unable to get to conclusion on most of the courses when they start them just before exams. We enquired about this in other colleges too and made a note that many of the students were facing the similar problem. Many of them were also ready to pay extra fee for the sake of tutor."
+        "description": "Main motto of our project is provide guidance for the students who are lacking in proper guidance. We also make sure that student completes his total course in a wink of a time.   We, OUTLINERS noticed that many of our friends were unable to get to conclusion on most of the courses when they start them just before exams. We enquired about this in other colleges too and made a note that many of the students were facing the similar problem. Many of them were also ready to pay extra fee for the sake of tutor.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/weducate/home"
     },
     {
         "teamName": "The Originals",
         "websiteLink": "https://sites.google.com/view/minute-medical/home?authuser=2",
         "mentor": "Ani Thomas",
-        "description": "The main idea of our project is to get medication for patient Comfortable, Convenient and safe prescription services and reduce the waiting time, traveling time and  get 24/7 medication availability from specialists. That's the main idea which led to the beginning of this project."
+        "description": "The main idea of our project is to get medication for patient Comfortable, Convenient and safe prescription services and reduce the waiting time, traveling time and  get 24/7 medication availability from specialists. That's the main idea which led to the beginning of this project.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/minute-medical/home?authuser=2"
     },
     {
         "teamName": "Hustlers",
         "websiteLink": "https://sites.google.com/view/hustlers-team/home",
         "mentor": "Raj Narayanan",
-        "description": "The Main thing about our idea is to help the people from floods by providing the mini emergency kit to survive the floods immediately before they get help from rescue team.                      Our Main idea is based on floods so we started researching how and in which conditions floods will occur and how many types of floods will occur by the help of internet and news articles."
+        "description": "The Main thing about our idea is to help the people from floods by providing the mini emergency kit to survive the floods immediately before they get help from rescue team.                      Our Main idea is based on floods so we started researching how and in which conditions floods will occur and how many types of floods will occur by the help of internet and news articles.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hustlers-team/home"
     },
     {
         "teamName": "Team Delegants",
         "websiteLink": "https://sites.google.com/view/teamdelegants/home",
         "mentor": "Sayoni Laha",
-        "description": "We team Delegants are working on topic Career Guidance which helps people to find a better path to pursue their career in their interested field. We chose this as our problem statement because many of us know only a few courses such as engineering, medical etc but there are many other fields that many people don't know. So, we here are helping people find a proper CAREER GUIDANCE. Now we are figuring out solutions for these problems that came up when we are surveyed people about why they got deviated from their goals/ambitions. We as a team are trying to solve these issues and help students to find the suitable career and achieve their goals."
+        "description": "We team Delegants are working on topic Career Guidance which helps people to find a better path to pursue their career in their interested field. We chose this as our problem statement because many of us know only a few courses such as engineering, medical etc but there are many other fields that many people don't know. So, we here are helping people find a proper CAREER GUIDANCE. Now we are figuring out solutions for these problems that came up when we are surveyed people about why they got deviated from their goals/ambitions. We as a team are trying to solve these issues and help students to find the suitable career and achieve their goals.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamdelegants/home"
     },
     {
         "teamName": "Brute Force",
         "websiteLink": "https://sites.google.com/view/forlorn07/home",
         "mentor": "Sayoni Laha",
-        "description": "Loneliness, a complicated emotion that typically occurs when one\u2019s needs for social contact are not met,  may be described as a feeling of emptiness that results from isolation. A person may be lonely when alone,  but the state of being alone does not necessarily indicate loneliness. Loneliness can mean different things,  depending on one\u2019s situation and individual needs, but it is generally considered to be a negative or  undesirable state. Feelings of loneliness may develop when one lacks fulfillments one\u2019s social relationships,  but just as a person who is alone is not necessarily lonely, a person can be lonely without being alone. They  are different types of loneliness like situational loneliness, social loneliness, social media loneliness, work  loneliness, intimate loneliness, etc."
+        "description": "Loneliness, a complicated emotion that typically occurs when one\u2019s needs for social contact are not met,  may be described as a feeling of emptiness that results from isolation. A person may be lonely when alone,  but the state of being alone does not necessarily indicate loneliness. Loneliness can mean different things,  depending on one\u2019s situation and individual needs, but it is generally considered to be a negative or  undesirable state. Feelings of loneliness may develop when one lacks fulfillments one\u2019s social relationships,  but just as a person who is alone is not necessarily lonely, a person can be lonely without being alone. They  are different types of loneliness like situational loneliness, social loneliness, social media loneliness, work  loneliness, intimate loneliness, etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forlorn07/home"
     },
     {
         "teamName": "Hermeneutics",
         "websiteLink": "https://sites.google.com/view/re-discover-reading/experience",
         "mentor": "Sayoni Laha",
-        "description": "Team Hermeneutics maintains a holistic vibe. Every team member strives toward reaching the goal with equal enthusiasm and zeal. All the ideas introduced by the team are encouraged, discussed, and developed for the best results possible. We collectively aim towards making reading books accessible and feasible to everyone. The project \"Re-discover Reading\" is a collective platform that aims in providing a simple, easy and compatible platform that could provide accessibility to innumerable varieties of reading material. On this platform, we aim towards a Re-distribution of books available near your location. These might cut down your travel costs as well as help you get exposed to various unknown books that might turn out to be valuable."
+        "description": "Team Hermeneutics maintains a holistic vibe. Every team member strives toward reaching the goal with equal enthusiasm and zeal. All the ideas introduced by the team are encouraged, discussed, and developed for the best results possible. We collectively aim towards making reading books accessible and feasible to everyone. The project \"Re-discover Reading\" is a collective platform that aims in providing a simple, easy and compatible platform that could provide accessibility to innumerable varieties of reading material. On this platform, we aim towards a Re-distribution of books available near your location. These might cut down your travel costs as well as help you get exposed to various unknown books that might turn out to be valuable.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/re-discover-reading/experience"
     },
     {
         "teamName": "WE DESIGN",
         "websiteLink": "https://sites.google.com/view/we-desing-group/home",
         "mentor": "Sayoni Laha",
-        "description": "MARBLES GAME Marbles is a game that has been played for many years. There are lots of different ways to play the game. We'll describe the rules to one way to play below, but it's best if you make sure everyone understands the rules before you play, so there aren't any misunderstandings. Rules to the Game of Marbles you can see a white circle on the board. Marbles are placed inside the circle, usually near the center. Taking a Turn  The player uses their shooter marble to take a turn. To shoot the marble typically a player will use their thumb to flick the marble from their hand putting their \"knuckles down\" onto the ground. The goal of each shot is to hit one of the marbles in the center and knock it out of the circle. If the player knocks a marble out, then they get to keep the marble for the rest of the game, they also get to take another turn. If no marble is knocked out of the circle, the other player then gets a turn then next shot can be taken from the spot where the shooter landed. Winning in Marbles  The player with the most marbles at the end of the game is the winner. Other options/rules:  If a player knocks the other player's shooter from the circle, then the shooter wins all the player's marbles they have won so far and that player is out of the game."
+        "description": "MARBLES GAME Marbles is a game that has been played for many years. There are lots of different ways to play the game. We'll describe the rules to one way to play below, but it's best if you make sure everyone understands the rules before you play, so there aren't any misunderstandings. Rules to the Game of Marbles you can see a white circle on the board. Marbles are placed inside the circle, usually near the center. Taking a Turn  The player uses their shooter marble to take a turn. To shoot the marble typically a player will use their thumb to flick the marble from their hand putting their \"knuckles down\" onto the ground. The goal of each shot is to hit one of the marbles in the center and knock it out of the circle. If the player knocks a marble out, then they get to keep the marble for the rest of the game, they also get to take another turn. If no marble is knocked out of the circle, the other player then gets a turn then next shot can be taken from the spot where the shooter landed. Winning in Marbles  The player with the most marbles at the end of the game is the winner. Other options/rules:  If a player knocks the other player's shooter from the circle, then the shooter wins all the player's marbles they have won so far and that player is out of the game.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/we-desing-group/home"
     },
     {
         "teamName": "Team Flawless",
         "websiteLink": "https://sites.google.com/view/eldercare-dt-project/data",
         "mentor": "Sayoni Laha",
-        "description": "Our project is solely dedicated to solve not one but multiple problems elderly people face with a solution which is financially viable and is a platform which bridges the financial , social and emotional needs of elder people with the services of the huge domestic workforce of India ."
+        "description": "Our project is solely dedicated to solve not one but multiple problems elderly people face with a solution which is financially viable and is a platform which bridges the financial , social and emotional needs of elder people with the services of the huge domestic workforce of India .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/eldercare-dt-project/data"
     },
     {
         "teamName": "Poseiden",
         "websiteLink": "https://sites.google.com/view/poseiden/home",
         "mentor": "Ani Thomas",
-        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity."
+        "description": "Our project aim is to make manage waste more sustainably and be more efficient in disposing and treating the waste, which aids us in balancing the eco system and makes earth for a better place to live. Waste mismanagement can have a wide range of consequences in our daily lives. It is responsible for the spread of diseases, contamination of lakes and water bodies, loss of biodiversity, and inefficient land use, in addition to generating an unhealthy and unsanitary living environment. Our country's management sector, which is a critical infrastructure requirement for all other sectors to stay alive. individuals are unaware of the environmental consequences of inappropriate trash disposal. If the situation worsens, it will have an impact on the entire community's personal health and way of life, particularly those who engage in this type of illegal activity.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/poseiden/home"
     },
     {
         "teamName": "STRAW HATS",
         "websiteLink": "https://sites.google.com/view/suicide-a-silent-grief/home",
         "mentor": "Raj Narayanan",
-        "description": "Everyday, we begin our day by reading the news or watching the news. And a decent percent of that is covered with Suicide cases, we began thinking about the situation of the family going through the situationwe collected data about suicide occurrence and segregated them into sectors such as \"exam stress, financial situation, etc\". And now we started working on a solution to prevent suicides to the possible extent."
+        "description": "Everyday, we begin our day by reading the news or watching the news. And a decent percent of that is covered with Suicide cases, we began thinking about the situation of the family going through the situationwe collected data about suicide occurrence and segregated them into sectors such as \"exam stress, financial situation, etc\". And now we started working on a solution to prevent suicides to the possible extent.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/suicide-a-silent-grief/home"
     },
     {
         "teamName": "Elite Designs",
         "websiteLink": "https://sites.google.com/view/elite-designs-blogs/home",
         "mentor": "Ani Thomas",
-        "description": "Its a Game designing project to re-call about the ancient games"
+        "description": "Its a Game designing project to re-call about the ancient games",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elite-designs-blogs/home"
     },
     {
         "teamName": "Sentinels",
         "websiteLink": "https://sites.google.com/d/1TzBQCWb0twVp_-kotBWEjn81o066kQlt/p/1ukvtY9MaqhS9oaSayWqKhCGiJO0ZnBBU/edit",
         "mentor": "Abhinav Chaturvedi",
-        "description": "Our main aim is to work together as a team and find the root cause of the wastage of food in our campus and help reduce it."
+        "description": "Our main aim is to work together as a team and find the root cause of the wastage of food in our campus and help reduce it.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1TzBQCWb0twVp_-kotBWEjn81o066kQlt/p/1ukvtY9MaqhS9oaSayWqKhCGiJO0ZnBBU/edit"
     },
     {
         "teamName": "Forever Go",
         "websiteLink": "https://sites.google.com/view/forever-go/home",
         "mentor": "Raj Narayanan",
-        "description": "E-waste management is a process to collect e-waste, recover and recycle material by safe methods, dispose of e-waste by suitable techniques to reduce its adverse impacts on environment."
+        "description": "E-waste management is a process to collect e-waste, recover and recycle material by safe methods, dispose of e-waste by suitable techniques to reduce its adverse impacts on environment.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forever-go/home"
     },
     {
         "teamName": "DT Squad",
         "websiteLink": "https://sites.google.com/view/dtsquad/home",
         "mentor": "Raj Narayanan",
-        "description": "Waste management is the collection, transport, processing, recycling and disposal of waste materials produced by human activity. Waste management has an impact on our lives and the environment. The avoidance and reduction of waste is a very important part of waste management. This reduces the effect of waste on the environment and our health. Waste can come in all forms, solid, liquid and gas. Every form of waste has a distinct method of treatment and disposal. Waste management involves the collection of various types of waste that includes biological, industrial and household waste."
+        "description": "Waste management is the collection, transport, processing, recycling and disposal of waste materials produced by human activity. Waste management has an impact on our lives and the environment. The avoidance and reduction of waste is a very important part of waste management. This reduces the effect of waste on the environment and our health. Waste can come in all forms, solid, liquid and gas. Every form of waste has a distinct method of treatment and disposal. Waste management involves the collection of various types of waste that includes biological, industrial and household waste.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtsquad/home"
     },
     {
         "teamName": "Level Up",
         "websiteLink": "https://sites.google.com/view/levell-up/home",
         "mentor": "Raj Narayanan",
-        "description": "We wish to assist those who are stranded in disasters in an efficient manner, ensuring that items reach those who are truly in need and completing this duty as quickly as possible. We'd want to concentrate on the three major natural catastrophes that have the greatest impact on our country: floods, cyclones, and droughts. In India, floods are the deadliest natural calamity. India endured 235 floods between 1980 and 2017, resulting in 126,286 deaths and affecting 1.93 billion people. Every year, India is hit by 2 to 4 tropical cyclones, with the majority of these cyclones hitting the country's east coast. Cyclones are less common on India's west coast, with only one cyclone every two to four years. Between 1871 and 1881, India had 22 significant droughts."
+        "description": "We wish to assist those who are stranded in disasters in an efficient manner, ensuring that items reach those who are truly in need and completing this duty as quickly as possible. We'd want to concentrate on the three major natural catastrophes that have the greatest impact on our country: floods, cyclones, and droughts. In India, floods are the deadliest natural calamity. India endured 235 floods between 1980 and 2017, resulting in 126,286 deaths and affecting 1.93 billion people. Every year, India is hit by 2 to 4 tropical cyclones, with the majority of these cyclones hitting the country's east coast. Cyclones are less common on India's west coast, with only one cyclone every two to four years. Between 1871 and 1881, India had 22 significant droughts.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/levell-up/home"
     },
     {
         "teamName": "ELITES",
         "websiteLink": "https://sites.google.com/d/1yKc4qkrs7Uz52ap3wvrjMIutafsrr7yd/p/1PWimOx6pafdZk5d1pUsYmNpGRWmkLFgv/edit",
         "mentor": "Sayoni Laha",
-        "description": "Our project is simply about teaching people of different age groups with help of toys. For example, abacus is a math technique used by most of the people, which includes a toy to calculate. In such a way, we develop some ideas where toys are used for education.We started by collecting enormous problems faced by different age groups of people with a small interview. Based on the problems we received, we have created a chart, in which we divided the problems into various categories and we finalized our problem statement. Thus, we went on with our project and it is yet to be completed."
+        "description": "Our project is simply about teaching people of different age groups with help of toys. For example, abacus is a math technique used by most of the people, which includes a toy to calculate. In such a way, we develop some ideas where toys are used for education.We started by collecting enormous problems faced by different age groups of people with a small interview. Based on the problems we received, we have created a chart, in which we divided the problems into various categories and we finalized our problem statement. Thus, we went on with our project and it is yet to be completed.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1yKc4qkrs7Uz52ap3wvrjMIutafsrr7yd/p/1PWimOx6pafdZk5d1pUsYmNpGRWmkLFgv/edit"
     },
     {
         "teamName": "Akatsuki",
         "websiteLink": "https://sites.google.com/view/dtl-helpinghand/",
         "mentor": "Sayoni Laha",
-        "description": "Statistics show that among one in seven teenagers and one in fifteen adults experience metal-illness. It includes many different conditions that vary in degree of severity, ranging from mild-to-moderate to severe. We aim to lower the statistics, using our technology by introducing them to a virtual assistant, Emily. It\u2019s functioned to talk to them, give emotional support and remind them of their allergies, emergency numbers, favorite song, etc. We were inspired to work on a chatbot as such since dementia, depressed and anxiety people have trouble finding someone they can talk to and to remind them of their favorite things."
+        "description": "Statistics show that among one in seven teenagers and one in fifteen adults experience metal-illness. It includes many different conditions that vary in degree of severity, ranging from mild-to-moderate to severe. We aim to lower the statistics, using our technology by introducing them to a virtual assistant, Emily. It\u2019s functioned to talk to them, give emotional support and remind them of their allergies, emergency numbers, favorite song, etc. We were inspired to work on a chatbot as such since dementia, depressed and anxiety people have trouble finding someone they can talk to and to remind them of their favorite things.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-helpinghand/"
     },
     {
         "teamName": "Hustle",
         "websiteLink": "https://sites.google.com/view/teamhustlewebsite/home",
         "mentor": "Sayoni Laha",
-        "description": "Baton is a smart stick which helps blind people to walk around easily which detects objects around it both stationary and moving through proximity sensors and communicates with the person through googles(included with sensors) or a Bluetooth device. it basically helps blind people to move around easily It calculates the distance between the objects and the person and identifies moving objects(people, vehicles, animals) and informs to the person. we want to integrate a smart stick , smart glasses and a mobile application where we scan the surroundings through the stick and smart glasses and comprehend the information with cloud and speak with the person with the help of an in built personal assistant through the speaker in smart glasses."
+        "description": "Baton is a smart stick which helps blind people to walk around easily which detects objects around it both stationary and moving through proximity sensors and communicates with the person through googles(included with sensors) or a Bluetooth device. it basically helps blind people to move around easily It calculates the distance between the objects and the person and identifies moving objects(people, vehicles, animals) and informs to the person. we want to integrate a smart stick , smart glasses and a mobile application where we scan the surroundings through the stick and smart glasses and comprehend the information with cloud and speak with the person with the help of an in built personal assistant through the speaker in smart glasses.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamhustlewebsite/home"
     },
     {
         "teamName": "Innovation factory",
         "websiteLink": "https://sites.google.com/view/innovationfactory02/home",
         "mentor": "Raj Narayanan",
-        "description": "This project is about toys for children in different age groups By Innovation Factory Our project vision is to find out the problem faced by children in the different age group And find out a solution for it Which enhances the child's brain In an entertaining way so that they wont get bored. The young generation is the future, Enhancing their skills in the young age according to their capability is definitely a useful thing. Innovation factory aims for a best solutions for problems faced by children in different age groups face in their life. We may not be able to give for every problem But we can definitely make a difference with the work we do  -Team Innovation Factory Manmitha,Harshil,Dhishana,Neha,Harshit,Kasyap,Bhavya"
+        "description": "This project is about toys for children in different age groups By Innovation Factory Our project vision is to find out the problem faced by children in the different age group And find out a solution for it Which enhances the child's brain In an entertaining way so that they wont get bored. The young generation is the future, Enhancing their skills in the young age according to their capability is definitely a useful thing. Innovation factory aims for a best solutions for problems faced by children in different age groups face in their life. We may not be able to give for every problem But we can definitely make a difference with the work we do  -Team Innovation Factory Manmitha,Harshil,Dhishana,Neha,Harshit,Kasyap,Bhavya",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovationfactory02/home"
     },
     {
         "teamName": "GRAVITY",
         "websiteLink": "https://gravity07mha.blogspot.com/2022/04/mental-health-awareness.html",
         "mentor": "Sayoni Laha",
-        "description": "Initially we decided Mental health awareness as the project topic. In mental health awareness there are many sub topics like mental health awareness for elders, mental health awareness for children,mental health awareness for adults etc. Since in the current world, though mental health issues are prevalent, it has been observed that 20% of adolescents may experience a mental health problem in any given year 50% of mental health problems are established by age 14 and 75% by age 24. 10% of children and young people (aged 5-16 years) have a clinically diagnosable mental problem, yet 70% of children and adolescents who experience mental health problems have not had appropriate interventions at a sufficiently early age.After surveying we decided that adolescents suffer the most. Adolescents face many problems like family issues,exam pressure,bullying,all types of abuse etc."
+        "description": "Initially we decided Mental health awareness as the project topic. In mental health awareness there are many sub topics like mental health awareness for elders, mental health awareness for children,mental health awareness for adults etc. Since in the current world, though mental health issues are prevalent, it has been observed that 20% of adolescents may experience a mental health problem in any given year 50% of mental health problems are established by age 14 and 75% by age 24. 10% of children and young people (aged 5-16 years) have a clinically diagnosable mental problem, yet 70% of children and adolescents who experience mental health problems have not had appropriate interventions at a sufficiently early age.After surveying we decided that adolescents suffer the most. Adolescents face many problems like family issues,exam pressure,bullying,all types of abuse etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://gravity07mha.blogspot.com/2022/04/mental-health-awareness.html"
     },
     {
         "teamName": "TEAM SAPTA",
         "websiteLink": "https://sites.google.com/view/our-dt-project/home",
         "mentor": "Raj Narayanan",
-        "description": "Education system in India carries the colonial baggage shouldered by us for decades now. It is a structure that was built to produce civil servants, clerks and bureaucrats who could do the routine job. Not much has changed in the objective of our education system, even today. Now we have engineers being produced in bulk creating imbalance in the demand and supply in the job market. The same old rote learning mentality of students to score the highest marks, holds priority not only for the students but their guiding angels (parents and teachers). There is a thin line drawn between an educated and talented individual. Anyone with a first class degree is preferred over a hardworking and talented student, who scores in an average slot."
+        "description": "Education system in India carries the colonial baggage shouldered by us for decades now. It is a structure that was built to produce civil servants, clerks and bureaucrats who could do the routine job. Not much has changed in the objective of our education system, even today. Now we have engineers being produced in bulk creating imbalance in the demand and supply in the job market. The same old rote learning mentality of students to score the highest marks, holds priority not only for the students but their guiding angels (parents and teachers). There is a thin line drawn between an educated and talented individual. Anyone with a first class degree is preferred over a hardworking and talented student, who scores in an average slot.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/our-dt-project/home"
     },
     {
         "teamName": "Callisto",
         "websiteLink": "https://sites.google.com/view/callistowellness",
         "mentor": "Raj Narayanan",
-        "description": "Our project is based on mental health care and awareness. We are focusing on students in college and PhD students. We researched a lot about mental health and how it affects students in colleges. After having several discussions amongst the team and with our classmates, we made a survey form with basic questions to understand the situation of students around us. After this we compiled the data to get a detailed report on our project."
+        "description": "Our project is based on mental health care and awareness. We are focusing on students in college and PhD students. We researched a lot about mental health and how it affects students in colleges. After having several discussions amongst the team and with our classmates, we made a survey form with basic questions to understand the situation of students around us. After this we compiled the data to get a detailed report on our project.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/callistowellness"
     },
     {
         "teamName": "Free thinkers",
         "websiteLink": "https://sites.google.com/view/levelupfreethinkers",
         "mentor": "Abhinav Chaturvedi",
-        "description": "The objective of your project is to motivate people in learning new things in whatever field they are interested and share their knowledge in particular field in which they are experts. To connect students in a way where they can share their knowledge and skills to improve and also become better. We also believe it would be a good way to improve their communication skills We prepared a questionnaire based on people hobbies and interests to bring them together. Now in the process of understanding our problem in depth, for that we built a questionnaire and are interviewing our target audience to comprehend their need and wants better. Also to find what issue majority of them face"
+        "description": "The objective of your project is to motivate people in learning new things in whatever field they are interested and share their knowledge in particular field in which they are experts. To connect students in a way where they can share their knowledge and skills to improve and also become better. We also believe it would be a good way to improve their communication skills We prepared a questionnaire based on people hobbies and interests to bring them together. Now in the process of understanding our problem in depth, for that we built a questionnaire and are interviewing our target audience to comprehend their need and wants better. Also to find what issue majority of them face",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/levelupfreethinkers"
     },
     {
         "teamName": "Among us",
         "websiteLink": "https://sites.google.com/view/degradation-of-lakes/home?authuser=0",
         "mentor": "Sayoni Laha",
-        "description": "So there are many problems faced by the society if we do not maintain our lakes properly soo we are here to survey about lakes and the problems faced by the residents nearby polluted lakes and find a solution. And also we are trying to spread awareness on the importance of lakes and their various uses to keep the natural ecosystem balanced.And also we are discussing with the officials on not dumping the waste in the lakes but to provide seperate space to dump waste."
+        "description": "So there are many problems faced by the society if we do not maintain our lakes properly soo we are here to survey about lakes and the problems faced by the residents nearby polluted lakes and find a solution. And also we are trying to spread awareness on the importance of lakes and their various uses to keep the natural ecosystem balanced.And also we are discussing with the officials on not dumping the waste in the lakes but to provide seperate space to dump waste.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/degradation-of-lakes/home?authuser=0"
     },
     {
         "teamName": "Free Thinkers",
         "websiteLink": "https://sites.google.com/view/levelupfreethinkers",
         "mentor": "Abhinav Chaturvedi",
-        "description": "To motivate people in learning new things in whatever field they are interested and share their knowledge in particular field in which they are experts. To connect students in a way where they can share their knowledge and skills to improve and also become better. We also believe it would be a good way to improve their communication skills We prepared a questionnaire based on people hobbies and interests to bring them together. Now in the process of understanding our problem in depth, for that we built a questionnaire and are interviewing our target audience to comprehend their need and wants better. Also to find what issue majority of them face."
+        "description": "To motivate people in learning new things in whatever field they are interested and share their knowledge in particular field in which they are experts. To connect students in a way where they can share their knowledge and skills to improve and also become better. We also believe it would be a good way to improve their communication skills We prepared a questionnaire based on people hobbies and interests to bring them together. Now in the process of understanding our problem in depth, for that we built a questionnaire and are interviewing our target audience to comprehend their need and wants better. Also to find what issue majority of them face.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/levelupfreethinkers"
     },
     {
         "teamName": "Promethean Pro Max",
         "websiteLink": "https://sites.google.com/view/promethean-pro-max/home",
         "mentor": "Ani Thomas",
-        "description": "The epidemic brought to light the various flaws in India's educational system. Throughout the epidemic, which caused widespread mental pain and anxiety, schools and universities across the country had just one goal: to finish exams and submit all assignments on time. We had schools informing us that our tests and grades were still the most important things throughout what was without a doubt a time when everyone's mental health, especially students', worsened. There were no concessions or offers of assistance. The establishment claimed to be oblivious to students' problems all around the country. What should have been a lesson on mental health and empathy became something that reinforced the idea of life being short."
+        "description": "The epidemic brought to light the various flaws in India's educational system. Throughout the epidemic, which caused widespread mental pain and anxiety, schools and universities across the country had just one goal: to finish exams and submit all assignments on time. We had schools informing us that our tests and grades were still the most important things throughout what was without a doubt a time when everyone's mental health, especially students', worsened. There were no concessions or offers of assistance. The establishment claimed to be oblivious to students' problems all around the country. What should have been a lesson on mental health and empathy became something that reinforced the idea of life being short.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/promethean-pro-max/home"
     },
     {
         "teamName": "Seven XI",
         "websiteLink": "https://sites.google.com/view/such-solar-much-wow",
         "mentor": "Sayoni Laha",
-        "description": "Solar energy is a resource with untapped potential which can single-handedly sustain the energy needs of the human race. The device we use to convert that solar resource into usable electricity is a photovoltaic cell or simply, a solar cell. The solar cell, however, comes with limitations The average industrial efficiency of a solar panel is 15-20 percent. This means only about 15 to 20 percent of the energy received from the sun is being converted into electricity. Increasing the efficiency of solar panels is all our project is about. We employ non-invasive upgrades on solar cells/panels so that they give more net output and thus raising their total average efficiency."
+        "description": "Solar energy is a resource with untapped potential which can single-handedly sustain the energy needs of the human race. The device we use to convert that solar resource into usable electricity is a photovoltaic cell or simply, a solar cell. The solar cell, however, comes with limitations The average industrial efficiency of a solar panel is 15-20 percent. This means only about 15 to 20 percent of the energy received from the sun is being converted into electricity. Increasing the efficiency of solar panels is all our project is about. We employ non-invasive upgrades on solar cells/panels so that they give more net output and thus raising their total average efficiency.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/such-solar-much-wow"
     },
     {
         "teamName": "Desparados",
         "websiteLink": "https://venkata20uari162.wixsite.com/my-site-1",
         "mentor": "Sayoni Laha",
-        "description": "Our project is all about deformation of lakes and plates we are a group of 7 who are interested in solving the problem by making a better research, learning and developing our selves with the present technology. We have made several  group discussions among our selves and also we had discussions with people by interacting with them by using the Google forms ,we also have our guide or mentor to support us"
+        "description": "Our project is all about deformation of lakes and plates we are a group of 7 who are interested in solving the problem by making a better research, learning and developing our selves with the present technology. We have made several  group discussions among our selves and also we had discussions with people by interacting with them by using the Google forms ,we also have our guide or mentor to support us",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://venkata20uari162.wixsite.com/my-site-1"
     },
     {
         "teamName": "Brute Force",
         "websiteLink": "https://sites.google.com/view/forlorn07/home",
         "mentor": "Sayoni Laha",
-        "description": "Loneliness, a complicated emotion that typically occurs when one\u2019s needs for social contact are not met,  may be described as a feeling of emptiness that results from isolation. A person may be lonely when alone,  but the state of being alone does not necessarily indicate loneliness. Loneliness can mean different things,  depending on one\u2019s situation and individual needs, but it is generally considered to be a negative or  undesirable state. Feelings of loneliness may develop when one lacks fulfillments one\u2019s social relationships,  but just as a person who is alone is not necessarily lonely, a person can be lonely without being alone. They  are different types of loneliness like situational loneliness, social loneliness, social media loneliness, work  loneliness, intimate loneliness, etc."
+        "description": "Loneliness, a complicated emotion that typically occurs when one\u2019s needs for social contact are not met,  may be described as a feeling of emptiness that results from isolation. A person may be lonely when alone,  but the state of being alone does not necessarily indicate loneliness. Loneliness can mean different things,  depending on one\u2019s situation and individual needs, but it is generally considered to be a negative or  undesirable state. Feelings of loneliness may develop when one lacks fulfillments one\u2019s social relationships,  but just as a person who is alone is not necessarily lonely, a person can be lonely without being alone. They  are different types of loneliness like situational loneliness, social loneliness, social media loneliness, work  loneliness, intimate loneliness, etc.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forlorn07/home"
     },
     {
         "teamName": "WFH",
         "websiteLink": "https://sites.google.com/view/hytour/home",
         "mentor": "Raj Narayanan",
-        "description": "Hyderabad is indeed the city of pearls. When you arrive in Hyderabad, the hospitality and ostensibly nice conduct will astound you. And if you are lost, you can ask anyone for assistance or even a ride.  It was chosen the best place to live in India, and you'll see why. You will be amazed at how many things there are to do in Hyderabad. So, take a look at all of the top things to do in Hyderabad and select what you want to do. There are a few historic sites, some shopping, and plenty of cuisine to be had! As a result, our mission is to make Hyderabad tourism more accessible and informative. We created \"HyTour\" to make this happen. HyTour is the most effective way to simplify tourism. Not only do we provide the history and basic information, but we also recommend the best times and people to accompany you on your tour. It's not just a standard website with recommendations and information on locations to visit in Hyderabad; it's also a blog where people can explore and express their experiences there. So that you can not only hear other people's opinions, but also ask questions and get them answered.  We created HyTour with the goal of ensuring that everyone, whether a local or a visitor, may enjoy their visit without difficulty."
+        "description": "Hyderabad is indeed the city of pearls. When you arrive in Hyderabad, the hospitality and ostensibly nice conduct will astound you. And if you are lost, you can ask anyone for assistance or even a ride.  It was chosen the best place to live in India, and you'll see why. You will be amazed at how many things there are to do in Hyderabad. So, take a look at all of the top things to do in Hyderabad and select what you want to do. There are a few historic sites, some shopping, and plenty of cuisine to be had! As a result, our mission is to make Hyderabad tourism more accessible and informative. We created \"HyTour\" to make this happen. HyTour is the most effective way to simplify tourism. Not only do we provide the history and basic information, but we also recommend the best times and people to accompany you on your tour. It's not just a standard website with recommendations and information on locations to visit in Hyderabad; it's also a blog where people can explore and express their experiences there. So that you can not only hear other people's opinions, but also ask questions and get them answered.  We created HyTour with the goal of ensuring that everyone, whether a local or a visitor, may enjoy their visit without difficulty.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hytour/home"
     },
     {
         "teamName": "Hidden leaf shinobi",
         "websiteLink": "https://sites.google.com/view/rejuvenwater/history",
         "mentor": "Raj Narayanan",
-        "description": "People are taking wtaer for granted and wasting it irresponsibly. Also, they are polluting the water rapidly. On the other side, water is becoming very scarse in some parts of the world and will also be unavailable in most parts of the world in the coming years. So, our goal is to spread awareness about the root causes of water pollution so that people can understand how there daily activities are contributing to wastage and pollution of water. We also provide them with solutions to use water efficiently and ways to avoid water pollution."
+        "description": "People are taking wtaer for granted and wasting it irresponsibly. Also, they are polluting the water rapidly. On the other side, water is becoming very scarse in some parts of the world and will also be unavailable in most parts of the world in the coming years. So, our goal is to spread awareness about the root causes of water pollution so that people can understand how there daily activities are contributing to wastage and pollution of water. We also provide them with solutions to use water efficiently and ways to avoid water pollution.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/rejuvenwater/history"
     },
     {
         "teamName": "Ligma",
         "websiteLink": "https://sites.google.com/view/team-ligma/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "A project aimed at making the lives of our fellow hostellers better. All of us have a lot of clothes and since washing clothes is an activity done often, we aim to make the clothes washing experience better for all. By surveying the experiences of our peers we hope to find the main problems that if solved would smoothen the laundry experience. We hope to find solutions to these problems with the guidance of our wonderful mentor. As for now we have done a google form survey and hope to use its results to scout out the biggest problems with the current system."
+        "description": "A project aimed at making the lives of our fellow hostellers better. All of us have a lot of clothes and since washing clothes is an activity done often, we aim to make the clothes washing experience better for all. By surveying the experiences of our peers we hope to find the main problems that if solved would smoothen the laundry experience. We hope to find solutions to these problems with the guidance of our wonderful mentor. As for now we have done a google form survey and hope to use its results to scout out the biggest problems with the current system.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-ligma/home"
     },
     {
         "teamName": "DS Thinkers",
         "websiteLink": "https://sites.google.com/view/sortedwaste/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "After keenly observing the dire waste segregation situation in the university hostel dormitory, we DS thinkers have decided to come up with a solution for the same. Our aim is to provide the students and housekeepers with a clean and efficient waste segregation system that will positively impact the environment and reduce our carbon foot-print. Through our interviews we have found that the students and staff are willing to co-operate with us. Our end goal is to create and distribute a sectioned dustbin that will allow the easy implementation of our plan."
+        "description": "After keenly observing the dire waste segregation situation in the university hostel dormitory, we DS thinkers have decided to come up with a solution for the same. Our aim is to provide the students and housekeepers with a clean and efficient waste segregation system that will positively impact the environment and reduce our carbon foot-print. Through our interviews we have found that the students and staff are willing to co-operate with us. Our end goal is to create and distribute a sectioned dustbin that will allow the easy implementation of our plan.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sortedwaste/home?authuser=0"
     },
     {
         "teamName": "Baby Shark Du Du Du",
         "websiteLink": "https://sites.google.com/student.onlinedegree.iitm.ac.in/baby-shark-dududu/home",
         "mentor": "Raj Narayanan",
-        "description": "We are a group of individuals coming from different parts of India with varied culinary palates and food preferences. Since having moved to college, all of us have faced this one similar problem when it comes to the variety of food and we hope we can bring change to it. Working on this project has given a huge perspective to the weight of the situation and we are motivated to try and address this issue that has not just affected us as a group but, try and cater to the rest of the students, as well as the faculty here."
+        "description": "We are a group of individuals coming from different parts of India with varied culinary palates and food preferences. Since having moved to college, all of us have faced this one similar problem when it comes to the variety of food and we hope we can bring change to it. Working on this project has given a huge perspective to the weight of the situation and we are motivated to try and address this issue that has not just affected us as a group but, try and cater to the rest of the students, as well as the faculty here.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/student.onlinedegree.iitm.ac.in/baby-shark-dududu/home"
     },
     {
         "teamName": "Deeziner Nuts",
         "websiteLink": "https://sites.google.com/view/velgo/home",
         "mentor": "Raj Narayanan",
-        "description": "The main idea behind Velgo is to essentially help the students on campus in commuting easily in and around the university campus by providing a very cost efficient and eco -friendly bike rental service. Commuting in and around campus is an everyday hassle for most of the students in our University. This often leads to them missing classes or being late for important meetings/events. We at Velgo aim to provide an efficient rental service for these students where they can borrow bikes at various points around the campus. This helps them save time and additionally, improve their physical health."
+        "description": "The main idea behind Velgo is to essentially help the students on campus in commuting easily in and around the university campus by providing a very cost efficient and eco -friendly bike rental service. Commuting in and around campus is an everyday hassle for most of the students in our University. This often leads to them missing classes or being late for important meetings/events. We at Velgo aim to provide an efficient rental service for these students where they can borrow bikes at various points around the campus. This helps them save time and additionally, improve their physical health.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/velgo/home"
     },
     {
         "teamName": "ERROR 404",
         "websiteLink": "https://sites.google.com/view/spaceschool404/home",
         "mentor": "Ani Thomas",
-        "description": "offline/online (optional) tutoring platform. Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired. As a tutor provides more tuitions, his/her reviews and ratings keep increasing. This enables the students to narrow down the best tutors. We cater to national audience, with students ranging from pre-primary to secondary schools, or even entrance preps. Working like a match maker between the tutors and students both being the young generation of the society. Only one other startup is somewhat close to the idea of our model, called  FlipClass . But this startup model is restricted by the means of appointing tutors as it accepts only 9/100 applications. Our model is open to all students that want to teach and earn and as we focus on pre primary to secondary edu, we follow a sort of pyramid theme where for eg. 12th grader can tutor a fifth grader i.e  the knowledge gap is big enough to ensure the tutor can and will be successful in his/her job. The student/their guardian and the tutor can negotiate one on one through a chat bot or direct communication and some percent of the total pay comes to as commission to the startup. Payment would be on a monthly/ half yearly basis. This type of model might face situations where once a tutor is matched with a student, they might start further external communication in order to avoid commission payment and to curb these type of problems we came up with an internship/experience certificate that is granted to tutors only if they provide tuitions through the startup and over a specific period of time say a year or two depending on the subject or course they teach."
+        "description": "offline/online (optional) tutoring platform. Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired. As a tutor provides more tuitions, his/her reviews and ratings keep increasing. This enables the students to narrow down the best tutors. We cater to national audience, with students ranging from pre-primary to secondary schools, or even entrance preps. Working like a match maker between the tutors and students both being the young generation of the society. Only one other startup is somewhat close to the idea of our model, called  FlipClass . But this startup model is restricted by the means of appointing tutors as it accepts only 9/100 applications. Our model is open to all students that want to teach and earn and as we focus on pre primary to secondary edu, we follow a sort of pyramid theme where for eg. 12th grader can tutor a fifth grader i.e  the knowledge gap is big enough to ensure the tutor can and will be successful in his/her job. The student/their guardian and the tutor can negotiate one on one through a chat bot or direct communication and some percent of the total pay comes to as commission to the startup. Payment would be on a monthly/ half yearly basis. This type of model might face situations where once a tutor is matched with a student, they might start further external communication in order to avoid commission payment and to curb these type of problems we came up with an internship/experience certificate that is granted to tutors only if they provide tuitions through the startup and over a specific period of time say a year or two depending on the subject or course they teach.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/spaceschool404/home"
     },
     {
         "teamName": "HexArt",
         "websiteLink": "https://rsssaketh02.wixsite.com/hexartblog",
         "mentor": "Ani Thomas",
-        "description": "Our project aims at bringing filmmakers in a close knit community where they are free to ideate, express and bring their ideas to the screen. We aim at helping actors get up a good acting job where they can showcase their talent. Filmmakers are in need of like minded people to work with and collaborate into doing something good. They are a lot or first film directors waiting for a producer to execute their story ideas."
+        "description": "Our project aims at bringing filmmakers in a close knit community where they are free to ideate, express and bring their ideas to the screen. We aim at helping actors get up a good acting job where they can showcase their talent. Filmmakers are in need of like minded people to work with and collaborate into doing something good. They are a lot or first film directors waiting for a producer to execute their story ideas.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://rsssaketh02.wixsite.com/hexartblog"
     },
     {
         "teamName": "Global thinkers engaged leaders",
         "websiteLink": "https://sites.google.com/view/globalthinkersengagedleader/home",
         "mentor": "Sayoni Laha",
-        "description": "We are here to help old age people'in order to make their walk proper and safe."
+        "description": "We are here to help old age people'in order to make their walk proper and safe.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/globalthinkersengagedleader/home"
     },
     {
         "teamName": "MULTITASKERS",
         "websiteLink": "https://sites.google.com/view/multitaskerscoalmining/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "Coal is one of the most valuable natural resource on earth. It has many advantages and one of the main advantages is generation of electricity. But it also has its share of disadvantages which are considered to be more dangerous to human life. We as a team are here to limit the disadvantages of coal mining to mankind."
+        "description": "Coal is one of the most valuable natural resource on earth. It has many advantages and one of the main advantages is generation of electricity. But it also has its share of disadvantages which are considered to be more dangerous to human life. We as a team are here to limit the disadvantages of coal mining to mankind.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/multitaskerscoalmining/home?authuser=0"
     },
     {
         "teamName": "Turing Fraternity",
         "websiteLink": "https://sites.google.com/view/turing-fraternity-dt/",
         "mentor": "Raj Narayanan",
-        "description": "We got to the view that kids need to be educated with skills that will allow them continue their lives in the future and be self-reliant for remuneration after brainstorming with our peers. We decided to provide them with instruction in the design and manufacturing of hand-made clothes and decorative items because they were so talented at designing and drawing.After interacting with students and teachers, we discovered that they usually drop out of school and either work or stay at home.  Because a large number of students were unable to work, they remained at home and took care of household chores.   We discovered that the boys are skilled at drawing and the girls are skilled at stitching designs onto clothing.  The girls had also made turmeric powder from the stems by hand prior.  Their abilities assisted us in determining the level of assistance they require from us."
+        "description": "We got to the view that kids need to be educated with skills that will allow them continue their lives in the future and be self-reliant for remuneration after brainstorming with our peers. We decided to provide them with instruction in the design and manufacturing of hand-made clothes and decorative items because they were so talented at designing and drawing.After interacting with students and teachers, we discovered that they usually drop out of school and either work or stay at home.  Because a large number of students were unable to work, they remained at home and took care of household chores.   We discovered that the boys are skilled at drawing and the girls are skilled at stitching designs onto clothing.  The girls had also made turmeric powder from the stems by hand prior.  Their abilities assisted us in determining the level of assistance they require from us.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/turing-fraternity-dt/"
     },
     {
         "teamName": "Cr\u00e9ative visons",
         "websiteLink": "https://sites.google.com/view/creativevisions/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": "It's important that we understand how the climate is changing, so that we can prepare for the future. Studying the climate helps us predict how much rain the next winter might bring, or how far sea levels will rise due to warmer sea temperatures."
+        "description": "It's important that we understand how the climate is changing, so that we can prepare for the future. Studying the climate helps us predict how much rain the next winter might bring, or how far sea levels will rise due to warmer sea temperatures.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/creativevisions/home?authuser=0"
     },
     {
         "teamName": "Extra Mile",
         "websiteLink": "https://sites.google.com/view/foodwasteinourmess/home",
         "mentor": "Raj Narayanan",
-        "description": "Our project is an effort reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders ."
+        "description": "Our project is an effort reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/foodwasteinourmess/home"
     },
     {
         "teamName": "Global thinkers engaged leaders",
         "websiteLink": "https://sites.google.com/view/globalthinkersengagedleader/home",
         "mentor": "Sayoni Laha",
-        "description": "It is a adjustable stick used by elders who have walking problems due to their age. We surveyed various sticks available in market and for defects in it. Later on we discussed together and came to an idea on how to make the stick a better version and easily usable by elders"
+        "description": "It is a adjustable stick used by elders who have walking problems due to their age. We surveyed various sticks available in market and for defects in it. Later on we discussed together and came to an idea on how to make the stick a better version and easily usable by elders",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/globalthinkersengagedleader/home"
     },
     {
         "teamName": "Brute force",
         "websiteLink": "https://sites.google.com/view/forlorn07/home",
         "mentor": "Sayoni Laha",
-        "description": "This project has been a great oppurtunity provider for me to comprehend and become competent as an active member in the group and also to understand the workspace and the environment with my group. All though i had some challenges to face while working with the group it was fun to overcome those hardships and it was the best experience I'd ever had. Our initiative was motivated by the emotion felt by many people and which has been a developing problem in the young generation; Lonliness. Over a span of 4 weeks my groupmates and myself have tried to discern and distinguish about this feeling which causes the person discomfort and a sense of unhappiness. We have been surveying various groups and sectors of people, some of them i personally found really distressing. The voulunteers we had interviewed had tried their best to put their emotions into words and expressed their issues both physiologically and psychologically. We conducted a poll and found out majority of those who were lonely were between the ages of 18 to 40. In the end, i would like to say that the project we worked on had given me a chance to participate and made me aware of the daily life of ceratin individuals while helping me to overcome these circumstances myself and gain an understanding on this subject."
+        "description": "This project has been a great oppurtunity provider for me to comprehend and become competent as an active member in the group and also to understand the workspace and the environment with my group. All though i had some challenges to face while working with the group it was fun to overcome those hardships and it was the best experience I'd ever had. Our initiative was motivated by the emotion felt by many people and which has been a developing problem in the young generation; Lonliness. Over a span of 4 weeks my groupmates and myself have tried to discern and distinguish about this feeling which causes the person discomfort and a sense of unhappiness. We have been surveying various groups and sectors of people, some of them i personally found really distressing. The voulunteers we had interviewed had tried their best to put their emotions into words and expressed their issues both physiologically and psychologically. We conducted a poll and found out majority of those who were lonely were between the ages of 18 to 40. In the end, i would like to say that the project we worked on had given me a chance to participate and made me aware of the daily life of ceratin individuals while helping me to overcome these circumstances myself and gain an understanding on this subject.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/forlorn07/home"
     },
     {
         "teamName": "Purple Reign",
         "websiteLink": "https://sites.google.com/view/trouver-des-equipes/home",
         "mentor": "Raj Narayanan",
-        "description": "A one place way for you to find your teammates, efficiently without much hastle"
+        "description": "A one place way for you to find your teammates, efficiently without much hastle",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/trouver-des-equipes/home"
     },
     {
         "teamName": "shall be updated as (TASK)",
         "websiteLink": "https://sites.google.com/view/fortomorrow",
         "mentor": "Sayoni Laha",
-        "description": "WE  are here trying to raise awareness of the trash epidemic mainly plastic bottle.By 2050,there will be more plastic than fish in oceans.It was time to turn promises into concrete and swift action and to create a unified platformto drive and amplify at an unprecedented level.Marriott International,Amazon has started ways to minimize plastic usage.Its time for the youth like us carry it to  reach for ground level individuality.Ultimately we need to revolutionize the way plastics are made,consumed and re-used.We as a team working to put our ideologies in this aspect making it real."
+        "description": "WE  are here trying to raise awareness of the trash epidemic mainly plastic bottle.By 2050,there will be more plastic than fish in oceans.It was time to turn promises into concrete and swift action and to create a unified platformto drive and amplify at an unprecedented level.Marriott International,Amazon has started ways to minimize plastic usage.Its time for the youth like us carry it to  reach for ground level individuality.Ultimately we need to revolutionize the way plastics are made,consumed and re-used.We as a team working to put our ideologies in this aspect making it real.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/fortomorrow"
     },
     {
         "teamName": "Thinking",
         "websiteLink": "https://sites.google.com/view/transportationis/home",
         "mentor": "Ani Thomas",
-        "description": "we found a problem \"Lack of accessible and secure transport at economic transport\".For that problem we found a solution \"EV Vehicles\" which are very accessible, secure and can be availed at economic fares"
+        "description": "we found a problem \"Lack of accessible and secure transport at economic transport\".For that problem we found a solution \"EV Vehicles\" which are very accessible, secure and can be availed at economic fares",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/transportationis/home"
     },
     {
         "teamName": "SE7EN",
         "websiteLink": "https://sites.google.com/view/se7en/home",
         "mentor": "Sayoni Laha",
-        "description": "Creating a new and fair rating scale for personalized film suggestions to the user to overcome the issue of unfair film ratings in IMDb and Rotten Tomatoes."
+        "description": "Creating a new and fair rating scale for personalized film suggestions to the user to overcome the issue of unfair film ratings in IMDb and Rotten Tomatoes.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/se7en/home"
     },
     {
         "teamName": "Noah's Ark",
         "websiteLink": "https://vpentrala.wixsite.com/my-site",
         "mentor": "Raj Narayanan",
-        "description": "The project aims to offer career guidance to people before they take wrong choices. Taking up subjects that are in personally interests help boost one's life and career."
+        "description": "The project aims to offer career guidance to people before they take wrong choices. Taking up subjects that are in personally interests help boost one's life and career.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://vpentrala.wixsite.com/my-site"
     },
     {
         "teamName": "BRAVE HEARTS",
         "websiteLink": "https://sites.google.com/view/getscholified",
         "mentor": "Abhinav Chaturvedi",
-        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships."
+        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/getscholified"
     },
     {
         "teamName": "FLAWLESS",
         "websiteLink": "https://sites.google.com/view/eldercare-project/home",
         "mentor": "Sayoni Laha",
-        "description": "Our project , \u2018Eldercare\u2019 is mainly aimed at tackling the issues of Boredom , Loneliness and the subsequent depression in elderly people which arise due to many social and psychological factors combined with the domestic and mental environment around them . We , through this project wish to bring a change and brighten their lives with fun-filled and engaging activities which also help in increasing their cognitive capabilities and their mental well-being ."
+        "description": "Our project , \u2018Eldercare\u2019 is mainly aimed at tackling the issues of Boredom , Loneliness and the subsequent depression in elderly people which arise due to many social and psychological factors combined with the domestic and mental environment around them . We , through this project wish to bring a change and brighten their lives with fun-filled and engaging activities which also help in increasing their cognitive capabilities and their mental well-being .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/eldercare-project/home"
     },
     {
         "teamName": "Elite Designs",
         "websiteLink": "https://sites.google.com/d/1XK7RI5SiV1kscCWIMIUri-TEUUA6witb/p/1LFKK5I8p0ZIx06__-mM4XvmDmQbhRhpn/edit",
         "mentor": "Ani Thomas",
-        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform."
+        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1XK7RI5SiV1kscCWIMIUri-TEUUA6witb/p/1LFKK5I8p0ZIx06__-mM4XvmDmQbhRhpn/edit"
     },
     {
         "teamName": "Nikshep Gaddala",
         "websiteLink": "https://sites.google.com/view/spaceschool404/home?authuser=0",
         "mentor": "Ani Thomas",
-        "description": "Students don't pay enough attention in classes or tuition because of the large intake they don't get an equal amount of attention so they tend to lack in understanding. so here we are going to make a website which will solve these problems.Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired.  As a tutor provides more tuitions, his/her reviews and ratings keep increasing.  This enables the students to narrow down the best tutors.  We cater to national audience, with students ranging from pre-primary to secondary schools, or even entrance preps.  Working like a match maker between the tutors and students both being the young generation of the society.  Only one other startup is somewhat close to the idea of our model, called  FlipClass . But this startup model is restricted by the means of appointing tutors as it accepts only 9/100 applications. Our model is open to all students that want to teach and earn and as we focus on pre primary to secondary edu, we follow a sort of pyramid theme where for eg. 12th grader can tutor a fifth grader i.e  the knowledge gap is big enough to ensure the tutor can and will be successful in his/her job.  The student/their guardian and the tutor can negotiate one on one through a chat bot or direct communication and some percent of the total pay comes to as commission to the startup. Payment would be on a monthly/ half yearly basis. This type of model might face situations where once a tutor is matched with a student, they might start further external communication in order to avoid commission payment and to curb these type of problems we came up with an internship/experience certificate that is granted to tutors only if they provide tuitions through the startup and over a specific period of time say a year or two depending on the subject or course they teach."
+        "description": "Students don't pay enough attention in classes or tuition because of the large intake they don't get an equal amount of attention so they tend to lack in understanding. so here we are going to make a website which will solve these problems.Elaborate model for onboarding new tutors onto the platform, mostly students looking for an internship alternative/ gain experience in skills they may already have acquired.  As a tutor provides more tuitions, his/her reviews and ratings keep increasing.  This enables the students to narrow down the best tutors.  We cater to national audience, with students ranging from pre-primary to secondary schools, or even entrance preps.  Working like a match maker between the tutors and students both being the young generation of the society.  Only one other startup is somewhat close to the idea of our model, called  FlipClass . But this startup model is restricted by the means of appointing tutors as it accepts only 9/100 applications. Our model is open to all students that want to teach and earn and as we focus on pre primary to secondary edu, we follow a sort of pyramid theme where for eg. 12th grader can tutor a fifth grader i.e  the knowledge gap is big enough to ensure the tutor can and will be successful in his/her job.  The student/their guardian and the tutor can negotiate one on one through a chat bot or direct communication and some percent of the total pay comes to as commission to the startup. Payment would be on a monthly/ half yearly basis. This type of model might face situations where once a tutor is matched with a student, they might start further external communication in order to avoid commission payment and to curb these type of problems we came up with an internship/experience certificate that is granted to tutors only if they provide tuitions through the startup and over a specific period of time say a year or two depending on the subject or course they teach.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/spaceschool404/home?authuser=0"
     },
     {
         "teamName": "BRAVEHEART",
         "websiteLink": "https://sites.google.com/view/getscholified/home",
         "mentor": "Abhinav Chaturvedi",
-        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.The idea strike out when we are discussing problems someone randomly in our group said I missed an opportunity to get a scholarship during my 10th due to lack of awareness at those days so we decided to solve this problem on bringing awareness to people on scholarships and applying for them."
+        "description": "In our college there is a subject called design thinking the professors of that subject given us a assignment in which we have to identify the problems and find a solution from it.So we form a group of 6 and tried to identify problems from our surroundings.At last we had identified a problem related to scholarships  many students in India do not have enough knowledge about scholarships and many scholarships are wasted every year.So we had identified this as a big problem and working on it and our first step is to bring awareness to students about scholarships.The idea strike out when we are discussing problems someone randomly in our group said I missed an opportunity to get a scholarship during my 10th due to lack of awareness at those days so we decided to solve this problem on bringing awareness to people on scholarships and applying for them.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/getscholified/home"
     },
     {
         "teamName": "Area 51",
         "websiteLink": "https://sites.google.com/view/touristexploitation/home",
         "mentor": "Sayoni Laha",
-        "description": "To understand the problems the tourists face while exploring or visiting a new place and finding a way to help them experience the place in the way it should be experienced without getting exploited and enjoying the moments"
+        "description": "To understand the problems the tourists face while exploring or visiting a new place and finding a way to help them experience the place in the way it should be experienced without getting exploited and enjoying the moments",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/touristexploitation/home"
     },
     {
         "teamName": "Extra Mile",
         "websiteLink": "https://sites.google.com/view/foodwasteinourmess/home",
         "mentor": "Raj Narayanan",
-        "description": "The objective of our project is to reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders ."
+        "description": "The objective of our project is to reduce food wastage in our university mess. We are focusing on both the food that gets wasted  before and after coming onto the plates. Currently, we are trying to understand the reasons for food wastage to be able to come up with efficient and practical solutions for the same. We are gathering primary data by observation and through interviews and surveys of all the stakeholders .",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/foodwasteinourmess/home"
     },
     {
         "teamName": "Elite Designs",
         "websiteLink": "https://sites.google.com/view/revivingindigenousgames/home",
         "mentor": "Ani Thomas",
-        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform."
+        "description": "This project is to encourage rising generations to play and experience the gist of indigenous games. Our team aims to create a platform that resembles how people have played ancient board games for ages. We think that technology at this point can provide an intersection between digital and physical platform.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/revivingindigenousgames/home"
     },
     {
         "teamName": "Enron",
         "websiteLink": "https://sriyaivaturi.wixsite.com/my-site",
         "mentor": "Ranjith Sankaran",
-        "description": "We realized dust from construction sites is a rising problem of our generation. All of us have been exposed to a thick layer of dust which resulted in short-term troubles. One of our team members had first-hand experience with dust every day, for a few years.  This inspired us to take the problem seriously and find a solution to it.     Dust from construction sites causes pollution in the air. This has an adverse effect on the environment and health. As per the Delhi Pollution Control Committee (DPCC) officials, 30 percent of air pollution is caused due to dust that emanates from construction sites.   It occurs mainly in construction sites and due to the unfollowing of rules issued by the government. Also, equipment to absorb dust is not observed anywhere. There is a rise in pollution when many activities are taking place at the same time without precautionary measures and it affects our health. The problem is big and it can be seen in the data in the case studies mentioned below. Still, no precautions are being taken."
+        "description": "We realized dust from construction sites is a rising problem of our generation. All of us have been exposed to a thick layer of dust which resulted in short-term troubles. One of our team members had first-hand experience with dust every day, for a few years.  This inspired us to take the problem seriously and find a solution to it.     Dust from construction sites causes pollution in the air. This has an adverse effect on the environment and health. As per the Delhi Pollution Control Committee (DPCC) officials, 30 percent of air pollution is caused due to dust that emanates from construction sites.   It occurs mainly in construction sites and due to the unfollowing of rules issued by the government. Also, equipment to absorb dust is not observed anywhere. There is a rise in pollution when many activities are taking place at the same time without precautionary measures and it affects our health. The problem is big and it can be seen in the data in the case studies mentioned below. Still, no precautions are being taken.",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sriyaivaturi.wixsite.com/my-site"
     },
     {
         "teamName": "The Sixth Sense",
         "websiteLink": "https://sites.google.com/view/lefthandedness?usp=sharing",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/lefthandedness?usp=sharing"
     },
     {
         "teamName": "Bob Fans",
         "websiteLink": "https://sites.google.com/view/bob-fans/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/bob-fans/home"
     },
     {
         "teamName": "The Sixth Sense",
         "websiteLink": "https://sites.google.com/view/leftunturned/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/leftunturned/home"
     },
     {
         "teamName": "Canvas canaries",
         "websiteLink": "https://sites.google.com/view/canvascanaries/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/canvascanaries/home"
     },
     {
         "teamName": "FACETS",
         "websiteLink": "https://site-aia2wp1fj.godaddysites.com",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://site-aia2wp1fj.godaddysites.com"
     },
     {
         "teamName": "SARKAR DESIGNS",
         "websiteLink": "https://sites.google.com/view/sarkardesigns/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sarkardesigns/home?authuser=0"
     },
     {
         "teamName": "protolab",
         "websiteLink": "https://sites.google.com/view/protolab-project/ideation",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/protolab-project/ideation"
     },
     {
         "teamName": "The Blueprint",
         "websiteLink": "https://sites.google.com/d/13WbJGGFQGKCGwY7O8W3InqrIvOPunfvM/p/1Q3TwgkAczI710oLfzElMbbxuECRZYK9I/edit",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/13WbJGGFQGKCGwY7O8W3InqrIvOPunfvM/p/1Q3TwgkAczI710oLfzElMbbxuECRZYK9I/edit"
     },
     {
         "teamName": "Team VAAAAH",
         "websiteLink": "https://sites.google.com/view/mahindragate/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mahindragate/home"
     },
     {
         "teamName": "VITRA",
         "websiteLink": "https://sites.google.com/view/vitradesignthinking/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/vitradesignthinking/home"
     },
     {
         "teamName": "SolveX",
         "websiteLink": "https://sites.google.com/view/solvexdesignthinking/about-us?authuser=1",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/solvexdesignthinking/about-us?authuser=1"
     },
     {
         "teamName": "Cheeh Tapak",
         "websiteLink": "https://sites.google.com/view/silent-defenders?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/silent-defenders?usp=sharing"
     },
     {
         "teamName": "Kanyarasi",
         "websiteLink": "https://sites.google.com/view/teamkanyaraasaidtl/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamkanyaraasaidtl/home"
     },
     {
         "teamName": "Brainwave Storms",
         "websiteLink": "https://sites.google.com/view/brainwavestorms/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/brainwavestorms/home"
     },
     {
         "teamName": "Power rangers",
         "websiteLink": "https://sites.google.com/view/designthinkingbidarart/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/designthinkingbidarart/home"
     },
     {
         "teamName": "Strom beakers",
         "websiteLink": "https://sites.google.com/view/unveilingfarmercrisis/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/unveilingfarmercrisis/home"
     },
     {
         "teamName": "Mannar",
         "websiteLink": "https://sites.google.com/view/hygieneheroes-team-mannar?usp=sharing",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hygieneheroes-team-mannar?usp=sharing"
     },
     {
         "teamName": "Thunder Buddies",
         "websiteLink": "https://sites.google.com/view/dt-financial-literacy/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dt-financial-literacy/home"
     },
     {
         "teamName": "Team Tavisha",
         "websiteLink": "https://sites.google.com/view/teamtavisha/project",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamtavisha/project"
     },
     {
         "teamName": "Team Expendables",
         "websiteLink": "https://sites.google.com/view/expendables-dt?usp=sharing",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/expendables-dt?usp=sharing"
     },
     {
         "teamName": "Agile",
         "websiteLink": "https://sites.google.com/view/agile2025/evaluation-shortlisting",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/agile2025/evaluation-shortlisting"
     },
     {
         "teamName": "Hakuna Matata",
         "websiteLink": "https://sites.google.com/view/hakuna-matata-dt/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/hakuna-matata-dt/home"
     },
     {
         "teamName": "Innovision",
         "websiteLink": "https://sites.google.com/view/innovision6/home-about-us",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovision6/home-about-us"
     },
     {
         "teamName": "VIBGYOR",
         "websiteLink": "https://sites.google.com/view/alertflare/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/alertflare/home"
     },
     {
         "teamName": "MU TITAN",
         "websiteLink": "https://sites.google.com/view/mutitan-fomo/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mutitan-fomo/home"
     },
     {
         "teamName": "MEEK ENDUKU",
         "websiteLink": "https://sites.google.com/d/1ghzQxhTy_Yoz3k8MpzwO1i8yv6EUiTsi/p/1eJ23EDIM_ppdIdwFbdgevKUsgP5dE9Vi/edit",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1ghzQxhTy_Yoz3k8MpzwO1i8yv6EUiTsi/p/1eJ23EDIM_ppdIdwFbdgevKUsgP5dE9Vi/edit"
     },
     {
         "teamName": "Smashers",
         "websiteLink": "https://sites.google.com/view/blueboundaryorg/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/blueboundaryorg/home"
     },
     {
         "teamName": "Expendables",
         "websiteLink": "https://sites.google.com/view/expendables-dt?usp=sharing",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/expendables-dt?usp=sharing"
     },
     {
         "teamName": "Team W",
         "websiteLink": "https://sites.google.com/view/dtl-final-presentation/problem-discovery-research",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtl-final-presentation/problem-discovery-research"
     },
     {
         "teamName": "MISSION POSSIBLE",
         "websiteLink": "https://sites.google.com/view/unhygienic-washrooms/problem-discovery-and-research/your-research-process-online-research-fieldwork-surveys",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/unhygienic-washrooms/problem-discovery-and-research/your-research-process-online-research-fieldwork-surveys"
     },
     {
         "teamName": "UXplore",
         "websiteLink": "https://sites.google.com/view/medireturn?usp=sharing",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/medireturn?usp=sharing"
     },
     {
         "teamName": "BARE MAXIMUM",
         "websiteLink": "https://sites.google.com/d/1-AebtVjGXWWatBj-BdVZjdEEj3XBxlB7/p/1G-4GUT5QVlE4BMdsTGuS35jGZKtnRbBq/edit?pli=1",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1-AebtVjGXWWatBj-BdVZjdEEj3XBxlB7/p/1G-4GUT5QVlE4BMdsTGuS35jGZKtnRbBq/edit?pli=1"
     },
     {
         "teamName": "Design Alchemists",
         "websiteLink": "https://sites.google.com/d/1YS_AcsUjCVJkac6dux8yyWPaqde_fwyH/p/1jUa8pSkUTj9BPvJnml2I8dapELhGg3FI/edit",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1YS_AcsUjCVJkac6dux8yyWPaqde_fwyH/p/1jUa8pSkUTj9BPvJnml2I8dapELhGg3FI/edit"
     },
     {
         "teamName": "KAVISK Tech",
         "websiteLink": "https://se23ucse156.wixsite.com/kavisktech",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://se23ucse156.wixsite.com/kavisktech"
     },
     {
         "teamName": "Pheonix Rising",
         "websiteLink": "https://sites.google.com/view/phoneixrising/home?authuser=1",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/phoneixrising/home?authuser=1"
     },
     {
         "teamName": "Deus ex machina",
         "websiteLink": "https://sites.google.com/view/deus-ex-machina-2025/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/deus-ex-machina-2025/home"
     },
     {
         "teamName": "NOVA",
         "websiteLink": "https://sites.google.com/view/teamnova-dt",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamnova-dt"
     },
     {
         "teamName": "Mind Sparks",
         "websiteLink": "https://sites.google.com/view/mindsparks/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mindsparks/home"
     },
     {
         "teamName": "Backlogged",
         "websiteLink": "https://sites.google.com/view/backlogged/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/backlogged/home"
     },
     {
         "teamName": "Synergy Squad",
         "websiteLink": "https://sites.google.com/view/synergy-squard/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/synergy-squard/home?authuser=0"
     },
     {
         "teamName": "Innovibe",
         "websiteLink": "https://sites.google.com/view/innovibe-dt/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovibe-dt/home"
     },
     {
         "teamName": "Team Avengers",
         "websiteLink": "https://sites.google.com/view/avengers-dt6/problem-framing?authuser=0",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/avengers-dt6/problem-framing?authuser=0"
     },
     {
         "teamName": "Team Spectra",
         "websiteLink": "https://sites.google.com/view/know-to-grow/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/know-to-grow/home"
     },
     {
         "teamName": "Creative catalyst",
         "websiteLink": "https://sites.google.com/view/mucreativecatalyst/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mucreativecatalyst/home"
     },
     {
         "teamName": "Building Dharma",
         "websiteLink": "https://mishraanshika0110.wixstudio.com/buildingdharma",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://mishraanshika0110.wixstudio.com/buildingdharma"
     },
     {
         "teamName": "MAFIA",
         "websiteLink": "https://sites.google.com/view/mafia-dt6/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mafia-dt6/home"
     },
     {
         "teamName": "The Whimsical Squad",
         "websiteLink": "https://sites.google.com/view/whimsicalsquad/outcomes",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/whimsicalsquad/outcomes"
     },
     {
         "teamName": "Salaar",
         "websiteLink": "https://sites.google.com/view/gradsetgo/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/gradsetgo/home"
     },
     {
         "teamName": "Black Squad",
         "websiteLink": "https://sites.google.com/view/dtblacksquad",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dtblacksquad"
     },
     {
         "teamName": "Pookie Mates",
         "websiteLink": "https://sites.google.com/view/pookie-mates/about-us",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/pookie-mates/about-us"
     },
     {
         "teamName": "Design Thinking",
         "websiteLink": "https://sites.google.com/d/1_RNWlcZlfEyMq5QoKpgES0J6U32N1Ri_/p/1654kuEvybOkYON1N17CSCHHbv2lF_ylP/edit",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1_RNWlcZlfEyMq5QoKpgES0J6U32N1Ri_/p/1654kuEvybOkYON1N17CSCHHbv2lF_ylP/edit"
     },
     {
         "teamName": "Thinkforge",
         "websiteLink": "https://sites.google.com/d/1Hh3uJN7-N9kMh8qP9pwHbZDt99zNe-En/p/1LVl_NhbWSwM1s9rujmC50IspiMGDn70v/edit",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1Hh3uJN7-N9kMh8qP9pwHbZDt99zNe-En/p/1LVl_NhbWSwM1s9rujmC50IspiMGDn70v/edit"
     },
     {
         "teamName": "Misfit Meachnics",
         "websiteLink": "https://sites.google.com/view/misfitmechanics/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/misfitmechanics/home"
     },
     {
         "teamName": "ABCD",
         "websiteLink": "https://sites.google.com/view/abcdwebsitefordtl/about-us?authuser=0",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/abcdwebsitefordtl/about-us?authuser=0"
     },
     {
         "teamName": "illuminati",
         "websiteLink": "https://sites.google.com/view/binwatch?usp=sharing",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/binwatch?usp=sharing"
     },
     {
         "teamName": "NOVA",
         "websiteLink": "https://sites.google.com/view/nova-dt-project/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/nova-dt-project/home"
     },
     {
         "teamName": "Half Dozen",
         "websiteLink": "https://sites.google.com/view/halfdozen/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/halfdozen/home"
     },
     {
         "teamName": "sole craft",
         "websiteLink": "https://sites.google.com/view/sole-craft/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sole-craft/home"
     },
     {
         "teamName": "Dabidi Dibidi",
         "websiteLink": "https://sites.google.com/view/dabidi-dibidi-design-thinking/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dabidi-dibidi-design-thinking/home"
     },
     {
         "teamName": "SCAM",
         "websiteLink": "https://sites.google.com/view/unmaskingthementalhealthcrisis/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/unmaskingthementalhealthcrisis/home"
     },
     {
         "teamName": "BEYOND THINKERS",
         "websiteLink": "https://sites.google.com/view/beyondthinkers/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/beyondthinkers/home"
     },
     {
         "teamName": "SparkTech",
         "websiteLink": "https://sites.google.com/view/sparktechmisinfo/research/research-findings",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/sparktechmisinfo/research/research-findings"
     },
     {
         "teamName": "Bye Scamfluencers!",
         "websiteLink": "https://sites.google.com/view/byescamfluencers/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/byescamfluencers/home"
     },
     {
         "teamName": "Team Design",
         "websiteLink": "https://sites.google.com/view/teamdesign1/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamdesign1/home"
     },
     {
         "teamName": "Mafia",
         "websiteLink": "https://sites.google.com/view/mafia-dt6/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mafia-dt6/home"
     },
     {
         "teamName": "Hexad",
         "websiteLink": "https://sites.google.com/view/lostnfoundautowale/home?authuser=1",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/lostnfoundautowale/home?authuser=1"
     },
     {
         "teamName": "404: Idea Not Found",
         "websiteLink": "https://sites.google.com/view/the-spacebetween/about-us",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-spacebetween/about-us"
     },
     {
         "teamName": "Imagineers",
         "websiteLink": "https://sites.google.com/view/harmonize-hurdles?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/harmonize-hurdles?usp=sharing"
     },
     {
         "teamName": "Cavron",
         "websiteLink": "https://sites.google.com/view/screen-overuse-team-cavron/home/project-journey",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/screen-overuse-team-cavron/home/project-journey"
     },
     {
         "teamName": "Team Click",
         "websiteLink": "https://sites.google.com/view/campusx-com/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/campusx-com/home"
     },
     {
         "teamName": "Sarileru Six",
         "websiteLink": "https://sites.google.com/u/0/d/1pGdAfIVZ1kP-DaYuPCV1L_nqoX4radsl/preview",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/u/0/d/1pGdAfIVZ1kP-DaYuPCV1L_nqoX4radsl/preview"
     },
     {
         "teamName": "Innovation Catalysts",
         "websiteLink": "https://sites.google.com/view/innovationcatalysts",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovationcatalysts"
     },
     {
         "teamName": "Pluto",
         "websiteLink": "https://sites.google.com/d/1mIhqRib-_ivO_hwC1jb5qCPb45YX7EWZ/p/1PQMb_60rqLLjP4sUw9GeTY7HcTb614wu/edit",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1mIhqRib-_ivO_hwC1jb5qCPb45YX7EWZ/p/1PQMb_60rqLLjP4sUw9GeTY7HcTb614wu/edit"
     },
     {
         "teamName": "165",
         "websiteLink": "https://sites.google.com/view/negativeeffectsofshortformcont?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/negativeeffectsofshortformcont?usp=sharing"
     },
     {
         "teamName": "Lohith Fans Association",
         "websiteLink": "https://sites.google.com/view/pangaurdium/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/pangaurdium/home"
     },
     {
         "teamName": "Design Thinkerzz",
         "websiteLink": "https://sites.google.com/view/doompause/home?authuser=0",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/doompause/home?authuser=0"
     },
     {
         "teamName": "PROJECT WHYYY",
         "websiteLink": "https://sites.google.com/view/waste-management-in-hyd/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/waste-management-in-hyd/home"
     },
     {
         "teamName": "NextFrame",
         "websiteLink": "https://traditional-recipient-700532.framer.app",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://traditional-recipient-700532.framer.app"
     },
     {
         "teamName": "Dula rasi",
         "websiteLink": "https://yalavartipavan.wixsite.com/not-the-news",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://yalavartipavan.wixsite.com/not-the-news"
     },
     {
         "teamName": "Pixels and Poor decisions",
         "websiteLink": "https://sites.google.com/view/pixelsandpooedecisions-com?usp=sharing",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/pixelsandpooedecisions-com?usp=sharing"
     },
     {
         "teamName": "THE BLUE PRINT CREW",
         "websiteLink": "https://sites.google.com/view/the-blue-printcrew/about-us",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-blue-printcrew/about-us"
     },
     {
         "teamName": "Obscura",
         "websiteLink": "https://sites.google.com/view/rushhourreality/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/rushhourreality/home"
     },
     {
         "teamName": "Shouryanga",
         "websiteLink": "https://sites.google.com/view/mindfullscroll/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mindfullscroll/home"
     },
     {
         "teamName": "The Idea Forge",
         "websiteLink": "https://sites.google.com/view/the1deaforge/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the1deaforge/home?authuser=0"
     },
     {
         "teamName": "Empathy Explorers",
         "websiteLink": "https://sites.google.com/view/phoneaddictioninundergraduates/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/phoneaddictioninundergraduates/home"
     },
     {
         "teamName": "Fight Club",
         "websiteLink": "https://sites.google.com/view/mens-mental-healthh/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mens-mental-healthh/home"
     },
     {
         "teamName": "btech students",
         "websiteLink": "https://sites.google.com/view/btech-students?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/btech-students?usp=sharing"
     },
     {
         "teamName": "RAGNAROK",
         "websiteLink": "https://sites.google.com/view/ragnarokdt?usp=sharing",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ragnarokdt?usp=sharing"
     },
     {
         "teamName": "TRIPLE D",
         "websiteLink": "https://sites.google.com/view/spendwisee/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/spendwisee/home"
     },
     {
         "teamName": "Thinkforge",
         "websiteLink": "https://sites.google.com/d/16mZXkhxzrQexd8nxh5tbxqqX3NAhONHM/p/1490NlaF7dYmp1NJEWfpvU0B2pB3HX27m/edit?pli=1",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/16mZXkhxzrQexd8nxh5tbxqqX3NAhONHM/p/1490NlaF7dYmp1NJEWfpvU0B2pB3HX27m/edit?pli=1"
     },
     {
         "teamName": "The Doers",
         "websiteLink": "https://sites.google.com/view/the-doers-23/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-doers-23/home"
     },
     {
         "teamName": "Oops To Aha",
         "websiteLink": "https://sites.google.com/view/oops-to-aha/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/oops-to-aha/home"
     },
     {
         "teamName": "Phronos Legion",
         "websiteLink": "https://sites.google.com/view/ the-unseen-road-accidents",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ the-unseen-road-accidents"
     },
     {
         "teamName": "Imagineers",
         "websiteLink": "https://sites.google.com/d/1ky4nHBNtoyIgnjwecy9CxilHijp2_3-T/p/1EGaqQrCWYILZi8MkWX2f0mgC4zcT0-YY/edit",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1ky4nHBNtoyIgnjwecy9CxilHijp2_3-T/p/1EGaqQrCWYILZi8MkWX2f0mgC4zcT0-YY/edit"
     },
     {
         "teamName": "Maverick",
         "websiteLink": "https://sites.google.com/d/1qg_K1bjq9oHUBMdVVSVipCPUnGO4pTPs/p/1lGoEPs41MWXJjjYR4sR9I0ZjqEvImAtF/edit",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1qg_K1bjq9oHUBMdVVSVipCPUnGO4pTPs/p/1lGoEPs41MWXJjjYR4sR9I0ZjqEvImAtF/edit"
     },
     {
         "teamName": "The design loop",
         "websiteLink": "https://sites.google.com/view/thedesignloop0678?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thedesignloop0678?usp=sharing"
     },
     {
         "teamName": "The 6 Musketeers",
         "websiteLink": "https://sites.google.com/u/0/d/19of4pVOOI1k9KMlJEJGelcEpTQ2fVaMF/preview",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/u/0/d/19of4pVOOI1k9KMlJEJGelcEpTQ2fVaMF/preview"
     },
     {
         "teamName": "visionary minds",
         "websiteLink": "https://sites.google.com/view/copyvisonaryminds?usp=sharing",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/copyvisonaryminds?usp=sharing"
     },
     {
         "teamName": "De-Bug",
         "websiteLink": "https://sites.google.com/view/de-bug/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/de-bug/home"
     },
     {
         "teamName": "Snow Bunnies",
         "websiteLink": "https://sites.google.com/view/snowbunnies?usp=sharing",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/snowbunnies?usp=sharing"
     },
     {
         "teamName": "Rule 36",
         "websiteLink": "https://sites.google.com/view/colorisminsouthindia?usp=sharing",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/colorisminsouthindia?usp=sharing"
     },
     {
         "teamName": "mogambo-reunited",
         "websiteLink": "https://sites.google.com/view/mogambo-reunited/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mogambo-reunited/home"
     },
     {
         "teamName": "Epitome Thinkers",
         "websiteLink": "https://sites.google.com/view/smartstreetshyd-com",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartstreetshyd-com"
     },
     {
         "teamName": "InnovatorsHive",
         "websiteLink": "https://sites.google.com/view/innovatorshive/home?authuser=0",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/innovatorshive/home?authuser=0"
     },
     {
         "teamName": "Team spirit",
         "websiteLink": "https://sites.google.com/view/team-spirit-/user-understanding",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-spirit-/user-understanding"
     },
     {
         "teamName": "Fly To Corps",
         "websiteLink": "https://sites.google.com/view/flytocorps777/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/flytocorps777/home"
     },
     {
         "teamName": "Team \u1e63a\u1e6dko\u1e47a",
         "websiteLink": "https://sites.google.com/view/teamsatkona/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamsatkona/home"
     },
     {
         "teamName": "No Brainers",
         "websiteLink": "https://sites.google.com/view/human-stray-dogs-conflicts/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/human-stray-dogs-conflicts/home"
     },
     {
         "teamName": "Glory Hunters",
         "websiteLink": "https://sites.google.com/view/techforkhet",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/techforkhet"
     },
     {
         "teamName": "ORIGIN",
         "websiteLink": "https://sites.google.com/view/origin-org/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/origin-org/home"
     },
     {
         "teamName": "Salaar",
         "websiteLink": "https://sites.google.com/view/instaaddiction/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/instaaddiction/home"
     },
     {
         "teamName": "pixel pros",
         "websiteLink": "https://sites.google.com/view/mindsearch/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/mindsearch/home"
     },
     {
         "teamName": "Lumos",
         "websiteLink": "https://sites.google.com/view/teamlumos/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamlumos/home"
     },
     {
         "teamName": "Loop Labs",
         "websiteLink": "https://sites.google.com/d/1GLOjJldYg-JMBZsI-XaizRmXobWjtqoq/p/1M9M69jlhpujNn9GrGcz5QZsDFAGvdbY3/edit",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1GLOjJldYg-JMBZsI-XaizRmXobWjtqoq/p/1M9M69jlhpujNn9GrGcz5QZsDFAGvdbY3/edit"
     },
     {
         "teamName": "Maestros",
         "websiteLink": "https://sites.google.com/view/maestros-team/home",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/maestros-team/home"
     },
     {
         "teamName": "Flow Fixers",
         "websiteLink": "https://sites.google.com/d/1EstjVh21CMCmZ6nV3ro0X-MubO8jatKY/p/12nRk-mfUU1bzT3Hj7ZEjvt7379vxF0_p/edit",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1EstjVh21CMCmZ6nV3ro0X-MubO8jatKY/p/12nRk-mfUU1bzT3Hj7ZEjvt7379vxF0_p/edit"
     },
     {
         "teamName": "Bohot Hard",
         "websiteLink": "https://sites.google.com/view/bohothard",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/bohothard"
     },
     {
         "teamName": "WARNER BROS",
         "websiteLink": "https://sites.google.com/view/bbq-by-the-sun?usp=sharing",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/bbq-by-the-sun?usp=sharing"
     },
     {
         "teamName": "Lazy Geniuses",
         "websiteLink": "https://sites.google.com/view/lazy-geniuses-designthinking/",
         "mentor": "Raj Narayanan",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/lazy-geniuses-designthinking/"
     },
     {
         "teamName": "Think Tank",
         "websiteLink": "https://sites.google.com/view/thinktankmenstrualstigma/project",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thinktankmenstrualstigma/project"
     },
     {
         "teamName": "The Think Tank",
         "websiteLink": "https://sites.google.com/view/unhygienic-food-in-hyderabad/home",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/unhygienic-food-in-hyderabad/home"
     },
     {
         "teamName": "Maverick_b",
         "websiteLink": "https://sites.google.com/d/1Waepy8LbOQuxJNbltv81UHQR7NT30zB6/p/1z3QCqlFIHxavzdtGvOLHNudYi8vVhSsr/edit",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1Waepy8LbOQuxJNbltv81UHQR7NT30zB6/p/1z3QCqlFIHxavzdtGvOLHNudYi8vVhSsr/edit"
     },
     {
         "teamName": "The Path Finders",
         "websiteLink": "https://sites.google.com/view/the-path-finders/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-path-finders/home"
     },
     {
         "teamName": "cracked",
         "websiteLink": "https://sites.google.com/view/cracked-designthinking/home?authuser=0",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/cracked-designthinking/home?authuser=0"
     },
     {
         "teamName": "Elite crew",
         "websiteLink": "https://sites.google.com/view/elitecrew06/user-understanding",
         "mentor": "Shijith VP",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/elitecrew06/user-understanding"
     },
     {
         "teamName": "FAMOUS FIVE+1",
         "websiteLink": "https://sites.google.com/view/vastra-dt/home",
         "mentor": "Ankana Sen",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/vastra-dt/home"
     },
     {
         "teamName": "Sintex",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Team sintex",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Octagon",
         "websiteLink": "https://sites.google.com/view/team-octagon/project-page",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-octagon/project-page"
     },
     {
         "teamName": "Sintex",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Twinkle",
         "websiteLink": "https://borhansahed.my.canva.site/twinkle",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://borhansahed.my.canva.site/twinkle"
     },
     {
         "teamName": "The Game",
         "websiteLink": "https://wearegame.github.io/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://wearegame.github.io/"
     },
     {
         "teamName": "Moulika Vangapandu",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Brainstorm Brigade",
         "websiteLink": "https://saeedalim0003.wixsite.com/mysite",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://saeedalim0003.wixsite.com/mysite"
     },
     {
         "teamName": "MEIRA - The Light",
         "websiteLink": "https://srusan319.wixsite.com/meira-org",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://srusan319.wixsite.com/meira-org"
     },
     {
         "teamName": "Sintex",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Para-yl",
         "websiteLink": "https://parayl2023.wordpress.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://parayl2023.wordpress.com/"
     },
     {
         "teamName": "J'Kaptivrs",
         "websiteLink": "https://docs.google.com/document/d/e/2PACX-1vQsNd38Jw5W2TnbhmfFbbUFFdsRFHStFS_cCPZ7jTQsemlAHA9nnVS9_o42f17GitBGAyftMPEfCZRQ/pub",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://docs.google.com/document/d/e/2PACX-1vQsNd38Jw5W2TnbhmfFbbUFFdsRFHStFS_cCPZ7jTQsemlAHA9nnVS9_o42f17GitBGAyftMPEfCZRQ/pub"
     },
     {
         "teamName": "drama club",
         "websiteLink": "https://rohilarayipudi.wixsite.com/mygoto",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://rohilarayipudi.wixsite.com/mygoto"
     },
     {
         "teamName": "Avanika Gyanaji",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "Expandables",
         "websiteLink": "https://sites.google.com/view/expandables/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/expandables/home"
     },
     {
         "teamName": "The Design Bees",
         "websiteLink": "https://kumarheshika2003.wixsite.com/home-page",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://kumarheshika2003.wixsite.com/home-page"
     },
     {
         "teamName": "The Design Bees",
         "websiteLink": "https://kumarheshika2003.wixsite.com/home-page",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://kumarheshika2003.wixsite.com/home-page"
     },
     {
         "teamName": "Prototyping",
         "websiteLink": "https://sites.google.com/view/prototyping1/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/prototyping1/home?authuser=0"
     },
     {
         "teamName": "The Octagram",
         "websiteLink": "https://sites.google.com/view/theoctagram",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/theoctagram"
     },
     {
         "teamName": "The Squad",
         "websiteLink": "https://www.petspeaks.in/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://www.petspeaks.in/"
     },
     {
         "teamName": "Para-yl",
         "websiteLink": "https://parayl2023.wordpress.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://parayl2023.wordpress.com/"
     },
     {
         "teamName": "The Squad",
         "websiteLink": "https://www.petspeaks.in/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://www.petspeaks.in/"
     },
     {
         "teamName": "All for one",
         "websiteLink": "https://sites.google.com/view/all-for-one-project/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/all-for-one-project/home"
     },
     {
         "teamName": "Team Kanyarasi",
         "websiteLink": "https://sites.google.com/view/teamkanyarasi/team",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamkanyarasi/team"
     },
     {
         "teamName": "Fab Five",
         "websiteLink": "https://sites.google.com/view/healthymind-fabfive/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/healthymind-fabfive/home"
     },
     {
         "teamName": "TECH-SOL",
         "websiteLink": "https://blindfoldfortheblind.wordpress.com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://blindfoldfortheblind.wordpress.com"
     },
     {
         "teamName": "Creative Guild",
         "websiteLink": "https://sites.google.com/view/2345cyber/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/2345cyber/home"
     },
     {
         "teamName": "Team Bolzano",
         "websiteLink": "https://sites.google.com/view/freedatai/home?authuser=1",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/freedatai/home?authuser=1"
     },
     {
         "teamName": "Creative Guild",
         "websiteLink": "https://sites.google.com/view/2345cyber/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/2345cyber/home"
     },
     {
         "teamName": "The Game",
         "websiteLink": "https://wearegame.github.io/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://wearegame.github.io/"
     },
     {
         "teamName": "Sintex",
         "websiteLink": "https://sites.google.com/view/generationalgap/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/generationalgap/home"
     },
     {
         "teamName": "XLR8",
         "websiteLink": "http://xlr8.co.in/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/http://xlr8.co.in/"
     },
     {
         "teamName": "Queenbees",
         "websiteLink": "https://timeninjas.wixsite.com/timeninjas",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://timeninjas.wixsite.com/timeninjas"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Kintsugi",
         "websiteLink": "https://sites.google.com/view/vivenciakintsugi",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/vivenciakintsugi"
     },
     {
         "teamName": "PERSEUS",
         "websiteLink": "https://sites.google.com/view/perseusz/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/perseusz/home"
     },
     {
         "teamName": "NIVI",
         "websiteLink": "https://nivi.website/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://nivi.website/home"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "Economy",
         "websiteLink": "https://sites.google.com/view/neeruswatersol/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/neeruswatersol/home"
     },
     {
         "teamName": "Skylarks",
         "websiteLink": "https://sites.google.com/view/team-skylarks/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-skylarks/home"
     },
     {
         "teamName": "Koios",
         "websiteLink": "https://sites.google.com/view/koios",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/koios"
     },
     {
         "teamName": "Scrutinizers",
         "websiteLink": "https://sites.google.com/view/6scrutinizers",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/6scrutinizers"
     },
     {
         "teamName": "KIRA",
         "websiteLink": "https://dheerajkushaldk030.wixsite.com/kira",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://dheerajkushaldk030.wixsite.com/kira"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "AJUDA",
         "websiteLink": "https://sites.google.com/view/ajuda-stress/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ajuda-stress/home"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "GetRekt110",
         "websiteLink": "https://sayarnilganguly.com/getrekt110/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sayarnilganguly.com/getrekt110/"
     },
     {
         "teamName": "OCTATES",
         "websiteLink": "https://sites.google.com/view/octates/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/octates/home"
     },
     {
         "teamName": "evo",
         "websiteLink": "https://sites.google.com/view/teamevoproject/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamevoproject/home"
     },
     {
         "teamName": "Wandering Minds",
         "websiteLink": "https://sites.google.com/d/1rYU4RiofrM_Gj6jRSnQKGjR5-gwpgdpn/p/1a4ovWe_TQxV2Af-8LJyDGdVI1JSAFgWf/edit",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1rYU4RiofrM_Gj6jRSnQKGjR5-gwpgdpn/p/1a4ovWe_TQxV2Af-8LJyDGdVI1JSAFgWf/edit"
     },
     {
         "teamName": "Team 34",
         "websiteLink": "https://sites.google.com/view/dt-team-34/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dt-team-34/home"
     },
     {
         "teamName": "Enthusiast",
         "websiteLink": "https://sites.google.com/view/teamenthusiast/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamenthusiast/home"
     },
     {
         "teamName": "Innovate Squad",
         "websiteLink": "https://innovatesquad7.wixsite.com/mysite",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://innovatesquad7.wixsite.com/mysite"
     },
     {
         "teamName": "UNSTOPPABLE SIX",
         "websiteLink": "https://glucoflexhealth.wordpress.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://glucoflexhealth.wordpress.com/"
     },
     {
         "teamName": "Trailblazers",
         "websiteLink": "https://sites.google.com/view/trailblazers8/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/trailblazers8/home"
     },
     {
         "teamName": "The Phoenix",
         "websiteLink": "https://sites.google.com/view/phoenixhydration/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/phoenixhydration/home"
     },
     {
         "teamName": "Team Invictus",
         "websiteLink": "https://sites.google.com/view/team-invictus/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-invictus/"
     },
     {
         "teamName": "Wandering minds",
         "websiteLink": "https://sites.google.com/view/medxpiry/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/medxpiry/home"
     },
     {
         "teamName": "Euphorbia",
         "websiteLink": "https://dteuphorbia.notion.site/dteuphorbia/The-Listening-project-86c16b469e774ae0b53437f7cdee93d3",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://dteuphorbia.notion.site/dteuphorbia/The-Listening-project-86c16b469e774ae0b53437f7cdee93d3"
     },
     {
         "teamName": "7Soups",
         "websiteLink": "https://sites.google.com/view/pseudosight/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/pseudosight/home"
     },
     {
         "teamName": "UTOPIA",
         "websiteLink": "https://eradicatechildlabour.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://eradicatechildlabour.com/"
     },
     {
         "teamName": "Competent Men",
         "websiteLink": "https://competentmen.000webhostapp.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://competentmen.000webhostapp.com/"
     },
     {
         "teamName": "Design Thinkers",
         "websiteLink": "https://theg3ntleman.github.io/fastroads",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://theg3ntleman.github.io/fastroads"
     },
     {
         "teamName": "The Avalanche",
         "websiteLink": "https://sites.google.com/view/theavalanche/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/theavalanche/home"
     },
     {
         "teamName": "QuickFixers",
         "websiteLink": "https://sites.google.com/view/quickfixers",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/quickfixers"
     },
     {
         "teamName": "We are the problem",
         "websiteLink": "https://wearetheproblem6.wordpress.com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://wearetheproblem6.wordpress.com"
     },
     {
         "teamName": "Mavericks",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "Se7ven",
         "websiteLink": "https://karthikmurali945.wordpress.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://karthikmurali945.wordpress.com/"
     },
     {
         "teamName": "Black Eagles",
         "websiteLink": "https://finstadtl.wixsite.com/finsta",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://finstadtl.wixsite.com/finsta"
     },
     {
         "teamName": "MAVERICKS",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "MAVERICKS",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "Airflow",
         "websiteLink": "https://sites.google.com/view/teamairflow/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamairflow/home"
     },
     {
         "teamName": "7soups",
         "websiteLink": "https://sites.google.com/view/pseudosight/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/pseudosight/home"
     },
     {
         "teamName": "Mavericks",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "Mavericks",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "Allies",
         "websiteLink": "https://sites.google.com/view/allies123/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/allies123/home"
     },
     {
         "teamName": "Mavericks",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "Team Innovators",
         "websiteLink": "https://sites.google.com/d/1Yx9DKbiSzVBSL2BKkeFnoMOmbifnKwVo/p/1o4GAECQ7ULzXRhzNNvlGpef3wH5MsSJv/edit",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1Yx9DKbiSzVBSL2BKkeFnoMOmbifnKwVo/p/1o4GAECQ7ULzXRhzNNvlGpef3wH5MsSJv/edit"
     },
     {
         "teamName": "The Perfect Mix",
         "websiteLink": "https://sites.google.com/view/perfectmix/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/perfectmix/home"
     },
     {
         "teamName": "Dalals",
         "websiteLink": "https://sites.google.com/view/the-mec-dalals/contact",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/the-mec-dalals/contact"
     },
     {
         "teamName": "Loading..",
         "websiteLink": "https://sites.google.com/view/teamloading/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamloading/home"
     },
     {
         "teamName": "SYNTAX",
         "websiteLink": "https://sites.google.com/view/ekinsyntax/blog",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ekinsyntax/blog"
     },
     {
         "teamName": "Solvers",
         "websiteLink": "https://cluttered-lagoon.localsite.io/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://cluttered-lagoon.localsite.io/"
     },
     {
         "teamName": "We are the problem",
         "websiteLink": "https://wearetheproblem6.wordpress.com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://wearetheproblem6.wordpress.com"
     },
     {
         "teamName": "Rhodium",
         "websiteLink": "https://spark-color-ce6.notion.site/Home-Page-a0327880ff064085b370cefcda02d53d",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://spark-color-ce6.notion.site/Home-Page-a0327880ff064085b370cefcda02d53d"
     },
     {
         "teamName": "SAVGLY",
         "websiteLink": "https://sites.google.com/view/crop-connect",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/crop-connect"
     },
     {
         "teamName": "SYNTAX",
         "websiteLink": "https://sites.google.com/view/ekinsyntax/blog",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/ekinsyntax/blog"
     },
     {
         "teamName": "Impactors",
         "websiteLink": "https://sites.google.com/view/aicc-agriculture-impact/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/aicc-agriculture-impact/home?authuser=0"
     },
     {
         "teamName": "Felix Thinkers",
         "websiteLink": "https://sites.google.com/view/felixthinkers/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/felixthinkers/home"
     },
     {
         "teamName": "Felix Thinkers",
         "websiteLink": "https://sites.google.com/view/felixthinkers/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/felixthinkers/home"
     },
     {
         "teamName": "Telugu Titans",
         "websiteLink": "https://tejastadla.wixsite.com/sexedtt-com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://tejastadla.wixsite.com/sexedtt-com"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home?authuser=0"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home"
     },
     {
         "teamName": "MAVERICKS",
         "websiteLink": "https://sites.google.com/view/team-mavericks/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-mavericks/home?authuser=0"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home?authuser=0"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home?authuser=0"
     },
     {
         "teamName": "SMARTKLIP",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home?authuser=0",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home?authuser=0"
     },
     {
         "teamName": "SmartKlip",
         "websiteLink": "https://sites.google.com/view/smartklip-in/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/smartklip-in/home"
     },
     {
         "teamName": "The Hive",
         "websiteLink": "https://sites.google.com/view/thehivemu/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thehivemu/home"
     },
     {
         "teamName": "Phoenix",
         "websiteLink": "https://sites.google.com/view/dezoid/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/dezoid/home"
     },
     {
         "teamName": "The Clear Project",
         "websiteLink": "http://healandgrowblog.wordpress.com",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/http://healandgrowblog.wordpress.com"
     },
     {
         "teamName": "Mugiwaras",
         "websiteLink": "https://sites.google.com/view/vagrantzz/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/vagrantzz/home"
     },
     {
         "teamName": "Design Thinkers",
         "websiteLink": "https://theg3ntleman.github.io/fastroads/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://theg3ntleman.github.io/fastroads/"
     },
     {
         "teamName": "DebuggigDemons",
         "websiteLink": "https://sites.google.com/view/debuggingdemons",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/debuggingdemons"
     },
     {
         "teamName": "TEAM OM",
         "websiteLink": "http://macerpsols.unaux.com/",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/http://macerpsols.unaux.com/"
     },
     {
         "teamName": "Dandies",
         "websiteLink": "https://sites.google.com/view/augment-textiles/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/augment-textiles/home"
     },
     {
         "teamName": "Cheetos",
         "websiteLink": "https://sites.google.com/d/1esLtO3AVecncHg4ODLuBQH_MjKk_Miys/p/1C-9toyPli0RNtDdAjIIVIf5WS_YWYtmy/edit?pli=1",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1esLtO3AVecncHg4ODLuBQH_MjKk_Miys/p/1C-9toyPli0RNtDdAjIIVIf5WS_YWYtmy/edit?pli=1"
     },
     {
         "teamName": "Whiz bang",
         "websiteLink": "https://sites.google.com/d/1yF4zOAc4oNm0Tq4nH-Mre1h9J4oOwVLO/p/16wiwZgeChJxu57-5IJDG-E_M9u4uBr9X/edit",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/d/1yF4zOAc4oNm0Tq4nH-Mre1h9J4oOwVLO/p/16wiwZgeChJxu57-5IJDG-E_M9u4uBr9X/edit"
     },
     {
         "teamName": "Team-Alpha Centauri",
         "websiteLink": "https://sites.google.com/view/team-alpha-centauri/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/team-alpha-centauri/home"
     },
     {
         "teamName": "DRAMA CLUB",
         "websiteLink": "https://rohilarayipudi.wixsite.com/mygoto",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://rohilarayipudi.wixsite.com/mygoto"
     },
     {
         "teamName": "Team Perseverance",
         "websiteLink": "https://sites.google.com/view/strt2day/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/strt2day/home"
     },
     {
         "teamName": "Team Entourage",
         "websiteLink": "https://sites.google.com/view/teamentourage/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/teamentourage/home"
     },
     {
         "teamName": "Team FML",
         "websiteLink": "https://sites.google.com/view/thecartbymu/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thecartbymu/home"
     },
     {
         "teamName": "Team FML",
         "websiteLink": "https://sites.google.com/view/thecartbymu/home",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/thecartbymu/home"
     },
     {
         "teamName": "Tech Thinkers",
         "websiteLink": "https://techthinkersmu.wixsite.com/my-site",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://techthinkersmu.wixsite.com/my-site"
     },
     {
         "teamName": "Nuance",
         "websiteLink": "https://rishitaboppana123.wixsite.com/my-site-3",
         "mentor": "",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://rishitaboppana123.wixsite.com/my-site-3"
     },
     {
         "teamName": "SE7EN",
         "websiteLink": "https://sites.google.com/view/se7en/home",
         "mentor": "Sayoni Laha",
-        "description": ""
+        "description": "",
+        "imageUrl": "https://image.thum.io/get/width/600/crop/800/https://sites.google.com/view/se7en/home"
     }
 ];
