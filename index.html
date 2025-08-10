@@ -3,38 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Design Thinking Project Portfolio</title>
+    <title>Live Design Thinking Project Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Inter', sans-serif;
+            background-color: #f9fafb;
         }
         .project-card {
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
         .project-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
         }
+        .card-content {
+            flex-grow: 1;
+        }
+        .description-clamp {
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;  
+            overflow: hidden;
+        }
+        #loader {
+            border-top-color: #4f46e5;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-800">
+<body class="text-gray-800">
 
-    <div class="container mx-auto px-4 py-8">
-        <header class="text-center mb-12">
-            <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-2">Design Thinking Projects</h1>
-            <p class="text-lg text-gray-600">A showcase of student projects from the last semester.</p>
+    <div class="container mx-auto px-4 py-10">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Design Thinking Projects</h1>
+            <p class="text-md text-gray-600 mt-1">Live from Hosted Spreadsheet</p>
         </header>
 
-        <!-- Filters -->
-        <div class="flex flex-col md:flex-row justify-center items-center gap-4 mb-10">
-            <div class="w-full md:w-1/3">
-                <label for="theme-filter" class="block text-sm font-medium text-gray-700 mb-1">Filter by Theme</label>
-                <select id="theme-filter" class="w-full bg-white border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
-                    <option value="all">All Themes</option>
-                </select>
-            </div>
+        <!-- Loading and Error States -->
+        <div id="loader-container" class="text-center my-12">
+            <div id="loader" class="mx-auto h-12 w-12 animate-spin rounded-full border-4 border-gray-300 border-t-indigo-600"></div>
+            <p class="mt-4 text-gray-600">Fetching latest project data...</p>
+        </div>
+        <div id="error-message" class="text-center text-red-600 bg-red-100 p-4 rounded-lg" style="display: none;"></div>
+        
+        <!-- Controls will be hidden until data loads -->
+        <div id="controls" class="hidden flex-col md:flex-row justify-center items-center gap-4 mb-10 p-4 bg-white rounded-lg shadow-sm">
             <div class="w-full md:w-1/3">
                 <label for="mentor-filter" class="block text-sm font-medium text-gray-700 mb-1">Filter by Mentor</label>
                 <select id="mentor-filter" class="w-full bg-white border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
@@ -44,7 +65,7 @@
         </div>
 
         <!-- Project Grid -->
-        <div id="project-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+        <div id="project-grid" class="hidden grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             <!-- Project cards will be injected here -->
         </div>
         <div id="no-results" class="text-center text-gray-500 py-10" style="display: none;">
@@ -54,62 +75,88 @@
     </div>
 
     <script>
-        // I've removed the projects that were not published or led to a sign-in page.
-        const projectData = [
-            { "id": 1, "teamName": "The Sixth Sense", "websiteLink": "https://sites.google.com/view/lefthandedness?usp=sharing", "mentor": "Shijith VP", "theme": "Accessibility & Inclusivity" },
-            { "id": 2, "teamName": "Error 404", "websiteLink": "https://sites.google.com/view/error-404-dt/home", "mentor": "Shijith VP", "theme": "Technology & Society" },
-            { "id": 3, "teamName": "Amigos", "websiteLink": "https://sites.google.com/view/amigosdt/home", "mentor": "Shijith VP", "theme": "Campus Life & Community" },
-            { "id": 4, "teamName": "Tech Titans", "websiteLink": "https://sites.google.com/view/thetechtitans/home", "mentor": "Shijith VP", "theme": "Education & Learning" },
-            { "id": 5, "teamName": "The Innovators", "websiteLink": "https://sites.google.com/view/the-innovators-dt/home", "mentor": "Shijith VP", "theme": "Health & Wellness" },
-            { "id": 6, "teamName": "Team Zenith", "websiteLink": "https://sites.google.com/view/teamzenith/home", "mentor": "Shijith VP", "theme": "Campus Life & Community" },
-            { "id": 25, "teamName": "The helpers", "websiteLink": "https://sites.google.com/view/thehelpers-dt/home", "mentor": "Raj Narayanan", "theme": "Social Impact" },
-            { "id": 126, "teamName": "The Incredibles", "websiteLink": "https://sites.google.com/view/the-incredibles-dt/home", "mentor": "Sayoni Laha", "theme": "Urban Development" },
-            { "id": 127, "teamName": "Elite crew", "websiteLink": "https://sites.google.com/view/elitecrew06/user-understanding", "mentor": "Shijith VP", "theme": "Campus Life & Community" }
-        ];
+        // The URL to your raw CSV file on GitHub has been added.
+        const csvUrl = 'https://raw.githubusercontent.com/o-meiuqer-o/mud_studio/refs/heads/main/All%20projects%20consolidated%20raw-sheet1.csv'; 
+
+        let projectData = []; 
 
         const projectGrid = document.getElementById('project-grid');
-        const themeFilter = document.getElementById('theme-filter');
         const mentorFilter = document.getElementById('mentor-filter');
         const noResults = document.getElementById('no-results');
+        const loaderContainer = document.getElementById('loader-container');
+        const controls = document.getElementById('controls');
+        const errorMessage = document.getElementById('error-message');
+
+        /**
+         * Parses CSV text into an array of objects, intelligently finding columns by header names.
+         */
+        function parseCSV(csvText) {
+            const lines = csvText.split(/\r?\n/);
+            if (lines.length < 2) return [];
+
+            const headers = lines[0].split(',').map(h => h.trim());
+            const data = [];
+
+            const teamNameIndex = headers.findIndex(h => h.includes("Team Name/ group name"));
+            const linkIndex = headers.findIndex(h => h.includes("Link to your website"));
+            const mentorIndex = headers.findIndex(h => h.includes("Project Mentor"));
+            const descIndex = headers.findIndex(h => h.includes("Description"));
+            
+            if (teamNameIndex === -1 || linkIndex === -1 || mentorIndex === -1) {
+                throw new Error("Could not find required columns in CSV. Please ensure headers contain: 'Team Name/ group name', 'Link to your website', and 'Project Mentor'.");
+            }
+
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim() === '') continue;
+                
+                // This regex handles commas inside quoted fields
+                const currentline = lines[i].match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g) || [];
+                
+                const teamName = (currentline[teamNameIndex] || '').replace(/"/g, '').trim();
+                const websiteLink = (currentline[linkIndex] || '').replace(/"/g, '').trim();
+                const mentor = (currentline[mentorIndex] || '').replace(/"/g, '').trim();
+                const description = (currentline[descIndex] || '').replace(/"/g, '').trim();
+
+                if (teamName && websiteLink && websiteLink.startsWith('http')) {
+                    data.push({ teamName, websiteLink, mentor, description });
+                }
+            }
+            return data;
+        }
 
         function createProjectCard(project) {
-            // Replaced the slow screenshot service with a fast placeholder.
             const placeholderText = project.teamName.replace(/\s/g, '+');
-            const imageUrl = `https://placehold.co/600x400/e2e8f0/334155?text=${placeholderText}`;
+            const imageUrl = `https://placehold.co/600x400/e2e8f0/475569?text=${placeholderText}`;
             
             return `
-                <div class="project-card bg-white rounded-lg shadow-md overflow-hidden" data-theme="${project.theme}" data-mentor="${project.mentor}">
-                    <a href="${project.websiteLink}" target="_blank" rel="noopener noreferrer">
+                <div class="project-card bg-white rounded-lg shadow-md overflow-hidden">
+                    <a href="${project.websiteLink}" target="_blank" rel="noopener noreferrer" title="Visit ${project.teamName}'s website">
                         <img src="${imageUrl}" alt="Project placeholder for ${project.teamName}" class="w-full h-48 object-cover">
                     </a>
-                    <div class="p-5">
-                        <h3 class="text-xl font-semibold mb-2 text-gray-900">${project.teamName}</h3>
-                        <p class="text-sm text-gray-600 mb-3"><strong>Mentor:</strong> ${project.mentor}</p>
-                        <span class="inline-block bg-indigo-100 text-indigo-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full">${project.theme}</span>
+                    <div class="p-5 card-content flex flex-col">
+                        <h3 class="text-xl font-bold mb-2 text-gray-900">${project.teamName}</h3>
+                        <p class="text-sm text-gray-500 mb-3"><strong>Mentor:</strong> ${project.mentor || 'N/A'}</p>
+                        <p class="text-gray-700 text-sm description-clamp flex-grow">${project.description || 'No description available.'}</p>
                     </div>
                 </div>
             `;
         }
 
-        function displayProjects(projects) {
-            projectGrid.innerHTML = projects.map(createProjectCard).join('');
+        function displayProjects() {
+            const selectedMentor = mentorFilter.value;
+            let filteredProjects = projectData;
+
+            if (selectedMentor !== 'all') {
+                filteredProjects = filteredProjects.filter(p => p.mentor === selectedMentor);
+            }
+
+            projectGrid.innerHTML = filteredProjects.map(createProjectCard).join('');
+            noResults.style.display = filteredProjects.length === 0 ? 'block' : 'none';
         }
 
         function populateFilters() {
-            const themes = [...new Set(projectData.map(p => p.theme))].sort();
-            const mentors = [...new Set(projectData.map(p => p.mentor.trim()))].sort();
-
-            // Clear existing options before populating
-            themeFilter.innerHTML = '<option value="all">All Themes</option>';
+            const mentors = [...new Set(projectData.map(p => p.mentor))].filter(Boolean).sort();
             mentorFilter.innerHTML = '<option value="all">All Mentors</option>';
-
-            themes.forEach(theme => {
-                const option = document.createElement('option');
-                option.value = theme;
-                option.textContent = theme;
-                themeFilter.appendChild(option);
-            });
-
             mentors.forEach(mentor => {
                 const option = document.createElement('option');
                 option.value = mentor;
@@ -118,38 +165,41 @@
             });
         }
 
-        function filterProjects() {
-            const selectedTheme = themeFilter.value;
-            const selectedMentor = mentorFilter.value;
-            let filteredProjects = projectData;
-
-            if (selectedTheme !== 'all') {
-                filteredProjects = filteredProjects.filter(p => p.theme === selectedTheme);
+        async function main() {
+            if (!csvUrl || csvUrl === 'PASTE_YOUR_RAW_GITHUB_CSV_URL_HERE') {
+                loaderContainer.style.display = 'none';
+                errorMessage.textContent = 'Error: Please paste the raw CSV URL from GitHub into the script.';
+                errorMessage.style.display = 'block';
+                return;
             }
 
-            if (selectedMentor !== 'all') {
-                filteredProjects = filteredProjects.filter(p => p.mentor.trim() === selectedMentor);
-            }
+            try {
+                const response = await fetch(csvUrl);
+                if (!response.ok) throw new Error(`Network response failed: ${response.statusText}`);
+                
+                const csvText = await response.text();
+                projectData = parseCSV(csvText);
+                
+                loaderContainer.style.display = 'none';
+                controls.classList.remove('hidden');
+                controls.classList.add('flex');
+                projectGrid.classList.remove('hidden');
+                projectGrid.classList.add('grid');
+                
+                populateFilters();
+                displayProjects();
 
-            displayProjects(filteredProjects);
-            
-            if (filteredProjects.length === 0) {
-                noResults.style.display = 'block';
-                projectGrid.style.display = 'none';
-            } else {
-                noResults.style.display = 'none';
-                projectGrid.style.display = 'grid';
+                mentorFilter.addEventListener('change', displayProjects);
+
+            } catch (error) {
+                console.error('Failed to load or parse project data:', error);
+                loaderContainer.style.display = 'none';
+                errorMessage.textContent = `Error: Could not load project data. ${error.message}`;
+                errorMessage.style.display = 'block';
             }
         }
 
-        // Initial setup
-        document.addEventListener('DOMContentLoaded', () => {
-            displayProjects(projectData);
-            populateFilters();
-
-            themeFilter.addEventListener('change', filterProjects);
-            mentorFilter.addEventListener('change', filterProjects);
-        });
+        document.addEventListener('DOMContentLoaded', main);
     </script>
 </body>
 </html>
