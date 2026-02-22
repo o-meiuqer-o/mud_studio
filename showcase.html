@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Thinking Innovation Gallery</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #050505;
+            --card-bg: #121212;
+            --accent: #a855f7;
+            --accent-glow: rgba(168, 85, 247, 0.4);
+            --text-main: #ffffff;
+            --text-dim: #a1a1aa;
+            --surface: #1e1e1e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+            padding-bottom: 5rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 8rem 2rem 2rem;
+        }
+
+        header {
+            text-align: center;
+            padding: 2rem 1rem 6rem;
+            position: relative;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(168, 85, 247, 0.1);
+            color: var(--accent);
+            padding: 0.6rem 1.8rem;
+            border-radius: 100px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(168, 85, 247, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: clamp(3.5rem, 12vw, 6rem);
+            font-weight: 800;
+            line-height: 0.9;
+            margin-bottom: 2rem;
+            letter-spacing: -0.04em;
+            background: linear-gradient(180deg, #fff 0%, #52525b 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-dim);
+            font-size: 1.15rem;
+            max-width: 900px;
+            margin: 0 auto;
+            font-weight: 300;
+            line-height: 1.8;
+            text-align: left;
+            padding: 2.5rem;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            position: relative;
+        }
+
+        .subtitle::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--accent);
+            border-radius: 20px 0 0 20px;
+        }
+
+        .subtitle p {
+            margin-bottom: 1rem;
+        }
+
+        .subtitle p:last-child {
+            margin-bottom: 0;
+        }
+
+        .learn-more-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 3rem;
+            padding: 1rem 2.5rem;
+            background: transparent;
+            color: var(--text-main);
+            text-decoration: none;
+            border-radius: 100px;
+            font-weight: 600;
+            gap: 1rem;
+            border: 1px solid rgba(168, 85, 247, 0.5);
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            font-size: 1.1rem;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+        }
+
+        .learn-more-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--accent);
+            z-index: -1;
+            transform: scaleX(0);
+            transform-origin: right;
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .learn-more-btn:hover {
+            border-color: var(--accent);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(168, 85, 247, 0.2);
+        }
+
+        .learn-more-btn:hover::before {
+            transform: scaleX(1);
+            transform-origin: left;
+        }
+
+        .learn-more-btn svg {
+            width: 22px;
+            height: 22px;
+            transition: transform 0.4s;
+        }
+
+        .learn-more-btn:hover svg {
+            transform: translateX(5px);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            gap: 4rem;
+            margin-top: 4rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 40px;
+            overflow: hidden;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-20px) scale(1.02);
+            border-color: rgba(168, 85, 247, 0.6);
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.9), 0 0 40px var(--accent-glow);
+        }
+
+        .image-container {
+            width: 100%;
+            height: 320px;
+            overflow: hidden;
+            position: relative;
+            background: #000;
+        }
+
+        .card-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+            opacity: 0.9;
+        }
+
+        .card:hover .card-image {
+            transform: scale(1.15);
+            opacity: 1;
+        }
+
+        .card-content {
+            padding: 3rem;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            background: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.4) 100%);
+        }
+
+        .team-name {
+            font-size: 2.2rem;
+            font-weight: 800;
+            margin-bottom: 1.2rem;
+            font-family: 'Outfit', sans-serif;
+            color: #fff;
+            letter-spacing: -0.02em;
+        }
+
+        .description {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+            margin-bottom: 3rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            line-height: 1.7;
+            font-weight: 400;
+        }
+
+        .view-btn {
+            margin-top: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: fit-content;
+            padding: 1rem 2.5rem;
+            background: var(--accent);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 100px;
+            font-weight: 700;
+            gap: 1rem;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            border: none;
+            cursor: pointer;
+            font-size: 1.1rem;
+        }
+
+        .view-btn:hover {
+            background: #fff;
+            color: #000;
+            transform: translateX(10px);
+            box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+        }
+
+        .view-btn svg {
+            width: 22px;
+            height: 22px;
+            transition: transform 0.4s;
+        }
+
+        .view-btn:hover svg {
+            transform: translateX(5px);
+        }
+
+        #no-data {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 12rem 2rem;
+            color: var(--text-dim);
+            font-size: 1.8rem;
+            font-weight: 300;
+        }
+
+        .footer-note {
+            text-align: center;
+            margin-top: 10rem;
+            color: var(--text-dim);
+            font-size: 1.1rem;
+            opacity: 0.3;
+            letter-spacing: 1px;
+        }
+
+        /* Ambient Orbs */
+        .orb {
+            position: fixed;
+            width: 1000px;
+            height: 1000px;
+            border-radius: 50%;
+            z-index: -1;
+            filter: blur(150px);
+            opacity: 0.15;
+            pointer-events: none;
+        }
+
+        .orb-1 {
+            top: -400px;
+            right: -400px;
+            background: var(--accent);
+        }
+
+        .orb-2 {
+            bottom: -400px;
+            left: -400px;
+            background: #3b82f6;
+        }
+
+        @media (max-width: 1024px) {
+            .grid {
+                grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+                gap: 2rem;
+            }
+
+            h1 {
+                font-size: 4.5rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 3.5rem;
+            }
+
+            .container {
+                padding: 1.5rem;
+            }
+
+            header {
+                padding: 2rem 1rem 4rem;
+            }
+        }
+
+        .top-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(5, 5, 5, 0.8);
+            -webkit-backdrop-filter: blur(12px);
+            backdrop-filter: blur(12px);
+            z-index: 100;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .nav-brand {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: 1px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: var(--text-dim);
+            text-decoration: none;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-main);
+        }
+
+        @media (max-width: 768px) {
+            .top-nav {
+                flex-direction: column;
+                padding: 1rem;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="top-nav">
+        <a href="showcase.html" class="nav-brand">Design Thinking</a>
+        <div class="nav-links">
+            <a href="course-overview.html">About the Course</a>
+            <a href="mentoring-team.html">Mentoring Team</a>
+        </div>
+    </nav>
+
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+
+    <div class="container">
+        <header>
+            <div class="badge">Innovation Showcase 2026</div>
+            <h1>The Design Thinking<br>Portfolio Gallery</h1>
+            <div class="subtitle">
+                <p>This gallery showcases outcomes from a semester-long Design Thinking course for fourth-semester
+                    B.Tech students at Mahindra University.</p>
+                <p>The course develops analytical rigor, systems thinking, and structured problem framing. Students work
+                    on real-world challenges and produce conceptually robust, well-justified design proposals grounded
+                    in research and clear decision logic.</p>
+                <p>These projects reflect disciplined thinking as much as creative intent.</p>
+            </div>
+
+            <a href="course-overview.html" class="learn-more-btn">
+                Learn More About The Course
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3">
+                    </path>
+                </svg>
+            </a>
+        </header>
+
+        <div class="grid" id="leaderboard-container">
+            <div id="no-data">Curating the gallery...</div>
+        </div>
+
+        <div class="footer-note">
+            &copy; 2026 Design Thinking Hub &bull; Visual Showcase
+        </div>
+    </div>
+
+    <script src="top_portfolios.js"></script>
+    <script>
+        function renderGallery() {
+            const container = document.getElementById('leaderboard-container');
+
+            if (typeof topPortfolios === 'undefined' || topPortfolios.length === 0) {
+                container.innerHTML = '<div id="no-data">The gallery is being curated... <br><span style="font-size: 1rem; opacity: 0.6; margin-top: 1rem; display: block;">High-quality portfolios will appear here soon.</span></div>';
+                return;
+            }
+
+            container.innerHTML = '';
+
+            // Sort by Total Score if available, otherwise use provided order
+            const sortedPortfolios = [...topPortfolios].sort((a, b) => (b['Total Score'] || 0) - (a['Total Score'] || 0));
+
+            sortedPortfolios.forEach((p, index) => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.onclick = () => window.open(p['URL'], '_blank');
+
+                const imgSrc = p['Screenshot'] || 'https://images.unsplash.com/photo-1541462608141-ad6019702214?q=80&w=2070&auto=format&fit=crop';
+
+                card.innerHTML = `
+                    <div class="image-container">
+                        <img src="${imgSrc}" class="card-image" alt="${p['Title/Team']}" onerror="this.src='https://images.unsplash.com/photo-1541462608141-ad6019702214?q=80&w=2070&auto=format&fit=crop'">
+                    </div>
+                    <div class="card-content">
+                        <div class="team-name">${p['Title/Team'] || 'Innovation Project'}</div>
+                        <div class="description">${p['Description'] || 'A comprehensive exploration of design thinking principles to solve real-world challenges through empathy and prototyping.'}</div>
+                        <a href="${p['URL']}" target="_blank" class="view-btn" onclick="event.stopPropagation()">
+                            Explore Story
+                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                        </a>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        window.addEventListener('load', renderGallery);
+
+        // Auto-refresh when back in focus or every 2 minutes
+        window.addEventListener('focus', renderGallery);
+
+        setInterval(() => {
+            const oldScript = document.querySelector('script[src="top_portfolios.js"]');
+            if (oldScript) {
+                const newScript = document.createElement('script');
+                newScript.src = 'top_portfolios.js?v=' + Date.now();
+                newScript.onload = renderGallery;
+                oldScript.parentNode.replaceChild(newScript, oldScript);
+            }
+        }, 120000);
+    </script>
+</body>
+
+</html>

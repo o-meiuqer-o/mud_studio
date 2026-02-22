@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentoring Team - Design Thinking</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #050505;
+            --card-bg: #121212;
+            --accent: #a855f7;
+            --accent-glow: rgba(168, 85, 247, 0.4);
+            --text-main: #ffffff;
+            --text-dim: #a1a1aa;
+            --surface: #1e1e1e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+            padding-bottom: 5rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 8rem 2rem 4rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 5rem;
+            position: relative;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(168, 85, 247, 0.1);
+            color: var(--accent);
+            padding: 0.6rem 1.8rem;
+            border-radius: 100px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(168, 85, 247, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: clamp(3rem, 10vw, 5rem);
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.04em;
+            background: linear-gradient(180deg, #fff 0%, #52525b 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-dim);
+            font-size: 1.3rem;
+            max-width: 700px;
+            margin: 0 auto;
+            font-weight: 300;
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 3rem;
+            margin-top: 2rem;
+        }
+
+        .team-card {
+            background: var(--card-bg);
+            border-radius: 30px;
+            padding: 2.5rem 2rem;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .team-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at top, rgba(168, 85, 247, 0.1) 0%, transparent 70%);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            pointer-events: none;
+        }
+
+        .team-card:hover {
+            transform: translateY(-10px);
+            border-color: rgba(168, 85, 247, 0.4);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px var(--accent-glow);
+        }
+
+        .team-card:hover::before {
+            opacity: 1;
+        }
+
+        .image-wrapper {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            margin: 0 auto 2rem;
+            padding: 6px;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(168, 85, 247, 0.5));
+            position: relative;
+            z-index: 1;
+        }
+
+        .profile-image {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            object-fit: cover;
+            background-color: #222;
+            border: 4px solid var(--card-bg);
+            transition: transform 0.5s ease;
+        }
+
+        .team-card:hover .profile-image {
+            transform: scale(1.05);
+        }
+
+        .name {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .years {
+            font-size: 0.95rem;
+            color: var(--accent);
+            font-weight: 600;
+            letter-spacing: 1px;
+            margin-bottom: 1.5rem;
+            background: rgba(168, 85, 247, 0.1);
+            padding: 0.4rem 1rem;
+            border-radius: 100px;
+            display: inline-block;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+            color: #fff;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-top: auto;
+        }
+
+        .social-link:hover {
+            background: var(--accent);
+            color: #fff;
+            border-color: var(--accent);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(168, 85, 247, 0.3);
+        }
+
+        .social-link svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Removed back-btn styling */
+
+        /* Ambient Orbs */
+        .orb {
+            position: fixed;
+            width: 800px;
+            height: 800px;
+            border-radius: 50%;
+            z-index: -2;
+            filter: blur(120px);
+            opacity: 0.1;
+            pointer-events: none;
+        }
+
+        .orb-1 {
+            top: -200px;
+            left: -200px;
+            background: var(--accent);
+        }
+
+        .orb-2 {
+            bottom: -200px;
+            right: -200px;
+            background: #3b82f6;
+        }
+
+        @media (max-width: 1024px) {
+            header {
+                text-align: left;
+            }
+
+            .subtitle {
+                margin: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            .team-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .top-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(5, 5, 5, 0.8);
+            -webkit-backdrop-filter: blur(12px);
+            backdrop-filter: blur(12px);
+            z-index: 100;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .nav-brand {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: 1px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: var(--text-dim);
+            text-decoration: none;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-main);
+        }
+
+        @media (max-width: 768px) {
+            .top-nav {
+                flex-direction: column;
+                padding: 1rem;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="top-nav">
+        <a href="showcase.html" class="nav-brand">Design Thinking</a>
+        <div class="nav-links">
+            <a href="course-overview.html">About the Course</a>
+            <a href="mentoring-team.html">Mentoring Team</a>
+        </div>
+    </nav>
+
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+
+    <div class="container">
+        <header>
+
+            <div class="badge">The Guides</div>
+            <h1>Mentoring Team</h1>
+            <p class="subtitle">The dedicated facilitators who help students navigate ambiguity, structure their problem
+                framing, and develop disciplined design logic.</p>
+        </header>
+
+        <div class="team-grid">
+            <!-- Raj Narayanan -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/raj.jpeg" alt="Raj Narayanan" class="profile-image">
+                </div>
+                <h3 class="name">Raj Narayanan</h3>
+                <div class="years">2020 &ndash; Present</div>
+                <a href="https://www.instagram.com/_meiuqer_" target="_blank" rel="noopener noreferrer"
+                    class="social-link" title="Instagram">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Sayoni Laha -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/sayoni.webp" alt="Sayoni Laha" class="profile-image">
+                </div>
+                <h3 class="name">Sayoni Laha</h3>
+                <div class="years">2020 &ndash; Present</div>
+                <a href="https://in.linkedin.com/in/sayoni-laha-365a1070" target="_blank" rel="noopener noreferrer"
+                    class="social-link" title="LinkedIn">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Shijith VP -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/shijith.jpeg" alt="Shijith VP" class="profile-image">
+                </div>
+                <h3 class="name">Shijith VP</h3>
+                <div class="years">2023 &ndash; Present</div>
+                <a href="https://in.linkedin.com/in/shijith-vp-600a64307" target="_blank" rel="noopener noreferrer"
+                    class="social-link" title="LinkedIn">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Anagha Pullangote -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/anagha.jpg" alt="Anagha Pullangote" class="profile-image">
+                </div>
+                <h3 class="name">Anagha Pullangote</h3>
+                <div class="years">2023</div>
+                <a href="https://in.linkedin.com/in/anp3" target="_blank" rel="noopener noreferrer" class="social-link"
+                    title="LinkedIn">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Ankana Sen -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/ankana.jpeg" alt="Ankana Sen" class="profile-image">
+                </div>
+                <h3 class="name">Ankana Sen</h3>
+                <div class="years">2025</div>
+                <a href="https://www.instagram.com/ankanasen_dafaali" target="_blank" rel="noopener noreferrer"
+                    class="social-link" title="Instagram">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Abhinav Chaturvedi -->
+            <div class="team-card">
+                <div class="image-wrapper">
+                    <img src="pictures of people/abhinav.webp" alt="Abhinav Chaturvedi" class="profile-image">
+                </div>
+                <h3 class="name">Abhinav Chaturvedi</h3>
+                <div class="years">2020 &ndash; 2024</div>
+                <a href="https://in.linkedin.com/in/abhinav-%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%B5-chaturvedi-%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A5%80-phd-496ba614"
+                    target="_blank" rel="noopener noreferrer" class="social-link" title="LinkedIn">
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <path
+                            d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

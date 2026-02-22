@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Overview - Design Thinking</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #050505;
+            --card-bg: #121212;
+            --accent: #a855f7;
+            --accent-glow: rgba(168, 85, 247, 0.4);
+            --text-main: #ffffff;
+            --text-dim: #a1a1aa;
+            --surface: #1e1e1e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+            padding-bottom: 5rem;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 2rem 4rem;
+        }
+
+        header {
+            margin-bottom: 4rem;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(168, 85, 247, 0.1);
+            color: var(--accent);
+            padding: 0.6rem 1.8rem;
+            border-radius: 100px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(168, 85, 247, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: clamp(2.5rem, 8vw, 4.5rem);
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.04em;
+            background: linear-gradient(180deg, #fff 0%, #52525b 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .lead-text {
+            color: var(--text-dim);
+            font-size: 1.4rem;
+            font-weight: 300;
+            line-height: 1.8;
+            margin-bottom: 3rem;
+        }
+
+        .content-section {
+            background: var(--card-bg);
+            border-radius: 30px;
+            padding: 3rem;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            margin-bottom: 3rem;
+            position: relative;
+            transition: all 0.4s ease;
+        }
+
+        .content-section:hover {
+            border-color: rgba(168, 85, 247, 0.3);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(168, 85, 247, 0.1);
+        }
+
+        .section-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 2rem;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .section-title span {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 45px;
+            height: 45px;
+            background: rgba(168, 85, 247, 0.1);
+            color: var(--accent);
+            border-radius: 50%;
+            font-size: 1.3rem;
+            border: 1px solid rgba(168, 85, 247, 0.3);
+            flex-shrink: 0;
+        }
+
+        h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.2rem;
+            margin: 4rem 0 2rem;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.02em;
+        }
+
+        p {
+            color: #d4d4d8;
+            font-size: 1.15rem;
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+            font-weight: 300;
+        }
+
+        ul {
+            list-style: none;
+            margin-bottom: 2rem;
+        }
+
+        li {
+            color: #d4d4d8;
+            font-size: 1.15rem;
+            margin-bottom: 1.2rem;
+            padding-left: 2.5rem;
+            position: relative;
+            font-weight: 300;
+        }
+
+        li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+            font-weight: bold;
+        }
+
+        .highlight-box {
+            background: rgba(168, 85, 247, 0.05);
+            border-left: 4px solid var(--accent);
+            padding: 3rem;
+            border-radius: 0 24px 24px 0;
+            margin: 4rem 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .highlight-box::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(168, 85, 247, 0.1) 0%, rgba(0, 0, 0, 0) 70%);
+            border-radius: 50%;
+            transform: translate(30%, -30%);
+            pointer-events: none;
+        }
+
+        .highlight-box h2 {
+            margin-top: 0;
+            margin-bottom: 1.5rem;
+        }
+
+        .highlight-box p {
+            margin-bottom: 1rem;
+            color: #e4e4e7;
+            font-size: 1.2rem;
+            line-height: 1.7;
+        }
+
+        .highlight-box p:last-child {
+            margin-bottom: 0;
+        }
+
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.8rem;
+            padding: 0.8rem 1.5rem;
+            background: transparent;
+            color: var(--text-dim);
+            text-decoration: none;
+            border-radius: 100px;
+            font-weight: 600;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+            margin-bottom: 3rem;
+            font-size: 0.95rem;
+        }
+
+        .back-btn:hover {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.05);
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateX(-5px);
+        }
+
+        .back-btn svg {
+            width: 20px;
+            height: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        /* Ambient Orbs */
+        .orb {
+            position: fixed;
+            width: 800px;
+            height: 800px;
+            border-radius: 50%;
+            z-index: -2;
+            filter: blur(120px);
+            opacity: 0.08;
+            pointer-events: none;
+        }
+
+        .orb-1 {
+            top: -200px;
+            right: -200px;
+            background: var(--accent);
+        }
+
+        .orb-2 {
+            bottom: -200px;
+            left: -200px;
+            background: #3b82f6;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            .content-section {
+                padding: 2rem;
+            }
+
+            .highlight-box {
+                padding: 2rem;
+            }
+        }
+
+        .top-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(5, 5, 5, 0.8);
+            -webkit-backdrop-filter: blur(12px);
+            backdrop-filter: blur(12px);
+            z-index: 100;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .nav-brand {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: 1px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: var(--text-dim);
+            text-decoration: none;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-main);
+        }
+
+        @media (max-width: 768px) {
+            .top-nav {
+                flex-direction: column;
+                padding: 1rem;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="top-nav">
+        <a href="showcase.html" class="nav-brand">Design Thinking</a>
+        <div class="nav-links">
+            <a href="course-overview.html">About the Course</a>
+            <a href="mentoring-team.html">Mentoring Team</a>
+        </div>
+    </nav>
+
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+
+    <div class="container">
+        <a href="showcase.html" class="back-btn">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18">
+                </path>
+            </svg>
+            Back to Gallery
+        </a>
+
+        <header>
+            <div class="badge">Course Overview</div>
+            <h1>Design Thinking Methodology</h1>
+            <p class="lead-text">A semester-long journey through analytical rigor, systems thinking, and structured
+                problem framing.</p>
+        </header>
+
+        <h2>Pedagogical Structure</h2>
+        <p>The semester is organised around three progressive layers of engagement:</p>
+
+        <div class="content-section">
+            <div class="section-title"><span>1</span> Context Immersion</div>
+            <p>Students begin with observation, stakeholder mapping, secondary research, and field inquiry. They are
+                trained to distinguish symptoms from root causes and to recognise systemic relationships within
+                real-world situations. Emphasis is placed on evidence gathering rather than premature solutioning.</p>
+        </div>
+
+        <div class="content-section">
+            <div class="section-title"><span>2</span> Problem Framing & Reframing</div>
+            <p>A significant portion of the course is devoted to defining the problem statement. Students generate
+                multiple framings of the same situation and evaluate how each framing alters the design direction. This
+                stage develops intellectual flexibility and the ability to handle complexity without oversimplification.
+            </p>
+        </div>
+
+        <div class="content-section">
+            <div class="section-title"><span>3</span> Ideation & Concept Structuring</div>
+            <p>Only after rigorous analysis do students move into ideation. Concepts are evaluated not just for novelty,
+                but for feasibility, scalability, ethical implications, and alignment with contextual constraints.
+                Students are required to justify decisions using structured reasoning.</p>
+            <p>While prototyping is introduced when relevant, the course does not prioritise rapid artefact production.
+                In most cases, projects culminate in clearly articulated design proposals supported by research,
+                diagrams, decision matrices, and visual communication. The objective is conceptual robustness rather
+                than superficial completeness.</p>
+        </div>
+
+        <h2>What Students Develop</h2>
+        <p>By the end of the semester, students demonstrate:</p>
+        <ul>
+            <li>The ability to engage with ambiguity without rushing to closure</li>
+            <li>Structured problem decomposition and systems thinking</li>
+            <li>Logical argumentation for design decisions</li>
+            <li>Awareness of social, technical, and ethical constraints</li>
+            <li>Confidence in articulating complex ideas clearly</li>
+        </ul>
+
+        <div class="highlight-box">
+            <h2>Why This Matters</h2>
+            <p>In professional practice, the most consequential design decisions are often made before anything is
+                built. The ability to frame problems correctly, interrogate assumptions, and reason through alternatives
+                is what differentiates thoughtful practitioners from mere executors.</p>
+            <p>This gallery therefore presents not only proposed solutions, but the cognitive processes behind them. The
+                work reflects disciplined thinking, contextual sensitivity, and structured decision-making developed
+                over the course of the semester.</p>
+        </div>
+    </div>
+</body>
+
+</html>
