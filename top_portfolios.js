@@ -1,0 +1,119 @@
+const topPortfolios = [
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Akatsuki ",
+        "URL": "https://sites.google.com/view/dtl-helpinghand/",
+        "Status": "Working",
+        "Total Score": 41.0,
+        "Description": "Emily transforms elderly mental health care by providing a tireless, empathetic virtual companion that bridges the gap between technology and human connection for those facing loneliness and dementia.",
+        "Screenshot": "thumbnails/site_64.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Dholakpur",
+        "URL": "https://sites.google.com/view/techabour/home",
+        "Status": "Working",
+        "Total Score": 39.0,
+        "Description": "Techabour leverages empathetic field research and engineering design to protect the health and dignity of the low-skilled working class through wearable exoskeletons and accessible digital healthcare.",
+        "Screenshot": "thumbnails/site_48.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Dreamers",
+        "URL": "https://sites.google.com/view/autisticartists/home",
+        "Status": "Working",
+        "Total Score": 39.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_28.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Hustle",
+        "URL": "https://sites.google.com/view/teamhustlewebsite/home",
+        "Status": "Working",
+        "Total Score": 34.0,
+        "Description": "Team Hustle leverages AI and sensor-integrated hardware to empower the visually impaired, transforming personal observation into a comprehensive technological solution for independent navigation.",
+        "Screenshot": "thumbnails/site_65.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "A Team Without Name",
+        "URL": "https://sites.google.com/view/ateamwithoutname/home?authuser=0",
+        "Status": "Working",
+        "Total Score": 34.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_29.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Elite 8",
+        "URL": "https://sites.google.com/view/elite-8/home",
+        "Status": "Working",
+        "Total Score": 33.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_27.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Toman",
+        "URL": "https://sites.google.com/view/travaid/home?authuser=0",
+        "Status": "Working",
+        "Total Score": 32.0,
+        "Description": "TravelAid transforms the common anxieties of travel into a tangible safety net by grounding its emergency kit solution in authentic user journey mapping.",
+        "Screenshot": "thumbnails/site_47.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Team Delegants",
+        "URL": "https://sites.google.com/view/teamdelegants/home",
+        "Status": "Working",
+        "Total Score": 32.0,
+        "Description": "Driven by their own lived experiences, this team utilized structured design thinking to create a career guidance platform that helps students navigate beyond traditional academic pressures toward their true passions.",
+        "Screenshot": "thumbnails/site_51.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Red Hurricane",
+        "URL": "https://sites.google.com/view/red-hurricane/home",
+        "Status": "Working",
+        "Total Score": 31.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_2.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Hermeneutics",
+        "URL": "https://sites.google.com/view/re-discover-reading/experience",
+        "Status": "Working",
+        "Total Score": 28.0,
+        "Description": "Re-discover Reading breathes new life into stagnant personal libraries by creating a community-driven platform for local book redistribution and accessibility.",
+        "Screenshot": "thumbnails/site_53.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "KANYA RAASI",
+        "URL": "https://sites.google.com/view/swishwish/home",
+        "Status": "Working",
+        "Total Score": 28.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_30.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "INSANE",
+        "URL": "https://sites.google.com/view/no-food-waste/home",
+        "Status": "Working",
+        "Total Score": 27.0,
+        "Description": "A creative Design Thinking project.",
+        "Screenshot": "thumbnails/site_36.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Poseiden",
+        "URL": "https://sites.google.com/view/poseiden/home",
+        "Status": "Working",
+        "Total Score": 26.0,
+        "Description": "A data-driven exploration into the systemic failures of waste management in India, using root-cause analysis to bridge the gap between public awareness and sustainable action.",
+        "Screenshot": "thumbnails/site_56.jpg"
+    }
+];
