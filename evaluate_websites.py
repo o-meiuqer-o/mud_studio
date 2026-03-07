@@ -8,7 +8,7 @@ import json
 
 # PLACE YOUR FREE GEMINI API KEY HERE
 # Get it for free at: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY = "AIzaSyDEekI9WnmhfEeEudg5oH7r4IHA5d_jWbs"
+GEMINI_API_KEY = "Api key"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
