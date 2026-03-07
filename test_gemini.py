@@ -2,7 +2,7 @@ import asyncio
 import google.generativeai as genai
 import json
 
-GEMINI_API_KEY = "AIzaSyDEekI9WnmhfEeEudg5oH7r4IHA5d_jWbs"
+GEMINI_API_KEY = "api key"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-flash-latest')
 
