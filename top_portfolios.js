@@ -10,6 +10,15 @@ const topPortfolios = [
     },
     {
         "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "NOVA",
+        "URL": "https://sites.google.com/view/teamnova-dt",
+        "Status": "Working",
+        "Total Score": 42.0,
+        "Description": "The project, DeclutterHub, aims to revolutionize waste management by creating a community-driven platform that connects individuals with resources for decluttering household waste.",
+        "Screenshot": "thumbnails/site_222.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
         "Title/Team": "SolveX",
         "URL": "https://sites.google.com/view/solvexdesignthinking/about-us?authuser=1",
         "Status": "Working",
@@ -28,6 +37,24 @@ const topPortfolios = [
     },
     {
         "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "The Think Tank",
+        "URL": "https://sites.google.com/view/unhygienic-food-in-hyderabad/home",
+        "Status": "Working",
+        "Total Score": 40.0,
+        "Description": "This project addresses the critical issue of unhygienic food practices in Hyderabad, aiming to enhance food safety through innovative solutions and community engagement.",
+        "Screenshot": "thumbnails/site_304.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Lumos",
+        "URL": "https://sites.google.com/view/teamlumos/home",
+        "Status": "Working",
+        "Total Score": 40.0,
+        "Description": "Team Lumos addresses the critical mental health challenges faced by medical students in Hyderabad through a comprehensive design thinking approach.",
+        "Screenshot": "thumbnails/site_296.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
         "Title/Team": "UXplore",
         "URL": "https://sites.google.com/view/medireturn?usp=sharing",
         "Status": "Working",
@@ -36,13 +63,40 @@ const topPortfolios = [
         "Screenshot": "thumbnails/site_216.jpg"
     },
     {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "SMARTKLIP",
-        "URL": "https://sites.google.com/view/smartklip-in/home?authuser=0",
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Elite crew",
+        "URL": "https://sites.google.com/view/elitecrew06/user-understanding",
         "Status": "Working",
         "Total Score": 38.0,
-        "Description": "This project aims to enhance pedestrian safety in India through innovative solutions and community engagement.",
-        "Screenshot": "thumbnails/site_169.jpg"
+        "Description": "This project effectively addresses the urgent need for environmental protection and community engagement at the University of Hyderabad, fostering a sustainable future.",
+        "Screenshot": "thumbnails/site_308.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Maestros",
+        "URL": "https://sites.google.com/view/maestros-team/home",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "This project addresses the critical issue of early academic pressure on students, advocating for a balanced approach to education that prioritizes emotional well-being.",
+        "Screenshot": "thumbnails/site_298.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Team Spectra",
+        "URL": "https://sites.google.com/view/know-to-grow/home",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "This project empowers parents with essential knowledge and tools to recognize and address learning disabilities early, fostering a supportive environment for children.",
+        "Screenshot": "thumbnails/site_228.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "FAMOUS FIVE+1",
+        "URL": "https://sites.google.com/view/vastra-dt/home",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "Vastra.com aims to revitalize the handloom industry by creating a vibrant marketplace that connects artisans with consumers, preserving cultural heritage while promoting sustainable practices.",
+        "Screenshot": "thumbnails/site_309.jpg"
     },
     {
         "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
@@ -55,12 +109,48 @@ const topPortfolios = [
     },
     {
         "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
+        "Title/Team": "SMARTKLIP",
+        "URL": "https://sites.google.com/view/smartklip-in/home?authuser=0",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "This project aims to enhance pedestrian safety in India through innovative solutions and community engagement.",
+        "Screenshot": "thumbnails/site_169.jpg"
+    },
+    {
+        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
+        "Title/Team": "TECH-SOL",
+        "URL": "https://blindfoldfortheblind.wordpress.com",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "BlindFold aims to empower visually impaired individuals by addressing their mobility challenges through innovative solutions.",
+        "Screenshot": "thumbnails/site_119.jpg"
+    },
+    {
+        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
         "Title/Team": "Team 34",
         "URL": "https://sites.google.com/view/dt-team-34/home",
         "Status": "Working",
         "Total Score": 38.0,
         "Description": "The Community Fridges project aims to tackle food insecurity in India by innovating sustainable solutions for community fridges, ensuring accessibility and quality of food.",
         "Screenshot": "thumbnails/site_138.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "TRIPLE D",
+        "URL": "https://sites.google.com/view/spendwisee/home",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "SpendWise aims to alleviate the financial stress of urban middle-class families in India by providing smart, AI-powered insights for better expense management.",
+        "Screenshot": "thumbnails/site_273.jpg"
+    },
+    {
+        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
+        "Title/Team": "Wandering minds ",
+        "URL": "https://sites.google.com/view/medxpiry/home",
+        "Status": "Working",
+        "Total Score": 38.0,
+        "Description": "MedXpiry aims to revolutionize medication management by providing a user-friendly app that alerts individuals about expiring medications, ensuring safety and efficacy.",
+        "Screenshot": "thumbnails/site_145.jpg"
     },
     {
         "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
@@ -81,13 +171,13 @@ const topPortfolios = [
         "Screenshot": "thumbnails/site_92.jpg"
     },
     {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "TECH-SOL",
-        "URL": "https://blindfoldfortheblind.wordpress.com",
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Deus ex machina",
+        "URL": "https://sites.google.com/view/deus-ex-machina-2025/home",
         "Status": "Working",
         "Total Score": 38.0,
-        "Description": "BlindFold aims to empower visually impaired individuals by addressing their mobility challenges through innovative solutions.",
-        "Screenshot": "thumbnails/site_119.jpg"
+        "Description": "The Living Room Project creatively addresses the pervasive issue of loneliness among hostellers by fostering vibrant community interactions.",
+        "Screenshot": "thumbnails/site_221.jpg"
     },
     {
         "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
@@ -99,13 +189,31 @@ const topPortfolios = [
         "Screenshot": "thumbnails/site_170.jpg"
     },
     {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "Wandering minds ",
-        "URL": "https://sites.google.com/view/medxpiry/home",
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "MAFIA",
+        "URL": "https://sites.google.com/view/mafia-dt6/home",
         "Status": "Working",
         "Total Score": 38.0,
-        "Description": "MedXpiry aims to revolutionize medication management by providing a user-friendly app that alerts individuals about expiring medications, ensuring safety and efficacy.",
-        "Screenshot": "thumbnails/site_145.jpg"
+        "Description": "This project tackles the critical issue of misinformation in the digital age by empowering users with tools and knowledge to discern fact from fiction.",
+        "Screenshot": "thumbnails/site_231.jpg"
+    },
+    {
+        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
+        "Title/Team": "Deeziner Nuts",
+        "URL": "https://sites.google.com/view/velgo/home",
+        "Status": "Working",
+        "Total Score": 37.0,
+        "Description": "The ALZO project aims to revolutionize early Alzheimer's detection through a machine learning application, enhancing the lives of patients and their families.",
+        "Screenshot": "thumbnails/site_84.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "ABCD",
+        "URL": "https://sites.google.com/view/abcdwebsitefordtl/about-us?authuser=0",
+        "Status": "Working",
+        "Total Score": 37.0,
+        "Description": "This project addresses the critical issue of cyberbullying among teenagers in Telangana, aiming to empower them with knowledge and tools to combat online harassment.",
+        "Screenshot": "thumbnails/site_239.jpg"
     },
     {
         "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
@@ -118,21 +226,21 @@ const topPortfolios = [
     },
     {
         "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "Deeziner Nuts",
-        "URL": "https://sites.google.com/view/velgo/home",
-        "Status": "Working",
-        "Total Score": 37.0,
-        "Description": "The ALZO project aims to revolutionize early Alzheimer's detection through a machine learning application, enhancing the lives of patients and their families.",
-        "Screenshot": "thumbnails/site_84.jpg"
-    },
-    {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
         "Title/Team": "Coco Melon",
         "URL": "https://sites.google.com/view/cocomelonmehy/home?authuser=1",
         "Status": "Working",
         "Total Score": 37.0,
         "Description": "This project aims to enhance mental health awareness and provide practical solutions through an engaging handbook.",
         "Screenshot": "thumbnails/site_6.jpg"
+    },
+    {
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "Epitome Thinkers ",
+        "URL": "https://sites.google.com/view/smartstreetshyd-com",
+        "Status": "Working",
+        "Total Score": 37.0,
+        "Description": "This project aims to transform Hyderabad's urban landscape by prioritizing pedestrian safety and sustainable mobility through innovative road solutions.",
+        "Screenshot": "thumbnails/site_286.jpg"
     },
     {
         "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
@@ -144,13 +252,13 @@ const topPortfolios = [
         "Screenshot": "thumbnails/site_80.jpg"
     },
     {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "A Team Without Name",
-        "URL": "https://sites.google.com/view/ateamwithoutname/home?authuser=0",
+        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
+        "Title/Team": "No Brainers",
+        "URL": "https://sites.google.com/view/human-stray-dogs-conflicts/home",
         "Status": "Working",
-        "Total Score": 36.0,
-        "Description": "This project aims to simplify group formation by connecting individuals based on shared interests and skills, enhancing collaboration and efficiency.",
-        "Screenshot": "thumbnails/site_31.jpg"
+        "Total Score": 37.0,
+        "Description": "This project addresses the critical issue of human-stray dog conflicts in urban spaces through innovative management strategies.",
+        "Screenshot": "thumbnails/site_291.jpg"
     },
     {
         "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
@@ -160,113 +268,5 @@ const topPortfolios = [
         "Total Score": 36.0,
         "Description": "The project aims to enhance mobility for the elderly by creating an adjustable walking stick that addresses common challenges faced by older adults.",
         "Screenshot": "thumbnails/site_87.jpg"
-    },
-    {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "Ligma",
-        "URL": "https://sites.google.com/view/team-ligma/home",
-        "Status": "Working",
-        "Total Score": 36.0,
-        "Description": "The project effectively addresses the challenge of providing a convenient and organized laundry solution for hostel residents.",
-        "Screenshot": "thumbnails/site_81.jpg"
-    },
-    {
-        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
-        "Title/Team": "The Sixth Sense",
-        "URL": "https://sites.google.com/view/leftunturned/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "This project highlights the challenges faced by left-handed individuals and seeks to foster inclusivity through innovative design solutions.",
-        "Screenshot": "thumbnails/site_189.jpg"
-    },
-    {
-        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
-        "Title/Team": "Strom beakers ",
-        "URL": "https://sites.google.com/view/unveilingfarmercrisis/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "This project addresses the critical issue of farmer suicides in Telugu states by exploring root causes and proposing empathetic, innovative solutions.",
-        "Screenshot": "thumbnails/site_202.jpg"
-    },
-    {
-        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
-        "Title/Team": "Brainwave Storms",
-        "URL": "https://sites.google.com/view/brainwavestorms/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "Brainwave Transport addresses the critical challenges of student commuting by leveraging user insights to propose innovative transportation solutions.",
-        "Screenshot": "thumbnails/site_200.jpg"
-    },
-    {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "Spectaculars",
-        "URL": "https://sites.google.com/view/team-spectaculars/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "The project aims to enhance road safety through innovative solutions like a driver evaluation app and smart reflective stickers.",
-        "Screenshot": "thumbnails/site_7.jpg"
-    },
-    {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "The Avalanche",
-        "URL": "https://sites.google.com/view/theavalanche/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "The Senior Connection project aims to empower elderly individuals by providing innovative solutions for easier luggage transport at railway stations.",
-        "Screenshot": "thumbnails/site_151.jpg"
-    },
-    {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "AJUDA",
-        "URL": "https://sites.google.com/view/ajuda-stress/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "Team AJUDA tackles the pressing issue of student stress at Mahindra University through a structured design thinking approach.",
-        "Screenshot": "thumbnails/site_134.jpg"
-    },
-    {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "Reignite",
-        "URL": "https://sites.google.com/view/reignite2022/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "This project aims to provide essential resources and support for young adults facing mental health challenges, fostering a community of understanding and assistance.",
-        "Screenshot": "thumbnails/site_5.jpg"
-    },
-    {
-        "File": "2022 Design Thinking 4_ Websites submission(1-118).xlsx",
-        "Title/Team": "Dholakpur",
-        "URL": "https://sites.google.com/view/techabour/home",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "The project aims to enhance the working conditions of low-skilled workers through innovative technology solutions like exosuits and AI-driven health stations.",
-        "Screenshot": "thumbnails/site_50.jpg"
-    },
-    {
-        "File": "Final Presentaion Slot booking and website submission\u00a0(1-128) (3).xlsx",
-        "Title/Team": "Cheeh Tapak",
-        "URL": "https://sites.google.com/view/silent-defenders?usp=sharing",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "The project 'Silent Defenders' aims to enhance the working conditions and overall well-being of security guards through thoughtful design and user-centered solutions.",
-        "Screenshot": "thumbnails/site_198.jpg"
-    },
-    {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "SYNTAX ",
-        "URL": "https://sites.google.com/view/ekinsyntax/blog",
-        "Status": "Working",
-        "Total Score": 35.0,
-        "Description": "Ekin bridges the gap between soil and plant deficiencies, empowering farmers with innovative solutions for better crop yields.",
-        "Screenshot": "thumbnails/site_163.jpg"
-    },
-    {
-        "File": "Design thinking 2023 - Website link submission\u00a0(1-126).xlsx",
-        "Title/Team": "Impactors",
-        "URL": "https://sites.google.com/view/aicc-agriculture-impact/home?authuser=0",
-        "Status": "Working",
-        "Total Score": 34.0,
-        "Description": "This project aims to tackle the significant impact of agricultural practices on climate change through innovative solutions and community engagement.",
-        "Screenshot": "thumbnails/site_167.jpg"
     }
 ];
